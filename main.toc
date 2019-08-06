@@ -1,0 +1,23 @@
+\contentsline {section}{Introduction}{5}% 
+\contentsline {section}{Poldek(Leopold Yehuda Maimon)}{14}% 
+\contentsline {section}{Jakub (Yaakov Missingfamilyname)}{27}% 
+\contentsline {section}{Miriam Linyal}{32}% 
+\contentsline {section}{David Geballe}{46}% 
+\contentsline {section}{Svetlana Bogojavlenska}{59}% 
+\contentsline {section}{Vitaly Liberov}{60}% 
+\contentsline {section}{Dr Axel T\IeC {\"o}llner}{65}% 
+\contentsline {section}{Dr Katja Wezel}{77}% 
+\contentsline {section}{Prof Valters Nollendorfs}{86}% 
+\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{95}% 
+\contentsline {section}{Kalevs Krelins}{101}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{108}% 
+\contentsline {section}{Dr Steffen Huber}{111}% 
+\contentsline {section}{Serhii Czupryna}{121}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{132}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{141}% 
+\contentsline {section}{Bartosz Gajdzik}{142}% 
+\contentsline {section}{Teresa Klimowicz}{150}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{151}% 
+\contentsline {section}{Dr Katrin Stoll}{158}% 
+\contentsline {section}{Maria Fornal}{172}% 
+\contentsline {section}{Contact Details}{179}% 

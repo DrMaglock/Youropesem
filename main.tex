@@ -1,0 +1,66 @@
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[gen]{eurosym}
+%information for titlepage
+\title{``When the refugees are gone, they'll come after us''\\ Experiences with Anti-Semitism in Central Europe after 1945}
+\author{The Youth of Europe Against Anti-Semitism}
+\date{}
+%numbering and table of contents
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{0}
+%footers and headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{EXPERIENCES WITH ANTI-SEMITISM IN CENTRAL EUROPE}
+\fancyhead[RO]{\rightmark}
+\fancyfoot[RO]{\thepage}
+\fancyfoot[LE]{\thepage}
+%begin document
+\begin{document}
+	\setlength{\parindent}{0pt}
+	\setlength{\parskip}{1em}
+\maketitle 
+%make more beautiful title
+%get rid of empty page
+\thispagestyle{empty}
+\tableofcontents
+% implementing the child files: rename your own files and folder according to these commands.
+%move heading upwards so the table fits on one page
+\include{./introduction}
+%shall we include the bibliography here, i.e. at the end of each section that contains citiations? Or rather at the very end of the book?
+\newpage
+\thispagestyle{empty}
+\vspace*{15em}
+ \textbf{\Huge{THE INTERVIEWS}} 
+ %further formatting needed
+\include{./Interviews/poldek}
+\include{./Interviews/jakub}
+\include{./Interviews/linyal}
+\include{./Interviews/geballe}
+\include{./Interviews/bogojavlenska}
+\include{./Interviews/liberov}
+\include{./Interviews/toellner}
+\include{./Interviews/wezel}
+\include{./Interviews/nollendorfs}
+\include{./Interviews/urbanovics}
+\include{./Interviews/krelins}
+\include{./Interviews/zajda}
+\include{./Interviews/huber}
+\include{./Interviews/czupryna} %check out this interview to see the formatting style that Meggy chose, and stick to the following agreements: (1) direct speech in double quotation marks, as well as book/film names etc. No quotation marks for organisation names (2) phrases in another language in italics, applies e.g. for Nazi terms and Hebrew terms referring to Jewish life [aliyah, kashrut,...] (3)or other words introduced with a distancing in single quotation marks (e.g. 'Zydek')
+\include{./Interviews/setkiewicz}
+\include{./Interviews/bilewicz}
+\include{./Interviews/gajdzik}
+\include{./Interviews/klimowicz}
+\include{./Interviews/ruszkowska}
+\include{./Interviews/stoll}
+\include{./Interviews/fornal}
+\include{./bibliography.bib}
+\nocite{*}
+\bibliography{bibliography}
+%bibliography is not being displayed, haven't found the mistake so far. I usually have troubles with bibliographies in Latex. //Meggy
+\newpage
+\section{Contact Details}
+If you like us, write to rafael.schuetz@gmail.com.\\ If you hate us, feel free to contact Edgars Poga.
+\end{document}
