@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  6 AUG 2019 18:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  7 AUG 2019 00:30
 entering extended mode
 **./main.tex
 (main.tex
@@ -60,24 +60,24 @@ s
 (Interviews/stoll.aux) (Interviews/fornal.aux) (bibliography.bib.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
+(Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 24.
  [1
 
 
@@ -116,14 +116,9 @@ Underfull \vbox (badness 3919) has occurred while \output is active []
 \openout2 = `./Interviews/poldek.aux'.
 
  (Interviews/poldek.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Overfull \hbox (3.526pt too wide) in paragraph at lines 9--10
-[]\T1/cmr/m/n/10 Pytanie: Jakie ma Pan pier-wsze wspom-nienia, takie na-j-cieka
-wsze, na-jpi¦kniejsze,
+Overfull \hbox (9.95776pt too wide) in paragraph at lines 7--7
+[]\T1/cmr/bx/n/10 Jakie ma Pan pier-wsze wspom-nienia, takie na-j-ciekawsze, na
+-jpi¦kniejsze,
  []
 
 
@@ -132,9 +127,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [14
 
 ]
-Overfull \hbox (1.35986pt too wide) in paragraph at lines 25--26
-[]\T1/cmr/m/n/10 Pytanie: Jak Pan wspom-ina kon-takty z mªodzie»¡ z in-nych szk
-óª, z rówie±nikami,
+Overfull \hbox (6.5086pt too wide) in paragraph at lines 15--15
+[]\T1/cmr/bx/n/10 Jak Pan wspom-ina kon-takty z mªodzie»¡ z in-nych szkóª, z ró
+wie±nikami,
+ []
+
+
+Overfull \hbox (0.24672pt too wide) in paragraph at lines 20--20
+[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Na ul-icy Grze-gorzews-kich, w pier-ws
+zym rogu. Dzisiaj tam si¦ zmieniªo,
  []
 
 
@@ -147,9 +148,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-Overfull \hbox (12.49603pt too wide) in paragraph at lines 81--82
-[]\T1/cmr/m/n/10 Pytanie: Czy spo-tykaª si¦ Pan z tym, »e cho-cia» Ko±-cióª w j
-aki± sposób, bezpo±redni
+Overfull \hbox (19.98865pt too wide) in paragraph at lines 43--43
+[]\T1/cmr/bx/n/10 Czy spo-tykaª si¦ Pan z tym, »e cho-cia» Ko±-cióª w jaki± spo
+sób, bezpo±redni
  []
 
 
@@ -162,12 +163,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
+Overfull \hbox (3.04695pt too wide) in paragraph at lines 64--64
+[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Tam nam po-ma-gali, znaczy mieli po-ma
+-ga¢ wi¦cej, ale mo»na powiedzie¢
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
+Overfull \hbox (2.8433pt too wide) in paragraph at lines 82--82
+[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Mieli±my znowu wielkie szcz¦±-cie. Uci
+ek-li±my w nocy i szli±my piechot¡,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
@@ -177,9 +190,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-Overfull \hbox (15.99518pt too wide) in paragraph at lines 249--250
-[]\T1/cmr/m/n/10 Poldek: Nie, prze-cie» an-ty-semi-tyzm jest na caªym ±wiecie, 
-tak nie mo»na powiedzie¢,
+Overfull \hbox (6.155pt too wide) in paragraph at lines 123--123
+\T1/cmr/bx/n/10 dów... My po prostu cier-pimy, »e na naszych ter-e-nach byªo Au
+schwitz,
  []
 
 ) [26]
@@ -192,39 +205,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (17.4578pt too wide) in paragraph at lines 29--30
-\T1/cmr/m/n/10 Trzeba byªo kra±¢. Ja w nocy poszedªem, wiedzi-aªem kiedy Niemie
-c ±pi, przekradªem
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-Overfull \hbox (1.57278pt too wide) in paragraph at lines 59--60
-[]\T1/cmr/m/n/10 Mo»ecie si¦ o wszys-tko za-py-ta¢, ja wam wszys-tko odpowiem. 
-Ja mam odpowiedzi
+Overfull \hbox (1.57278pt too wide) in paragraph at lines 55--57
+\T1/cmr/m/n/10 Mo»ecie si¦ o wszys-tko za-py-ta¢, ja wam wszys-tko odpowiem. Ja
+ mam odpowiedzi
  []
 
-) [31]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30])
+[31]
 \openout2 = `./Interviews/linyal.aux'.
 
  (Interviews/linyal.tex
-Overfull \hbox (11.20932pt too wide) in paragraph at lines 33--34
-[]\T1/cmr/m/n/10 Pytanie: Powiedzi-aªa Pani, »e ma Pani przy-jemne wspom-nienia
-. Prosz¦ powiedzie¢
- []
-
-
-Overfull \hbox (3.29349pt too wide) in paragraph at lines 35--36
-[]\T1/cmr/m/n/10 Miriam: O mªodo±ci, ja nie wiem. Py-taj¡ si¦, ale ja nie wiem,
- co mam powiedzie¢. 
+Overfull \hbox (19.0949pt too wide) in paragraph at lines 23--24
+[]\T1/cmr/bx/n/10 Powiedziaªa Pani, »e ma Pani przy-jemne wspom-nienia. Prosz¦ 
+powiedzie¢
  []
 
 
@@ -246,12 +248,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36]
+Overfull \hbox (11.45001pt too wide) in paragraph at lines 109--110
+\T1/cmr/m/n/10 tach, w Niem-czech. Pra-cow-aªo si¦ bardzo ci¦»ko. Jak mªode dzi
+ecinki, dziewczynki,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-Overfull \hbox (0.13794pt too wide) in paragraph at lines 163--164
-[]\T1/cmr/m/n/10 Miriam: Do baraków, ale na podªodze my±my nie mieli pryczy, ty
-lko na podªodze
+Overfull \hbox (9.67358pt too wide) in paragraph at lines 115--116
+\T1/cmr/bx/n/10 nam, »e byªy trzy grupy. Byli Niemcy, którzy byli za jakie± prz
+est¦pstwa
  []
 
 
@@ -261,9 +269,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
+Overfull \hbox (0.20876pt too wide) in paragraph at lines 173--174
+[]\T1/cmr/bx/n/10 Dlatego tak wa»ne, »e my mo»emy si¦ z Pa«st-wem spotka¢, »e m
+o»emy
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [40]
+Overfull \hbox (2.26012pt too wide) in paragraph at lines 196--197
+[]\T1/cmr/bx/n/10 Miriam: \T1/cmr/m/n/10 Ja ju» byªam. Ja ju» byªam dwa, trzy r
+azy, wyjechaªam do O±wi¦cimia. 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41]
@@ -272,26 +292,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [42]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44])
-[45]
+ [43])
+[44]
 \openout2 = `./Interviews/geballe.aux'.
 
  (Interviews/geballe.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46
+ [45
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [46]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [47]
 Overfull \hbox (12.50992pt too wide) in paragraph at lines 48--49
 []\T1/cmr/m/n/10 David Geballe: Alle Möglichkeiten der Telekom-mu-nika-tion wer
 -den da aus-geschöpft. 
@@ -312,16 +329,19 @@ r esoterisch-tierschützenden
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]
+ [48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50]
+ [49]
 Overfull \hbox (7.12234pt too wide) in paragraph at lines 80--81
 []\T1/cmr/m/n/10 David Geballe: Es gibt jedes Jahr einen Haupt-sprecher von ver
 -schiede-nen Quellen,
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
@@ -339,36 +359,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [57])
-[58]
+ [56])
+[57]
 \openout2 = `./Interviews/bogojavlenska.aux'.
 
- (Interviews/bogojavlenska.tex) [59
+ (Interviews/bogojavlenska.tex) [58
 
 
 ]
 \openout2 = `./Interviews/liberov.aux'.
 
- (Interviews/liberov.tex [60
+ (Interviews/liberov.tex [59
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
+ [60]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62])
+ [61])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63]
-[64]
+ [62]
+[63]
 \openout2 = `./Interviews/toellner.aux'.
 
  (Interviews/toellner.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -378,14 +401,7 @@ Make it at least 12.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[65
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [66]
-[67]
+[65] [66]
 Overfull \hbox (10.19104pt too wide) in paragraph at lines 34--35
 []\T1/cmr/m/n/10 Zumindest in Mit-tel-franken war ja die evan-ge-lis-che Kirche
  schon ziem-lich frühzeitig
@@ -400,13 +416,13 @@ g-en-den  Geschichte,
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [70]
 Overfull \hbox (1.30432pt too wide) in paragraph at lines 75--76
 []\T1/cmr/m/n/10 Inwiefern gibt es eigentlich noch die ganz ar-chais-chen, an-t
 i-semi-tis-chen Vorurteile,
@@ -415,13 +431,13 @@ i-semi-tis-chen Vorurteile,
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [73]
 Overfull \hbox (4.76645pt too wide) in paragraph at lines 121--123
 \T1/cmr/m/n/10 einem na-tion-al-protes-tantis-chen An-ti-semiten gesprochen. Da
  fühlte sich wiederum
@@ -430,20 +446,23 @@ Overfull \hbox (4.76645pt too wide) in paragraph at lines 121--123
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74])
+ [73])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75]
-[76]
+ [74]
+[75]
 \openout2 = `./Interviews/wezel.aux'.
 
  (Interviews/wezel.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77
+ [76
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [78]
@@ -456,9 +475,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [82]
 Overfull \hbox (3.77594pt too wide) in paragraph at lines 56--57
 []\T1/cmr/m/n/10 Wurde das dann auf alle Ju-den pauschal-isiert, dass sie bürg-
 er-lich und wohlhabend
@@ -467,34 +483,34 @@ er-lich und wohlhabend
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [82]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84])
-[85]
+ [83])
+[84]
 \openout2 = `./Interviews/nollendorfs.aux'.
 
  (Interviews/nollendorfs.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [86
+ [85
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
-[88] [89]
+ [86]
+[87] [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [90]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92]
-[93]) [94]
+[92]) [93]
 \openout2 = `./Interviews/urbanovics.aux'.
 
  (Interviews/urbanovics.tex
@@ -517,13 +533,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--22
 
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (12.51453pt): 
-Make it at least 12.81606pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[95
+[94
 
 
 ]
@@ -535,7 +545,14 @@ ery-thing is smaller.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96]
+
+
+Package Fancyhdr Warning: \headheight is too small (12.51453pt): 
+Make it at least 12.81606pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[95]
 Overfull \hbox (3.526pt too wide) in paragraph at lines 65--66
 []\T1/cmr/m/n/10 Do the Jew-ish com-mu-nity or Is-raeli diplo-mats com-plain a 
 lot about anti-Semitism
@@ -544,23 +561,26 @@ lot about anti-Semitism
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [96]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [97]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [99])
-[100]
+ [98])
+[99]
 \openout2 = `./Interviews/krelins.aux'.
 
  (Interviews/krelins.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101
+ [100
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [102]
@@ -572,45 +592,45 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [104]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [106])
-[107]
+ [105])
+[106]
 \openout2 = `./Interviews/zajda.aux'.
 
  (Interviews/zajda.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108
+ [107
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [109])
-[110]
+ [108])
+[109]
 \openout2 = `./Interviews/huber.aux'.
 
  (Interviews/huber.tex
 Underfull \vbox (badness 1478) has occurred while \output is active []
 
- [111
+ [110
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [112]
+ [111]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [113]
+ [112]
 Overfull \hbox (1.33209pt too wide) in paragraph at lines 48--49
 []\T1/cmr/m/n/10 But these new dis-courses, they are di-rected against dif-fer-
 ent groups, like refugees,
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [114]
@@ -625,17 +645,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [117]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [119])
-[120]
+ [118])
+[119]
 \openout2 = `./Interviews/czupryna.aux'.
 
  (Interviews/czupryna.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121
+ [120
 
 
 ]
@@ -645,6 +662,9 @@ evel, mostly?
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [122]
@@ -668,10 +688,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [128]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [129]
+ [129])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [130])
+ [130]
 [131]
 \openout2 = `./Interviews/setkiewicz.aux'.
 
@@ -837,9 +857,9 @@ Here is how much of TeX's memory you used:
  28i,12n,43p,9521b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dr. Maglock\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Dr. 
-Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\
+Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dr. 
+Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk
 > <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
 i600\ecti0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
 r/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.
@@ -853,9 +873,9 @@ ur/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
 a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dr
 . Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.
 pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (179 pages, 722905 bytes).
+Output written on main.pdf (179 pages, 728408 bytes).
 PDF statistics:
- 1186 PDF objects out of 1200 (max. 8388607)
+ 1195 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
