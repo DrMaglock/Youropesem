@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  7 AUG 2019 00:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  7 AUG 2019 08:20
 entering extended mode
 **./main.tex
 (main.tex
@@ -309,21 +309,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47]
-Overfull \hbox (12.50992pt too wide) in paragraph at lines 48--49
-[]\T1/cmr/m/n/10 David Geballe: Alle Möglichkeiten der Telekom-mu-nika-tion wer
--den da aus-geschöpft. 
- []
-
-
-Overfull \hbox (5.46072pt too wide) in paragraph at lines 52--53
+Overfull \hbox (5.46072pt too wide) in paragraph at lines 49--50
 \T1/cmr/m/n/10 Arten von Kom-mentaren. Ein-mal die mus-lim-isch geprägten, die 
 de-mentsprechend
- []
-
-
-Overfull \hbox (23.77106pt too wide) in paragraph at lines 54--55
-[]\T1/cmr/m/n/10 Wie sieht es mit an-ti-semi-tis-chen Äuÿerun-gen von einer ehe
-r esoterisch-tierschützenden
  []
 
 
@@ -333,21 +321,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49]
-Overfull \hbox (7.12234pt too wide) in paragraph at lines 80--81
-[]\T1/cmr/m/n/10 David Geballe: Es gibt jedes Jahr einen Haupt-sprecher von ver
--schiede-nen Quellen,
+Overfull \hbox (3.44269pt too wide) in paragraph at lines 69--70
+\T1/cmr/m/n/10 Klien-tel ist ein ganz an-deres, das muss natür-lich auch de-men
+tsprechend angepasst
+ []
+
+
+Overfull \hbox (10.99779pt too wide) in paragraph at lines 71--72
+\T1/cmr/bx/n/10 mein per-sön-licher Ein-druck war, dass das Ver-hält-nis zwis-c
+hen deutschen
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
+Overfull \hbox (7.52225pt too wide) in paragraph at lines 75--76
+[]\T1/cmr/bx/n/10 Was genau wird am Helene-Lange-Gymnasium an diesem Tag gemach
+t? 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (4.07912pt too wide) in paragraph at lines 91--92
+\T1/cmr/bx/n/10 das Wis-sen war wirk-lich gle-ich Null, also er-schreck-end sch
+wach. Haben
+ []
 
- [52]
+[52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53]
@@ -357,10 +360,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [55]
+Overfull \hbox (14.58025pt too wide) in paragraph at lines 154--155
+[]\T1/cmr/bx/n/10 Werden die an-ti-semi-tis-chen An-griffe, die sie miter-leben
+, gegen Gemeinde
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56])
-[57]
+ [56]
+Overfull \hbox (19.93727pt too wide) in paragraph at lines 166--167
+[]\T1/cmr/bx/n/10 Würden Sie den spon-ta-nen An-ti-semitismus nur Leuten, die a
+ls Flüchtlinge
+ []
+
+) [57]
 \openout2 = `./Interviews/bogojavlenska.aux'.
 
  (Interviews/bogojavlenska.tex) [58
@@ -378,10 +392,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [60]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61])
+ [61]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
+ [62])
 [63]
 \openout2 = `./Interviews/toellner.aux'.
 
@@ -402,18 +416,6 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [65] [66]
-Overfull \hbox (10.19104pt too wide) in paragraph at lines 34--35
-[]\T1/cmr/m/n/10 Zumindest in Mit-tel-franken war ja die evan-ge-lis-che Kirche
- schon ziem-lich frühzeitig
- []
-
-
-Overfull \hbox (2.45682pt too wide) in paragraph at lines 36--39
-\T1/cmr/m/n/10 Man kön-nte vielle-icht sagen, dass im katholis-chen Bere-ich Le
-g-en-den  Geschichte,
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
@@ -423,30 +425,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-Overfull \hbox (1.30432pt too wide) in paragraph at lines 75--76
-[]\T1/cmr/m/n/10 Inwiefern gibt es eigentlich noch die ganz ar-chais-chen, an-t
-i-semi-tis-chen Vorurteile,
+Overfull \hbox (5.71031pt too wide) in paragraph at lines 58--59
+\T1/cmr/bx/n/10 aufgenom-men mit Nach-fahren der Ju-den, die jetzt in den USA w
+ohnen,
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [70]
+Overfull \hbox (1.67784pt too wide) in paragraph at lines 67--68
+[]\T1/cmr/bx/n/10 Jetzt ist ja zum Glück ein di-rek-ter, of-fener An-ti-semitis
+mus in Deutsch-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72]
-Overfull \hbox (4.76645pt too wide) in paragraph at lines 121--123
-\T1/cmr/m/n/10 einem na-tion-al-protes-tantis-chen An-ti-semiten gesprochen. Da
- fühlte sich wiederum
+[73]
+Overfull \hbox (2.04025pt too wide) in paragraph at lines 97--98
+[]\T1/cmr/bx/n/10 Axel Töll-ner: \T1/cmr/m/n/10 Ja, und das Prob-lem ist, je in
+-ten-siver man sich damit beschäftigt,
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [73])
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [74]
@@ -850,14 +856,14 @@ No file ./bibliography.bib.tex.
 Here is how much of TeX's memory you used:
  891 strings out of 492895
  14705 string characters out of 3133460
- 158695 words of memory out of 3000000
+ 158712 words of memory out of 3000000
  4684 multiletter control sequences out of 15000+200000
  18566 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,12n,43p,9521b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\
+/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. Maglock\AppData\
 Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dr. 
 Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk
 > <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
@@ -873,9 +879,9 @@ ur/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
 a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dr
 . Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.
 pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (179 pages, 728408 bytes).
+Output written on main.pdf (179 pages, 746117 bytes).
 PDF statistics:
- 1195 PDF objects out of 1200 (max. 8388607)
+ 1233 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
