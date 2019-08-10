@@ -1,23 +1,47 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{5}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Poldek (Leopold Yehuda Maimon)}{14}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Jakub (Yaakov ??)}{27}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Miriam Linyal}{32}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{David Geballe}{45}% 
-\contentsline {section}{Svetlana Bogojavlenska}{58}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dr Svetlana Bogojavlenska}{58}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Vitaly Liberov}{59}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Axel T\IeC {\"o}llner}{64}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Katja Wezel}{76}% 
-\contentsline {section}{Prof Valters Nollendorfs}{85}% 
-\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{94}% 
-\contentsline {section}{Kalevs Krelins}{100}% 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{107}% 
-\contentsline {section}{Dr Steffen Huber}{110}% 
-\contentsline {section}{Serhii Czupryna}{120}% 
-\contentsline {section}{Dr Piotr Setkiewicz}{132}% 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{141}% 
-\contentsline {section}{Bartosz Gajdzik}{142}% 
-\contentsline {section}{Teresa Klimowicz}{150}% 
-\contentsline {section}{Dr Sonia Ruszkowska}{151}% 
-\contentsline {section}{Dr Katrin Stoll}{158}% 
-\contentsline {section}{Maria Fornal}{172}% 
-\contentsline {section}{Contact Details}{179}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Valters Nollendorfs}{86}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{96}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kalevs Krelins}{103}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{110}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dr Steffen Huber}{113}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Serhii Czupryna}{122}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dr Piotr Setkiewicz}{134}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{143}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Bartosz Gajdzik}{144}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Teresa Klimowicz}{152}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dr Sonia Ruszkowska}{153}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dr Katrin Stoll}{160}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Maria Fornal}{174}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Contact Details}{181}% 

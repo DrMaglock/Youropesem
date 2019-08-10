@@ -2,6 +2,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
+\usepackage{biblatex}
+\addbibresource{./bibliography.bib}
 %information for titlepage
 \title{``When the refugees are gone, they'll come after us''\\ Experiences with Anti-Semitism in Central Europe after 1945}
 \author{The Youth of Europe Against Anti-Semitism}
@@ -56,10 +58,9 @@
 \include{./Interviews/ruszkowska}
 \include{./Interviews/stoll}
 \include{./Interviews/fornal}
-\include{./bibliography.bib}
 \nocite{*}
-\bibliography{bibliography}
-%bibliography is not being displayed, haven't found the mistake so far. I usually have troubles with bibliographies in Latex. //Meggy
+\printbibliography
+%having troubles with the bibfile, don't know why yet
 \newpage
 \section{Contact Details}
 If you like us, write to rafael.schuetz@gmail.com.\\ If you hate us, feel free to contact Edgars Poga.

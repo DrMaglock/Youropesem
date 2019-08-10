@@ -21,7 +21,7 @@ A level-1 auxiliary file: ./Interviews/klimowicz.aux
 A level-1 auxiliary file: ./Interviews/ruszkowska.aux
 A level-1 auxiliary file: ./Interviews/stoll.aux
 A level-1 auxiliary file: ./Interviews/fornal.aux
-A level-1 auxiliary file: ./bibliography.bib.aux
 I found no \citation commands---while reading file main.aux
+I found no \bibdata command---while reading file main.aux
 I found no \bibstyle command---while reading file main.aux
-(There were 2 error messages)
+(There were 3 error messages)
