@@ -3,7 +3,8 @@
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
 \usepackage{biblatex}
-\addbibresource{./bibliography.bib}
+\usepackage{xcolor}
+%\addbibresource{./bibliography.bib} something wrong with this fucking bibliography
 %information for titlepage
 \title{``When the refugees are gone, they'll come after us''\\ Experiences with Anti-Semitism in Central Europe after 1945}
 \author{The Youth of Europe Against Anti-Semitism}
@@ -19,6 +20,7 @@
 \fancyhead[RO]{\rightmark}
 \fancyfoot[RO]{\thepage}
 \fancyfoot[LE]{\thepage}
+\DeclareUnicodeCharacter{202F}{FIX ME!!}
 %begin document
 \begin{document}
 	\setlength{\parindent}{0pt}
@@ -59,7 +61,7 @@
 \include{./Interviews/stoll}
 \include{./Interviews/fornal}
 \nocite{*}
-\printbibliography
+%\printbibliography
 %having troubles with the bibfile, don't know why yet
 \newpage
 \section{Contact Details}
