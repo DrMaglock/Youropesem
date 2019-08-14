@@ -1,4 +1,5 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{5}% 
 \defcounter {refsection}{0}\relax 
@@ -12,36 +13,36 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Svetlana Bogojavlenska}{59}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitaly Liberov}{60}% 
+\contentsline {section}{Vitaly Liberov}{78}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Axel T\IeC {\"o}llner}{65}% 
+\contentsline {section}{Dr Axel T\IeC {\"o}llner}{83}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katja Wezel}{77}% 
+\contentsline {section}{Dr Katja Wezel}{95}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Valters Nollendorfs}{87}% 
+\contentsline {section}{Valters Nollendorfs}{105}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{97}% 
+\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{114}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{104}% 
+\contentsline {section}{Kalevs Krelins}{121}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{111}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{128}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{114}% 
+\contentsline {section}{Dr Steffen Huber}{131}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{123}% 
+\contentsline {section}{Serhii Czupryna}{140}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{135}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{151}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{144}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{160}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{159}% 
+\contentsline {section}{Bartosz Gajdzik}{174}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{167}% 
+\contentsline {section}{Teresa Klimowicz}{182}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{168}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{183}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{175}% 
+\contentsline {section}{Dr Katrin Stoll}{190}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{189}% 
+\contentsline {section}{Maria Fornal}{204}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Contact Details}{196}% 
+\contentsline {section}{Contact Details}{211}% 
