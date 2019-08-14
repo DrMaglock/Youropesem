@@ -1,11 +1,10 @@
 \documentclass{book}
 \usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
 \usepackage{biblatex}
 \usepackage{xcolor}
-%\addbibresource{./bibliography.bib} something wrong with this fucking bibliography
+\addbibresource{./bibliography.bib} %something wrong with this fucking bibliography
 %information for titlepage
 \title{``When the refugees are gone, they'll come after us''\\ Experiences with Anti-Semitism in Central Europe after 1945}
 \author{The Youth of Europe Against Anti-Semitism}
@@ -21,7 +20,7 @@
 \fancyhead[RO]{\rightmark}
 \fancyfoot[RO]{\thepage}
 \fancyfoot[LE]{\thepage}
-\DeclareUnicodeCharacter{202F}{FIX ME!!}
+%\DeclareUnicodeCharacter{202F}{FIX ME!!}
 %begin document
 \begin{document}
 	\setlength{\parindent}{0pt}
@@ -50,10 +49,11 @@
 \include{./Interviews/wezel}
 \include{./Interviews/nollendorfs}
 \include{./Interviews/urbanovics}
+\include{./Interviews/runce} %check whether this is the correct place
 \include{./Interviews/krelins}
 \include{./Interviews/zajda}
 \include{./Interviews/huber}
-\include{./Interviews/czupryna} %check out this interview to see the formatting style that Meggy chose, and stick to the following agreements: (1) direct speech in double quotation marks, as well as book/film names etc. No quotation marks for organisation names (2) phrases in another language in italics, applies e.g. for Nazi terms and Hebrew terms referring to Jewish life [aliyah, kashrut,...]. Put all newspaper names in italics! (3)Technical term or other words introduced with a distancing in single quotation marks (e.g. 'Zydek')
+\include{./Interviews/czupryna} %check out this interview to see the formatting style that Meggy chose, and stick to the following agreements: (1) direct speech/quotatiions and technical or pejorative terms in double quotation marks, as well as book/film names etc. No quotation marks for organisation names (2) phrases in another language in italics, applies e.g. for Nazi terms and Hebrew terms referring to Jewish life [aliyah, kashrut,...]. Put all newspaper names in italics!
 \include{./Interviews/setkiewicz}
 \include{./Interviews/bilewicz}
 \include{./Interviews/gajdzik}
@@ -62,9 +62,5 @@
 \include{./Interviews/stoll}
 \include{./Interviews/fornal}
 \nocite{*}
-%\printbibliography
-%having troubles with the bibfile, don't know why yet
-\newpage
-\section{Contact Details}
-If you like us, write to rafael.schuetz@gmail.com.\\ If you hate us, feel free to contact Edgars Poga.
+\printbibliography
 \end{document}

@@ -1,0 +1,920 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AntiDefamationLeague.}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{title}
+      \field{title}{Anti-Defamation League Global 100 Survey}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://global100.adl.org/
+      \endverb
+      \verb{url}
+      \verb https://global100.adl.org/
+      \endverb
+      \warn{\item Entry 'AntiDefamationLeague.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Beyer.2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8920983e157b972f10e99e82a6b8c8dc}{%
+           family={Beyer},
+           familyi={B\bibinitperiod},
+           given={Heiko},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8920983e157b972f10e99e82a6b8c8dc}
+      \strng{fullhash}{8920983e157b972f10e99e82a6b8c8dc}
+      \strng{bibnamehash}{8920983e157b972f10e99e82a6b8c8dc}
+      \strng{authorbibnamehash}{8920983e157b972f10e99e82a6b8c8dc}
+      \strng{authornamehash}{8920983e157b972f10e99e82a6b8c8dc}
+      \strng{authorfullhash}{8920983e157b972f10e99e82a6b8c8dc}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{K{ö}lner Zeitschrift f{ü}r Soziologie und Sozialpsychologie}
+      \field{number}{67}
+      \field{title}{Theorien der Antisemitismusforschung: Eine Systematisierung}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{573\bibrangedash 589}
+      \range{pages}{17}
+    \endentry
+    \entry{Bolin.2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0573f23fc82b7524a828eaecd4a2a4e8}{%
+           family={Bolin},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Huddinge}%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {S{ö}dert{ö}rns H{ö}gskola}%
+      }
+      \strng{namehash}{0573f23fc82b7524a828eaecd4a2a4e8}
+      \strng{fullhash}{0573f23fc82b7524a828eaecd4a2a4e8}
+      \strng{bibnamehash}{0573f23fc82b7524a828eaecd4a2a4e8}
+      \strng{authorbibnamehash}{0573f23fc82b7524a828eaecd4a2a4e8}
+      \strng{authornamehash}{0573f23fc82b7524a828eaecd4a2a4e8}
+      \strng{authorfullhash}{0573f23fc82b7524a828eaecd4a2a4e8}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Between National and Academic Agendas: Ethnic Policies and `National Disciplines' at the University of Latvia, 1919-1940}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.diva-portal.org/smash/get/diva2:558439/FULLTEXT01.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.diva-portal.org/smash/get/diva2:558439/FULLTEXT01.pdf
+      \endverb
+      \warn{\item Entry 'Bolin.2012' (./bibliography.bib): Invalid format '24.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Bourdieu.1980}{article}{}
+      \name{author}{1}{}{%
+        {{hash=66fa13ccac127aceaa40508629646509}{%
+           family={Bourdieu},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{66fa13ccac127aceaa40508629646509}
+      \strng{fullhash}{66fa13ccac127aceaa40508629646509}
+      \strng{bibnamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authorbibnamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authornamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authorfullhash}{66fa13ccac127aceaa40508629646509}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Actes de la recherche en sciences sociales}
+      \field{title}{L'identit{é} et la repr{é}sentation}
+      \field{volume}{35}
+      \field{year}{1980}
+      \true{nocite}
+      \field{pages}{63\bibrangedash 72}
+      \range{pages}{10}
+    \endentry
+    \entry{EuropeanCommissionagainstRacismandIntolerance.05.03.2019}{misc}{}
+      \list{institution}{1}{%
+        {European Commission against Racism and Intolerance}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{ECRI Report on Latvia: (fifth monitoring cycle): Adopted on 4 December 2018}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://rm.coe.int/fifth-report-on-latvia/1680934a9f
+      \endverb
+      \verb{url}
+      \verb https://rm.coe.int/fifth-report-on-latvia/1680934a9f
+      \endverb
+      \warn{\item Entry 'EuropeanCommissionagainstRacismandIntolerance.05.03.2019' (./bibliography.bib): Invalid format '05.03.2019' of date field 'date' - ignoring}
+      \warn{\item Entry 'EuropeanCommissionagainstRacismandIntolerance.05.03.2019' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{EuropeanUnionAgencyforFundamentalRights.2019}{misc}{}
+      \list{institution}{1}{%
+        {European Union Agency for Fundamental Rights}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{Experiences and perceptions of anti-Semitism: Second survey on discrimination and hate crime against Jews in the EU}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://fra.europa.eu/en/publication/2018/2nd-survey-discrimination-hate-crime-against-jews
+      \endverb
+      \verb{url}
+      \verb https://fra.europa.eu/en/publication/2018/2nd-survey-discrimination-hate-crime-against-jews
+      \endverb
+      \warn{\item Entry 'EuropeanUnionAgencyforFundamentalRights.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{.12.06.2019}{article}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Baltic News Network}
+      \field{title}{For Latvia Jewish property restitution, 40-million- euro compensation proposed}
+      \field{year}{12.06.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://bnn-news.com/to-compensate-jews-for-property-confiscated-in-occupied-latvia-40-million-euro-compensation-proposed-201901
+      \endverb
+      \verb{url}
+      \verb https://bnn-news.com/to-compensate-jews-for-property-confiscated-in-occupied-latvia-40-million-euro-compensation-proposed-201901
+      \endverb
+      \warn{\item Entry '.12.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Gabre.23.05.2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eb01bf913a5798c4caef71688cee829d}{%
+           family={Gabre},
+           familyi={G\bibinitperiod},
+           given={Antra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb01bf913a5798c4caef71688cee829d}
+      \strng{fullhash}{eb01bf913a5798c4caef71688cee829d}
+      \strng{bibnamehash}{eb01bf913a5798c4caef71688cee829d}
+      \strng{authorbibnamehash}{eb01bf913a5798c4caef71688cee829d}
+      \strng{authornamehash}{eb01bf913a5798c4caef71688cee829d}
+      \strng{authorfullhash}{eb01bf913a5798c4caef71688cee829d}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neatkarīgā Rīta Avīze}
+      \field{title}{Herberta Cukura izglābtās ebrejietes meita mātes dzimtenē pateicas glābēja ģimenei}
+      \field{year}{23.05.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://nra.lv/latvija/281542-herberta-cukura-izglabtas-ebrejietes-meita-mates-dzimtene-pateicas-glabeja-gimenei.htm
+      \endverb
+      \verb{url}
+      \verb https://nra.lv/latvija/281542-herberta-cukura-izglabtas-ebrejietes-meita-mates-dzimtene-pateicas-glabeja-gimenei.htm
+      \endverb
+      \warn{\item Entry 'Gabre.23.05.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Gross.2015}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=2c75ad34e484432eaaf529aeb51d00e3}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed4f6587fb6c8ad8624c335862ec2a14}{%
+           family={Stevick},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{4}{%
+        {Heidelberg}%
+        {New York}%
+        {Dodrecht}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Springer Cham}%
+      }
+      \strng{namehash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{fullhash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{bibnamehash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{editorbibnamehash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{editornamehash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{editorfullhash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{As the Witnesses Fall Silent: 21st Century Holocaust Education in Curriculum, Policy and Practice}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{GrudzinskaGross.2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b7675069fe2b0ed68142c516a841f8a4}{%
+           family={Grudzinska-Gross},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Irena},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7675069fe2b0ed68142c516a841f8a4}
+      \strng{fullhash}{b7675069fe2b0ed68142c516a841f8a4}
+      \strng{bibnamehash}{b7675069fe2b0ed68142c516a841f8a4}
+      \strng{authorbibnamehash}{b7675069fe2b0ed68142c516a841f8a4}
+      \strng{authornamehash}{b7675069fe2b0ed68142c516a841f8a4}
+      \strng{authorfullhash}{b7675069fe2b0ed68142c516a841f8a4}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{East European Politics and Societies and Cultures}
+      \field{number}{4664-668}
+      \field{title}{The Backsliding}
+      \field{volume}{28}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{Haury.2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e01df64005779f99062cdbe58b4d6c7}{%
+           family={Haury},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hamburg}%
+      }
+      \list{publisher}{1}{%
+        {Hamburger Edition}%
+      }
+      \strng{namehash}{6e01df64005779f99062cdbe58b4d6c7}
+      \strng{fullhash}{6e01df64005779f99062cdbe58b4d6c7}
+      \strng{bibnamehash}{6e01df64005779f99062cdbe58b4d6c7}
+      \strng{authorbibnamehash}{6e01df64005779f99062cdbe58b4d6c7}
+      \strng{authornamehash}{6e01df64005779f99062cdbe58b4d6c7}
+      \strng{authorfullhash}{6e01df64005779f99062cdbe58b4d6c7}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antisemitismus von links: Kommunistische Ideologie, Nationalismus und Antizionismus in der fr{ü}hen DDR.}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{.14.02.2019}{article}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LSM News}
+      \field{title}{Izbeidz lietu pret Herbertu Cukuru par iespējamo līdzdalību ebreju iznīcinā{š}anā}
+      \field{year}{14.02.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.lsm.lv/raksts/zinas/latvija/izbeidz-lietu-pret-herbertu-cukuru-par-iespejamo-lidzdalibu-ebreju-iznicinasana.a309556/
+      \endverb
+      \verb{url}
+      \verb https://www.lsm.lv/raksts/zinas/latvija/izbeidz-lietu-pret-herbertu-cukuru-par-iespejamo-lidzdalibu-ebreju-iznicinasana.a309556/
+      \endverb
+    \endentry
+    \entry{Janion.2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=12f200fb2aa01de972e196c733c0caa0}{%
+           family={Janion},
+           familyi={J\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt a.M.}%
+      }
+      \list{publisher}{1}{%
+        {Suhrkamp}%
+      }
+      \strng{namehash}{12f200fb2aa01de972e196c733c0caa0}
+      \strng{fullhash}{12f200fb2aa01de972e196c733c0caa0}
+      \strng{bibnamehash}{12f200fb2aa01de972e196c733c0caa0}
+      \strng{authorbibnamehash}{12f200fb2aa01de972e196c733c0caa0}
+      \strng{authornamehash}{12f200fb2aa01de972e196c733c0caa0}
+      \strng{authorfullhash}{12f200fb2aa01de972e196c733c0caa0}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Polen und ihre Vampire: Studien zur Kritik kultureller Phantasmen}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{KotowskiE.V.SchoepsJ.H.&WallenbornH..2001}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=ab025eff6896c556129bc096a979c269}{%
+           family={{Kotowski, E. V., Schoeps, J. H., {\&} Wallenborn, H.}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wissenschaftliche Buchgesellschaft.}%
+      }
+      \strng{namehash}{ab025eff6896c556129bc096a979c269}
+      \strng{fullhash}{ab025eff6896c556129bc096a979c269}
+      \strng{bibnamehash}{ab025eff6896c556129bc096a979c269}
+      \strng{editorbibnamehash}{ab025eff6896c556129bc096a979c269}
+      \strng{editornamehash}{ab025eff6896c556129bc096a979c269}
+      \strng{editorfullhash}{ab025eff6896c556129bc096a979c269}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbuch zur Geschichte der Juden in Europa.}
+      \field{year}{2001}
+      \true{nocite}
+    \endentry
+    \entry{Merritt.11.06.2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=96681de5ad789ac2c2fc549d087df707}{%
+           family={Merritt},
+           familyi={M\bibinitperiod},
+           given={Harry\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1ba2fc7c5bac2485c548e5c9f4aa4c61}{%
+           family={{Peripheral Histories}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{96681de5ad789ac2c2fc549d087df707}
+      \strng{fullhash}{96681de5ad789ac2c2fc549d087df707}
+      \strng{bibnamehash}{96681de5ad789ac2c2fc549d087df707}
+      \strng{authorbibnamehash}{96681de5ad789ac2c2fc549d087df707}
+      \strng{authornamehash}{96681de5ad789ac2c2fc549d087df707}
+      \strng{authorfullhash}{96681de5ad789ac2c2fc549d087df707}
+      \strng{editorbibnamehash}{1ba2fc7c5bac2485c548e5c9f4aa4c61}
+      \strng{editornamehash}{1ba2fc7c5bac2485c548e5c9f4aa4c61}
+      \strng{editorfullhash}{1ba2fc7c5bac2485c548e5c9f4aa4c61}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In the Fight, yet on the Margins: Latvian Jewish Red Army Soldiers}
+      \field{year}{11.06.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://peripheralhistories.wixsite.com/mysiteok/blog/in-the-fight-yet-on-the-margins-latvian-jewish-red-army-soldiers
+      \endverb
+      \verb{url}
+      \verb https://peripheralhistories.wixsite.com/mysiteok/blog/in-the-fight-yet-on-the-margins-latvian-jewish-red-army-soldiers
+      \endverb
+      \warn{\item Entry 'Merritt.11.06.2019' (./bibliography.bib): Invalid format '02.08.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Misco.2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=dce5415d4b93fba9b1169e482e9639e1}{%
+           family={Misco},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2c75ad34e484432eaaf529aeb51d00e3}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed4f6587fb6c8ad8624c335862ec2a14}{%
+           family={Stevick},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{4}{%
+        {Heidelberg}%
+        {New York}%
+        {Dodrecht}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Springer Cham}%
+      }
+      \strng{namehash}{dce5415d4b93fba9b1169e482e9639e1}
+      \strng{fullhash}{dce5415d4b93fba9b1169e482e9639e1}
+      \strng{bibnamehash}{dce5415d4b93fba9b1169e482e9639e1}
+      \strng{authorbibnamehash}{dce5415d4b93fba9b1169e482e9639e1}
+      \strng{authornamehash}{dce5415d4b93fba9b1169e482e9639e1}
+      \strng{authorfullhash}{dce5415d4b93fba9b1169e482e9639e1}
+      \strng{editorbibnamehash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{editornamehash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \strng{editorfullhash}{bed5a6a9a03579f71bd50926f5c47b15}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{As the Witnesses Fall Silent}
+      \field{title}{Holocaust History, Memory and Citizenship Education: The Case of Latvia}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{337\bibrangedash 356}
+      \range{pages}{20}
+    \endentry
+    \entry{SupremeCourtofTheRepublicofLatvia.22.10.2018}{misc}{}
+      \list{institution}{1}{%
+        {Supreme Court of The Republic of Latvia}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labeltitlesource}{title}
+      \field{title}{Naida runa un vārda brīvība: Tiesu prakse krimināllietās par Krimināllikuma 74., 78., 150.}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.at.gov.lv/files/uploads/files/6_Judikatura/Tiesu_prakses_apkopojum/2018/Naida%20runa%20un%20varda%20briviba_Apkopojums_2018_22_10_2018.doc
+      \endverb
+      \verb{url}
+      \verb http://www.at.gov.lv/files/uploads/files/6_Judikatura/Tiesu_prakses_apkopojum/2018/Naida%20runa%20un%20varda%20briviba_Apkopojums_2018_22_10_2018.doc
+      \endverb
+      \warn{\item Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018' (./bibliography.bib): Invalid format '22.10.2018' of date field 'date' - ignoring}
+      \warn{\item Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Neiburgs.27.01.2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c973b4be180e7cdf63761a2b8ec6df67}{%
+           family={Neiburgs},
+           familyi={N\bibinitperiod},
+           given={Uldis},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{c973b4be180e7cdf63761a2b8ec6df67}
+      \strng{fullhash}{c973b4be180e7cdf63761a2b8ec6df67}
+      \strng{bibnamehash}{c973b4be180e7cdf63761a2b8ec6df67}
+      \strng{authorbibnamehash}{c973b4be180e7cdf63761a2b8ec6df67}
+      \strng{authornamehash}{c973b4be180e7cdf63761a2b8ec6df67}
+      \strng{authorfullhash}{c973b4be180e7cdf63761a2b8ec6df67}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LA.lv Ziņu portāls Latvijai}
+      \field{title}{Herberts Cukurs -- slavens lidotājs un/vai kara noziedznieks?}
+      \field{year}{27.01.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.la.lv/br-27-01-rits-herberts-cukurs-slavens-lidotajs-un-vai-kara-noziedznieks
+      \endverb
+      \verb{url}
+      \verb http://www.la.lv/br-27-01-rits-herberts-cukurs-slavens-lidotajs-un-vai-kara-noziedznieks
+      \endverb
+      \warn{\item Entry 'Neiburgs.27.01.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Oberlander.2005}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=325173bdcae4432f06a1278061fc5879}{%
+           family={Oberl{ä}nder},
+           familyi={O\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=884a01c64fde9db5638bbc94ce2d04b5}{%
+           family={Nollendorfs},
+           familyi={N\bibinitperiod},
+           given={Valters},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Riga}%
+      }
+      \strng{namehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{fullhash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{bibnamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editorbibnamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editornamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editorfullhash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The Hidden and Forbidden History of Latvia under Soviet and Nazi Occupations. 1940-1991}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{OrganisationofSecurityandCooperationindEurope.}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labeltitlesource}{title}
+      \field{title}{ODIHR Hate Crime Reporting (Poland)}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hatecrime.osce.org/poland?year=2017.
+      \endverb
+      \verb{url}
+      \verb http://hatecrime.osce.org/poland?year=2017.
+      \endverb
+      \warn{\item Entry 'OrganisationofSecurityandCooperationindEurope.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{.16.06.2019}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pietik}
+      \field{title}{Partijas {"}Attīstībai/Par!{"} dāsnais piedāvājums ebreju kopienai -- {š}ībrī{ž}a labestības uzplūdi vai iepriek{š} aprēķināts gājiens}
+      \field{year}{16.06.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.pietiek.com/raksti/partijas__attistibai_par!__dasnais_piedavajums_ebreju_kopienai__sibriza_labestibas_uzpludi_vai_ieprieks_aprekinats_gajiens
+      \endverb
+      \verb{url}
+      \verb https://www.pietiek.com/raksti/partijas__attistibai_par!__dasnais_piedavajums_ebreju_kopienai__sibriza_labestibas_uzpludi_vai_ieprieks_aprekinats_gajiens
+      \endverb
+      \warn{\item Entry '.16.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{BundesministeriumdesInnerenfurBauundHeimat.2019}{misc}{}
+      \list{institution}{1}{%
+        {Bundesministerium des Inneren, f{ü}r Bau und Heimat}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labeltitlesource}{title}
+      \field{title}{Politisch Motivierte Kriminalit{ä}t im Jahr 2018: Bundesweite Fallzahlen}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.bmi.bund.de/DE/themen/sicherheit/kriminalitaetsbekaempfung-und-gefahrenabwehr/politisch-motivierte-kriminalitaet/politisch-motivierte-kriminalitaet-node.html
+      \endverb
+      \verb{url}
+      \verb https://www.bmi.bund.de/DE/themen/sicherheit/kriminalitaetsbekaempfung-und-gefahrenabwehr/politisch-motivierte-kriminalitaet/politisch-motivierte-kriminalitaet-node.html
+      \endverb
+      \warn{\item Entry 'BundesministeriumdesInnerenfurBauundHeimat.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{.21.06.2019}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Baltic News Network}
+      \field{title}{Proposed EUR 40 mln compensation to Latvian Jewish community retracted}
+      \field{year}{21.06.2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://bnn-news.com/proposed-eur-40-mln-compensation-to-latvian-jewish-community-retracted-202139
+      \endverb
+      \verb{url}
+      \verb https://bnn-news.com/proposed-eur-40-mln-compensation-to-latvian-jewish-community-retracted-202139
+      \endverb
+      \warn{\item Entry '.21.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Reichelt.2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4122c6ec3046050b6804977fef6f0e9b}{%
+           family={Reichelt},
+           familyi={R\bibinitperiod},
+           given={Katrin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Metropol-Verlag}%
+      }
+      \strng{namehash}{4122c6ec3046050b6804977fef6f0e9b}
+      \strng{fullhash}{4122c6ec3046050b6804977fef6f0e9b}
+      \strng{bibnamehash}{4122c6ec3046050b6804977fef6f0e9b}
+      \strng{authorbibnamehash}{4122c6ec3046050b6804977fef6f0e9b}
+      \strng{authornamehash}{4122c6ec3046050b6804977fef6f0e9b}
+      \strng{authorfullhash}{4122c6ec3046050b6804977fef6f0e9b}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lettland unter deutscher Besatzung 1941-1944: der lettische Anteil am Holocaust}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{Salnitis.1938}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=767370a434d65b5d02eca6c793d5a7da}{%
+           family={Salnītis},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rīga}%
+      }
+      \strng{namehash}{767370a434d65b5d02eca6c793d5a7da}
+      \strng{fullhash}{767370a434d65b5d02eca6c793d5a7da}
+      \strng{bibnamehash}{767370a434d65b5d02eca6c793d5a7da}
+      \strng{editorbibnamehash}{767370a434d65b5d02eca6c793d5a7da}
+      \strng{editornamehash}{767370a434d65b5d02eca6c793d5a7da}
+      \strng{editorfullhash}{767370a434d65b5d02eca6c793d5a7da}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Latvijas kultūras statistika: 1918-1937.}
+      \field{year}{1938}
+      \true{nocite}
+    \endentry
+    \entry{Skujenieks.1930}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=440799b7c21a708678d2549a738aa340}{%
+           family={Skujenieks},
+           familyi={S\bibinitperiod},
+           given={Marģers},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Riga}%
+      }
+      \strng{namehash}{440799b7c21a708678d2549a738aa340}
+      \strng{fullhash}{440799b7c21a708678d2549a738aa340}
+      \strng{bibnamehash}{440799b7c21a708678d2549a738aa340}
+      \strng{editorbibnamehash}{440799b7c21a708678d2549a738aa340}
+      \strng{editornamehash}{440799b7c21a708678d2549a738aa340}
+      \strng{editorfullhash}{440799b7c21a708678d2549a738aa340}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Tre{š}ā tautas skaitī{š}ana Latvijā}
+      \field{year}{1930}
+      \true{nocite}
+    \endentry
+    \entry{KantarPublicBrussels.2019}{misc}{}
+      \list{institution}{1}{%
+        {Kantar Public Brussels}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{title}{Special Eurobarometer 484. Report: Perceptions of anti-Semitism: Survey requested by the European Commission, Directorate-General for Justice and Consumers and co-ordinated by the Directorate-General for Communication.}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://data.europa.eu/euodp/en/data/dataset/S2220_90_4_484_ENG
+      \endverb
+      \verb{url}
+      \verb http://data.europa.eu/euodp/en/data/dataset/S2220_90_4_484_ENG
+      \endverb
+      \warn{\item Entry 'KantarPublicBrussels.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Stranga.2005}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e53165ce4cb17c359b9ad331cdf693e1}{%
+           family={Stranga},
+           familyi={S\bibinitperiod},
+           given={Aivars},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=325173bdcae4432f06a1278061fc5879}{%
+           family={Oberl{ä}nder},
+           familyi={O\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=884a01c64fde9db5638bbc94ce2d04b5}{%
+           family={Nollendorfs},
+           familyi={N\bibinitperiod},
+           given={Valters},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Riga}%
+      }
+      \strng{namehash}{e53165ce4cb17c359b9ad331cdf693e1}
+      \strng{fullhash}{e53165ce4cb17c359b9ad331cdf693e1}
+      \strng{bibnamehash}{e53165ce4cb17c359b9ad331cdf693e1}
+      \strng{authorbibnamehash}{e53165ce4cb17c359b9ad331cdf693e1}
+      \strng{authornamehash}{e53165ce4cb17c359b9ad331cdf693e1}
+      \strng{authorfullhash}{e53165ce4cb17c359b9ad331cdf693e1}
+      \strng{editorbibnamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editornamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editorfullhash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Hidden and Forbidden History of Latvia under Soviet and Nazi Occupations.}
+      \field{title}{The Holocaust in Occupied Latvia: 1941-1945}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{TokarskaBakir.2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=26363c3cbbb2a82a1eee5ec9723e9ab8}{%
+           family={Tokarska-Bakir},
+           familyi={T\bibinithyphendelim B\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
+      \strng{fullhash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
+      \strng{bibnamehash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
+      \strng{authorbibnamehash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
+      \strng{authornamehash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
+      \strng{authorfullhash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{East European Politics and Societies}
+      \field{number}{3}
+      \field{title}{Cries of the Mob in the Pogroms in Rzesz{ó}w (June 1945), Cracow (August 1945), and Kielce (July 1946) as a Source for the State of Mind of the Participants}
+      \field{volume}{25}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{553\bibrangedash 574}
+      \range{pages}{22}
+    \endentry
+    \entry{Uhlig.2015}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=4cd2c2857b2a91e99ddf7b0f1823f929}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=de89de8c322ecdd240a819cc0c98f7ad}{%
+           family={Gehrlein},
+           familyi={G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b3c352634a7090f0c8d53116979a1953}{%
+           family={Busch},
+           familyi={B\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer VS}%
+      }
+      \strng{namehash}{362d4ccef7ee07e7ded1cda33436081b}
+      \strng{fullhash}{362d4ccef7ee07e7ded1cda33436081b}
+      \strng{bibnamehash}{362d4ccef7ee07e7ded1cda33436081b}
+      \strng{editorbibnamehash}{362d4ccef7ee07e7ded1cda33436081b}
+      \strng{editornamehash}{362d4ccef7ee07e7ded1cda33436081b}
+      \strng{editorfullhash}{362d4ccef7ee07e7ded1cda33436081b}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Schiefheilungen: Zeitgen{ö}ssische Betrachtungen {ü}ber Antisemitismus.}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{Viksne.2005}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7803bb1ef338ff429b03967db40343ea}{%
+           family={Vīksne},
+           familyi={V\bibinitperiod},
+           given={Rudīte},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=325173bdcae4432f06a1278061fc5879}{%
+           family={Oberl{ä}nder},
+           familyi={O\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=884a01c64fde9db5638bbc94ce2d04b5}{%
+           family={Nollendorfs},
+           familyi={N\bibinitperiod},
+           given={Valters},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Riga}%
+      }
+      \strng{namehash}{7803bb1ef338ff429b03967db40343ea}
+      \strng{fullhash}{7803bb1ef338ff429b03967db40343ea}
+      \strng{bibnamehash}{7803bb1ef338ff429b03967db40343ea}
+      \strng{authorbibnamehash}{7803bb1ef338ff429b03967db40343ea}
+      \strng{authornamehash}{7803bb1ef338ff429b03967db40343ea}
+      \strng{authorfullhash}{7803bb1ef338ff429b03967db40343ea}
+      \strng{editorbibnamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editornamehash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \strng{editorfullhash}{c189a7e702de5c654bc43fb071ae1a3f}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Hidden and Forbidden History of Latvia under Soviet and Nazi Occupations.}
+      \field{title}{Members of the Arājs Commando in Soviet Court Files: Social Position, Education, Reasons for Volunteering, Penalty}
+      \field{year}{2005}
+      \true{nocite}
+      \field{pages}{188\bibrangedash 206}
+      \range{pages}{19}
+    \endentry
+    \entry{Wezel.2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=de84e0061de792d13c0fcd4bc25808e6}{%
+           family={Wezel},
+           familyi={W\bibinitperiod},
+           given={Katja},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Berliner Wissenschafts-Verlag}%
+      }
+      \strng{namehash}{de84e0061de792d13c0fcd4bc25808e6}
+      \strng{fullhash}{de84e0061de792d13c0fcd4bc25808e6}
+      \strng{bibnamehash}{de84e0061de792d13c0fcd4bc25808e6}
+      \strng{authorbibnamehash}{de84e0061de792d13c0fcd4bc25808e6}
+      \strng{authornamehash}{de84e0061de792d13c0fcd4bc25808e6}
+      \strng{authorfullhash}{de84e0061de792d13c0fcd4bc25808e6}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Geschichte als Politikum: Lettland und die Aufarbeitung nach der Diktatur}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{Zizek.1989}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4287536cb16036c0e3b7c65fdb3c3c19}{%
+           family={{Ž}i{ž}ek},
+           familyi={Ž\bibinitperiod},
+           given={Slavoj},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{4287536cb16036c0e3b7c65fdb3c3c19}
+      \strng{fullhash}{4287536cb16036c0e3b7c65fdb3c3c19}
+      \strng{bibnamehash}{4287536cb16036c0e3b7c65fdb3c3c19}
+      \strng{authorbibnamehash}{4287536cb16036c0e3b7c65fdb3c3c19}
+      \strng{authornamehash}{4287536cb16036c0e3b7c65fdb3c3c19}
+      \strng{authorfullhash}{4287536cb16036c0e3b7c65fdb3c3c19}
+      \field{sortinit}{Ž}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The sublime object of ideology}
+      \field{year}{1989}
+      \true{nocite}
+    \endentry
+    \entry{Zuk.2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0a0e52b788f3f67c54efaa53bdf3aff5}{%
+           family={Zuk},
+           familyi={Z\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a0e52b788f3f67c54efaa53bdf3aff5}
+      \strng{fullhash}{0a0e52b788f3f67c54efaa53bdf3aff5}
+      \strng{bibnamehash}{0a0e52b788f3f67c54efaa53bdf3aff5}
+      \strng{authorbibnamehash}{0a0e52b788f3f67c54efaa53bdf3aff5}
+      \strng{authornamehash}{0a0e52b788f3f67c54efaa53bdf3aff5}
+      \strng{authorfullhash}{0a0e52b788f3f67c54efaa53bdf3aff5}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Race{\&}Class}
+      \field{number}{3}
+      \field{title}{Anti-Semitism in Poland, Yesterday and Today.}
+      \field{volume}{58}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{81\bibrangedash 86}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

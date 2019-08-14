@@ -1,7 +1,8 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Contact Details}{13}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Poldek (Leopold Yehuda Maimon)}{15}% 
 \defcounter {refsection}{0}\relax 
@@ -21,28 +22,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Valters Nollendorfs}{105}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{114}% 
+\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{115}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{121}% 
+\contentsline {section}{Inese Runce}{122}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{128}% 
+\contentsline {section}{Kalevs Krelins}{127}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{131}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{134}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{140}% 
+\contentsline {section}{Dr Steffen Huber}{137}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{151}% 
+\contentsline {section}{Serhii Czupryna}{146}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{160}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{158}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{174}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{167}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{182}% 
+\contentsline {section}{Bartosz Gajdzik}{181}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{183}% 
+\contentsline {section}{Teresa Klimowicz}{189}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{190}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{190}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{204}% 
+\contentsline {section}{Dr Katrin Stoll}{197}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Contact Details}{211}% 
+\contentsline {section}{Maria Fornal}{211}% 
