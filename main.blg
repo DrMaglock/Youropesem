@@ -1,39 +1,39 @@
-[0] Config.pm:304> INFO - This is Biber 2.12
-[1] Config.pm:307> INFO - Logfile is 'main.blg'
-[95] biber-MSWIN64:315> INFO - === 
-[162] Biber.pm:371> INFO - Reading 'main.bcf'
-[362] Biber.pm:886> INFO - Using all citekeys in bib section 0
-[399] Biber.pm:4093> INFO - Processing section 0
-[445] Biber.pm:4254> INFO - Looking for bibtex format file './bibliography.bib' for section 0
-[467] bibtex.pm:1523> INFO - LaTeX decoding ...
-[554] bibtex.pm:1340> INFO - Found BibTeX data source './bibliography.bib'
-[565] Utils.pm:193> WARN - Entry 'OrganisationofSecurityandCooperationindEurope.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
-[611] Utils.pm:193> WARN - year field '14.02.2019' in entry '.14.02.2019' is not an integer - this will probably not sort properly.
-[615] Utils.pm:193> WARN - Entry 'BundesministeriumdesInnerenfurBauundHeimat.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
-[629] Utils.pm:193> WARN - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018' (./bibliography.bib): Invalid format '22.10.2018' of date field 'date' - ignoring
-[630] Utils.pm:193> WARN - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - ignoring
-[643] Utils.pm:193> WARN - year field '21.06.2019' in entry '.21.06.2019' is not an integer - this will probably not sort properly.
-[645] Utils.pm:193> WARN - Entry '.21.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
-[646] Utils.pm:193> WARN - Entry 'EuropeanCommissionagainstRacismandIntolerance.05.03.2019' (./bibliography.bib): Invalid format '05.03.2019' of date field 'date' - ignoring
-[647] Utils.pm:193> WARN - Entry 'EuropeanCommissionagainstRacismandIntolerance.05.03.2019' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - ignoring
-[662] Utils.pm:193> WARN - Entry 'KantarPublicBrussels.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
-[663] Utils.pm:193> WARN - year field '12.06.2019' in entry '.12.06.2019' is not an integer - this will probably not sort properly.
-[664] Utils.pm:193> WARN - Entry '.12.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
-[665] Utils.pm:193> WARN - year field '16.06.2019' in entry '.16.06.2019' is not an integer - this will probably not sort properly.
-[666] Utils.pm:193> WARN - Entry '.16.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
-[704] Utils.pm:193> WARN - year field '23.05.2019' in entry 'Gabre.23.05.2019' is not an integer - this will probably not sort properly.
-[705] Utils.pm:193> WARN - Entry 'Gabre.23.05.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
-[733] Utils.pm:193> WARN - Entry 'AntiDefamationLeague.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
-[744] Utils.pm:193> WARN - year field '11.06.2019' in entry 'Merritt.11.06.2019' is not an integer - this will probably not sort properly.
-[745] Utils.pm:193> WARN - Entry 'Merritt.11.06.2019' (./bibliography.bib): Invalid format '02.08.2019' of date field 'urldate' - ignoring
-[757] Utils.pm:193> WARN - year field '27.01.2019' in entry 'Neiburgs.27.01.2019' is not an integer - this will probably not sort properly.
-[758] Utils.pm:193> WARN - Entry 'Neiburgs.27.01.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
-[767] Utils.pm:193> WARN - Entry 'EuropeanUnionAgencyforFundamentalRights.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
-[782] Utils.pm:193> WARN - Entry 'Bolin.2012' (./bibliography.bib): Invalid format '24.07.2019' of date field 'urldate' - ignoring
-[892] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[892] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[892] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[893] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[975] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[993] bbl.pm:739> INFO - Output to main.bbl
-[1008] Biber.pm:110> INFO - WARNINGS: 23
+[2] Config.pm:304> INFO - This is Biber 2.12
+[2] Config.pm:307> INFO - Logfile is 'main.blg'
+[96] biber-MSWIN64:315> INFO - === 
+[254] Biber.pm:371> INFO - Reading 'main.bcf'
+[469] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[506] Biber.pm:4093> INFO - Processing section 0
+[565] Biber.pm:4254> INFO - Looking for bibtex format file './bibliography.bib' for section 0
+[594] bibtex.pm:1523> INFO - LaTeX decoding ...
+[681] bibtex.pm:1340> INFO - Found BibTeX data source './bibliography.bib'
+[700] Utils.pm:193> WARN - Entry 'Bolin.2012' (./bibliography.bib): Invalid format '24.07.2019' of date field 'urldate' - ignoring
+[720] Utils.pm:193> WARN - year field '14.02.2019' in entry '.14.02.2019' is not an integer - this will probably not sort properly.
+[782] Utils.pm:193> WARN - Entry 'BundesministeriumdesInnerenfurBauundHeimat.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
+[785] Utils.pm:193> WARN - Entry 'OrganisationofSecurityandCooperationindEurope.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
+[787] Utils.pm:193> WARN - Entry 'EuropeanCommissionagainstRacismandIntolerance.05.03.2019' (./bibliography.bib): Invalid format '05.03.2019' of date field 'date' - ignoring
+[788] Utils.pm:193> WARN - Entry 'EuropeanCommissionagainstRacismandIntolerance.05.03.2019' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - ignoring
+[814] Utils.pm:193> WARN - Entry 'KantarPublicBrussels.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
+[829] Utils.pm:193> WARN - year field '27.01.2019' in entry 'Neiburgs.27.01.2019' is not an integer - this will probably not sort properly.
+[830] Utils.pm:193> WARN - Entry 'Neiburgs.27.01.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
+[832] Utils.pm:193> WARN - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018' (./bibliography.bib): Invalid format '22.10.2018' of date field 'date' - ignoring
+[832] Utils.pm:193> WARN - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - ignoring
+[840] Utils.pm:193> WARN - year field '23.05.2019' in entry 'Gabre.23.05.2019' is not an integer - this will probably not sort properly.
+[841] Utils.pm:193> WARN - Entry 'Gabre.23.05.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
+[857] Utils.pm:193> WARN - year field '21.06.2019' in entry '.21.06.2019' is not an integer - this will probably not sort properly.
+[858] Utils.pm:193> WARN - Entry '.21.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
+[870] Utils.pm:193> WARN - year field '11.06.2019' in entry 'Merritt.11.06.2019' is not an integer - this will probably not sort properly.
+[872] Utils.pm:193> WARN - Entry 'Merritt.11.06.2019' (./bibliography.bib): Invalid format '02.08.2019' of date field 'urldate' - ignoring
+[881] Utils.pm:193> WARN - Entry 'EuropeanUnionAgencyforFundamentalRights.2019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
+[882] Utils.pm:193> WARN - year field '16.06.2019' in entry '.16.06.2019' is not an integer - this will probably not sort properly.
+[883] Utils.pm:193> WARN - Entry '.16.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
+[905] Utils.pm:193> WARN - Entry 'AntiDefamationLeague.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring
+[913] Utils.pm:193> WARN - year field '12.06.2019' in entry '.12.06.2019' is not an integer - this will probably not sort properly.
+[915] Utils.pm:193> WARN - Entry '.12.06.2019' (./bibliography.bib): Invalid format '12.08.2019' of date field 'urldate' - ignoring
+[1084] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1084] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1085] Biber.pm:3921> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1085] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1238] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1278] bbl.pm:739> INFO - Output to main.bbl
+[1289] Biber.pm:110> INFO - WARNINGS: 23

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  14 AUG 2019 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  16 AUG 2019 01:19
 entering extended mode
 **./main.tex
 (main.tex
@@ -153,6 +153,12 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
 File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.dbx"
+File: apa.dbx 2018/04/02 v7.7 APA biblatex style data model
+)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count135
@@ -191,38 +197,48 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedshortauthor=\count168
 \c@shorteditor=\count169
 \c@savedshorteditor=\count170
-\c@labelname=\count171
-\c@savedlabelname=\count172
-\c@institution=\count173
-\c@savedinstitution=\count174
-\c@lista=\count175
-\c@savedlista=\count176
-\c@listb=\count177
-\c@savedlistb=\count178
-\c@listc=\count179
-\c@savedlistc=\count180
-\c@listd=\count181
-\c@savedlistd=\count182
-\c@liste=\count183
-\c@savedliste=\count184
-\c@listf=\count185
-\c@savedlistf=\count186
-\c@location=\count187
-\c@savedlocation=\count188
-\c@organization=\count189
-\c@savedorganization=\count190
-\c@origlocation=\count191
-\c@savedoriglocation=\count192
-\c@origpublisher=\count193
-\c@savedorigpublisher=\count194
-\c@publisher=\count195
-\c@savedpublisher=\count196
-\c@language=\count197
-\c@savedlanguage=\count198
-\c@origlanguage=\count199
-\c@savedoriglanguage=\count266
-\c@pageref=\count267
-\c@savedpageref=\count268
+\c@with=\count171
+\c@savedwith=\count172
+\c@writer=\count173
+\c@savedwriter=\count174
+\c@producer=\count175
+\c@savedproducer=\count176
+\c@execproducer=\count177
+\c@savedexecproducer=\count178
+\c@director=\count179
+\c@saveddirector=\count180
+\c@labelname=\count181
+\c@savedlabelname=\count182
+\c@institution=\count183
+\c@savedinstitution=\count184
+\c@lista=\count185
+\c@savedlista=\count186
+\c@listb=\count187
+\c@savedlistb=\count188
+\c@listc=\count189
+\c@savedlistc=\count190
+\c@listd=\count191
+\c@savedlistd=\count192
+\c@liste=\count193
+\c@savedliste=\count194
+\c@listf=\count195
+\c@savedlistf=\count196
+\c@location=\count197
+\c@savedlocation=\count198
+\c@organization=\count199
+\c@savedorganization=\count266
+\c@origlocation=\count267
+\c@savedoriglocation=\count268
+\c@origpublisher=\count269
+\c@savedorigpublisher=\count270
+\c@publisher=\count271
+\c@savedpublisher=\count272
+\c@language=\count273
+\c@savedlanguage=\count274
+\c@origlanguage=\count275
+\c@savedoriglanguage=\count276
+\c@pageref=\count277
+\c@savedpageref=\count278
 \shorthandwidth=\skip51
 \shortjournalwidth=\skip52
 \shortserieswidth=\skip53
@@ -248,43 +264,46 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count269
-\c@textcitetotal=\count270
-\c@textcitemaxnames=\count271
-\c@biburlnumpenalty=\count272
-\c@biburlucpenalty=\count273
-\c@biburllcpenalty=\count274
-\c@smartand=\count275
+\c@textcitecount=\count279
+\c@textcitetotal=\count280
+\c@textcitemaxnames=\count281
+\c@biburlnumpenalty=\count282
+\c@biburlucpenalty=\count283
+\c@biburllcpenalty=\count284
+\c@smartand=\count285
 )
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
-File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.bbx"
+File: apa.bbx 2018/04/02 v7.7 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count276
-\c@bbx:relatedtotal=\count277
+\c@bbx:relatedcount=\count286
+\c@bbx:relatedtotal=\count287
 ))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
-File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
-Package biblatex Info: Redefining '\cite'.
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.cbx"
+File: apa.cbx 2018/04/02 v7.7 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already 
+defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\citeauthor'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -326,23 +345,43 @@ s
 \f@nch@O@olf=\skip72
 \f@nch@O@orf=\skip73
 )
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\english-apa.lbx"
+File: english-apa.lbx 2018/04/02 v7.7 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
-\@quotelevel=\count278
-\@quotereset=\count279
- (main.aux
-(introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\american-apa.lbx"
+File: american-apa.lbx 2018/04/02 v7.7 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\american.lbx"
+File: american.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+))))
+\@quotelevel=\count288
+\@quotereset=\count289
+ (main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
 (Interviews/linyal.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
 (Interviews/liberov.aux) (Interviews/toellner.aux) (Interviews/wezel.aux)
 (Interviews/nollendorfs.aux) (Interviews/urbanovics.aux) (Interviews/runce.aux)
-(Interviews/krelins.aux) (Interviews/zajda.aux) (Interviews/huber.aux)
-(Interviews/czupryna.aux) (Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
-(Interviews/gajdzik.aux) (Interviews/klimowicz.aux) (Interviews/ruszkowska.aux)
-(Interviews/stoll.aux) (Interviews/fornal.aux))
+(Interviews/lensky.aux) (Interviews/krelins.aux) (Interviews/zajda.aux)
+(Interviews/huber.aux) (Interviews/czupryna.aux) (Interviews/setkiewicz.aux)
+(Interviews/bilewicz.aux) (Interviews/gajdzik.aux) (Interviews/klimowicz.aux)
+(Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/fornal.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -364,7 +403,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl
+
+(main.bbl
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'AntiDefamationLeague.':
@@ -477,16 +517,16 @@ Package biblatex Info: Reference section=0 on input line 25.
 Package biblatex Info: Reference segment=0 on input line 25.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
+\scratchcounter=\count290
 \scratchdimen=\dimen103
 \scratchbox=\box28
-\nofMPsegments=\count281
-\nofMParguments=\count282
+\nofMPsegments=\count291
+\nofMParguments=\count292
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count283
+\MPscratchCnt=\count293
 \MPscratchDim=\dimen104
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1112,16 +1152,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [121]
 \openout2 = `./Interviews/runce.aux'.
 
- (Interviews/runce.tex
-Overfull \hbox (343.11392pt too wide) in paragraph at lines 5--5
-\T1/cmr/m/it/10 The in-ter-view took place in Riga in Septem-ber 2017. [][][][]
-[][] 
- []
-
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
- [122
+ (Interviews/runce.tex [122
 
 
 ]
@@ -1130,14 +1161,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [124]
+ [124])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [125])
+ [125]
 [126]
-\openout2 = `./Interviews/krelins.aux'.
+\openout2 = `./Interviews/lensky.aux'.
 
- (Interviews/krelins.tex [127
+ (Interviews/lensky.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127
 
 
 ]
@@ -1155,30 +1189,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [131]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132])
-[133]
-\openout2 = `./Interviews/zajda.aux'.
-
- (Interviews/zajda.tex
+ [132]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134
-
-
-]
+ [133]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [135])
-[136]
-\openout2 = `./Interviews/huber.aux'.
-
- (Interviews/huber.tex [137
-
-
-] [138] [139]
+ [134]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [140]
+ [135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+[139] [140]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [141]
@@ -1187,26 +1217,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [142]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [143])
+ [143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [144]
+ [144])
 [145]
-\openout2 = `./Interviews/czupryna.aux'.
+\openout2 = `./Interviews/krelins.aux'.
 
- (Interviews/czupryna.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [146
+ (Interviews/krelins.tex [146
 
 
 ]
-Overfull \hbox (3.44824pt too wide) in paragraph at lines 20--20
-\T1/cmr/bx/n/10 me-dia say that Pol-ish anti-Semitism op-er-ates on a ver-bal l
-evel, mostly?
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [147]
@@ -1221,49 +1242,64 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [150]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [151]
+ [151])
+[152]
+\openout2 = `./Interviews/zajda.aux'.
+
+ (Interviews/zajda.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [153]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [154]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [155])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [156]
-[157]
-\openout2 = `./Interviews/setkiewicz.aux'.
-
- (Interviews/setkiewicz.tex [158
-
-
-] [159] [160] [161]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [162]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [163]
-[164])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [165]
-[166]
-\openout2 = `./Interviews/bilewicz.aux'.
-
- (Interviews/bilewicz.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [167
+ [153
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154])
+[155]
+\openout2 = `./Interviews/huber.aux'.
+
+ (Interviews/huber.tex [156
+
+
+] [157] [158]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+[164]
+\openout2 = `./Interviews/czupryna.aux'.
+
+ (Interviews/czupryna.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [165
+
+
+]
+Overfull \hbox (3.44824pt too wide) in paragraph at lines 20--20
+\T1/cmr/bx/n/10 me-dia say that Pol-ish anti-Semitism op-er-ates on a ver-bal l
+evel, mostly?
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [168]
@@ -1279,27 +1315,78 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [172]
-[173]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [174]
-[175] [176]
+ [173]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [177]
+ [174])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [178])
+ [175]
+[176]
+\openout2 = `./Interviews/setkiewicz.aux'.
+
+ (Interviews/setkiewicz.tex [177
+
+
+] [178] [179] [180]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [179]
-[180]
+ [181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [182]
+[183])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+[185]
+\openout2 = `./Interviews/bilewicz.aux'.
+
+ (Interviews/bilewicz.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [186
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [187]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [188]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [189]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [190]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [191]
+[192]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [193]
+[194] [195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [196]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [197])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [198]
+[199]
 \openout2 = `./Interviews/gajdzik.aux'.
 
  (Interviews/gajdzik.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [181
+ [200
 
 
 ]
@@ -1308,84 +1395,7 @@ Overfull \hbox (0.785pt too wide) in paragraph at lines 15--16
 ween pos-i-tive and neg-a-tive, there's
  []
 
-[182]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [183]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [184]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [185]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [186])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [187]
-[188]
-\openout2 = `./Interviews/klimowicz.aux'.
-
- (Interviews/klimowicz.tex) [189
-
-
-]
-\openout2 = `./Interviews/ruszkowska.aux'.
-
- (Interviews/ruszkowska.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [190
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [191]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [192]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [193]
-[194]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [195])
-[196]
-\openout2 = `./Interviews/stoll.aux'.
-
- (Interviews/stoll.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [197
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [198]
-Overfull \hbox (3.4774pt too wide) in paragraph at lines 19--20
-[]\T1/cmr/bx/n/10 Katrin Stoll: \T1/cmr/m/n/10 No, of course, no-body negates i
-t, no-body would negate Auschwitz.
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [199]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [200]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [201]
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
-
+[201]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [202]
@@ -1397,103 +1407,272 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [204]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [205]
+ [205])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [206]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[207]
+\openout2 = `./Interviews/klimowicz.aux'.
 
- [207]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [208]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [209])
-[210]
-\openout2 = `./Interviews/fornal.aux'.
-
- (Interviews/fornal.tex [211
-
-
-] [212] [213]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [214]
-[215]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [216])
-[217] [218
+ (Interviews/klimowicz.tex) [208
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 65.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (14.5657pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 Heiko Beyer. ``The-o-rien der An-ti-semitismus-forschung: Eine
- Sys-tem-a-tisierung''.
+\openout2 = `./Interviews/ruszkowska.aux'.
+
+ (Interviews/ruszkowska.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [209
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [210]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [212]
+[213]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [214])
+[215]
+\openout2 = `./Interviews/stoll.aux'.
+
+ (Interviews/stoll.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [216
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [217]
+Overfull \hbox (3.4774pt too wide) in paragraph at lines 19--20
+[]\T1/cmr/bx/n/10 Katrin Stoll: \T1/cmr/m/n/10 No, of course, no-body negates i
+t, no-body would negate Auschwitz.
  []
 
 
-Overfull \hbox (10.92773pt too wide) in paragraph at lines 66--66
-\T1/cmr/m/n/10 In: \T1/cmr/m/it/10 Köl-ner Zeitschrift für Sozi-olo-gie und Soz
-ialpsy-cholo-gie \T1/cmr/m/n/10 67 (2015), pp. 573
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [218]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [219]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [220]
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
  []
 
 
-Overfull \hbox (1.75195pt too wide) in paragraph at lines 66--66
-\T1/cmtt/m/n/10 occupied -[] latvia -[] 40 -[] million -[] euro -[] compensatio
-n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [221]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [222]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [223]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [225]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [226]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [227]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [228])
+[229]
+\openout2 = `./Interviews/fornal.aux'.
+
+ (Interviews/fornal.tex [230
+
+
+] [231] [232]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [233]
+[234]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235])
+[236]
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Overfull \hbox (5.55426pt too wide) in paragraph at lines 65--65
+\T1/cmr/m/n/10 zinas / latvija / izbeidz -[] lietu -[] pret -[] herbertu -[] cu
+kuru -[] par -[] iespejamo -[] lidzdalibu -[]
  []
 
-[219]
-Overfull \hbox (31.29944pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
-	bu ebreju izn	cin	a²an	a''.
+[237
+
+
+]
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Overfull \hbox (25.17621pt too wide) in paragraph at lines 65--65
+[][]\T1/cmr/m/n/10 Neiburgs, U. (27.01.2019). Her-berts cukurs -- slavens li-do
+t	ajs un/vai kara noziedznieks?
  []
 
 
-Overfull \hbox (2.49124pt too wide) in paragraph at lines 66--66
-\T1/cmr/m/it/10 Geschichte der Ju-den in Eu-ropa. \T1/cmr/m/n/10 Wis-senschaftl
-iche Buchge-sellschaft., 2001. 
+Overfull \hbox (5.20554pt too wide) in paragraph at lines 65--65
+[][]\T1/cmr/m/n/10 ODIHR Hate Crime Re-port-ing (Poland). (n.d.). Re-trieved fr
+om $http : / / hatecrime .
+ []
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Overfull \hbox (4.7757pt too wide) in paragraph at lines 65--65
+[][]\T1/cmr/m/n/10 Partijas "att	st	bai/par!" d	asnais pied	av	ajums ebreju k
+opi-enai -- ²	br	ºa labest	bas
  []
 
 
-Overfull \hbox (10.05936pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/it/10 Naida runa un v	arda br	v	ba: Tiesu prakse krimin	alliet	as
- par Krimin	allikuma
+Overfull \hbox (23.96558pt too wide) in paragraph at lines 65--65
+\T1/cmr/m/n/10 https : / / www . bmi . bund . de / DE / themen / sicherheit / k
+riminalitaetsbekaempfung -[]
  []
 
 
-Overfull \hbox (15.78209pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens li-dot	ajs un/va
-i kara noziedznieks?''
+Overfull \hbox (13.21869pt too wide) in paragraph at lines 65--65
+\T1/cmr/m/n/10 und -[] gefahrenabwehr / politisch -[] motivierte -[] kriminalit
+aet / politisch -[] motivierte -[]
  []
 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+I was expecting to see `<', `=', or `>'. Didn't.
 
-Overfull \hbox (28.96716pt too wide) in paragraph at lines 66--66
-\T1/cmtt/m/n/10 kriminalitaetsbekaempfung -[] und -[] gefahrenabwehr / politisc
-h -[] motivierte -[]
- []
+! Missing number, treated as zero.
+<to be read again> 
+                   .
+l.65 \end
+         {document}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-[220]
-Overfull \hbox (6.63304pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Poland, Yes-ter-day and To-day.'
-' In: \T1/cmr/m/it/10 Race&Class
- []
-
-[221] (main.aux (introduction.aux) (Interviews/poldek.aux)
+[238] [239] (main.aux (introduction.aux) (Interviews/poldek.aux)
 (Interviews/jakub.aux) (Interviews/linyal.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux)
 (Interviews/toellner.aux) (Interviews/wezel.aux) (Interviews/nollendorfs.aux)
-(Interviews/urbanovics.aux) (Interviews/runce.aux) (Interviews/krelins.aux)
-(Interviews/zajda.aux) (Interviews/huber.aux) (Interviews/czupryna.aux)
-(Interviews/setkiewicz.aux) (Interviews/bilewicz.aux) (Interviews/gajdzik.aux)
-(Interviews/klimowicz.aux) (Interviews/ruszkowska.aux) (Interviews/stoll.aux)
-(Interviews/fornal.aux))
+(Interviews/urbanovics.aux) (Interviews/runce.aux) (Interviews/lensky.aux)
+(Interviews/krelins.aux) (Interviews/zajda.aux) (Interviews/huber.aux)
+(Interviews/czupryna.aux) (Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
+(Interviews/gajdzik.aux) (Interviews/klimowicz.aux) (Interviews/ruszkowska.aux)
+(Interviews/stoll.aux) (Interviews/fornal.aux))
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1503,39 +1682,37 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### simple group (level 1) entered at line 9 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8981 strings out of 492895
- 162018 string characters out of 3133460
- 653491 words of memory out of 3000000
- 12664 multiletter control sequences out of 15000+200000
- 20239 words of font info for 43 fonts, out of 3000000 for 9000
+ 9367 strings out of 492895
+ 170010 string characters out of 3133460
+ 709730 words of memory out of 3000000
+ 13034 multiletter control sequences out of 15000+200000
+ 19253 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,45p,9521b,1209s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,13n,49p,9521b,3866s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecti0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9
-\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Dr. 
-Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\
+Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. 
+Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk
 > <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
-i600\ecbi1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.
-9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dr. Maglock\AppData
-\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\Dr.
- Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.p
+i600\ecrm0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.
+9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dr. Maglock\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Dr.
+ Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.p
 k> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecrm0700.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Dr. Maglock\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dr
-. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
+pi600\ecbx1200.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dr. Maglock\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dr
+. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.
 pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx2488.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\
-2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (221 pages, 941612 bytes).
+dpi600\ecrm1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
+
+Output written on main.pdf (239 pages, 982005 bytes).
 PDF statistics:
- 1504 PDF objects out of 1728 (max. 8388607)
+ 1496 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

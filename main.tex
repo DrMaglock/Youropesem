@@ -2,7 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
-\usepackage{biblatex}
+\usepackage[style=apa]{biblatex}
 \usepackage{xcolor}
 \addbibresource{./bibliography.bib} %something wrong with this fucking bibliography
 %information for titlepage
@@ -31,9 +31,7 @@
 \thispagestyle{empty}
 \tableofcontents
 % implementing the child files: rename your own files and folder according to these commands.
-%move heading upwards so the table fits on one page
 \include{./introduction}
-%shall we include the bibliography here, i.e. at the end of each section that contains citiations? Or rather at the very end of the book?
 \newpage
 \thispagestyle{empty}
 \vspace*{15em}
@@ -50,6 +48,7 @@
 \include{./Interviews/nollendorfs}
 \include{./Interviews/urbanovics}
 \include{./Interviews/runce} %check whether this is the correct place
+\include{./Interviews/lensky}%check the dates
 \include{./Interviews/krelins}
 \include{./Interviews/zajda}
 \include{./Interviews/huber}
@@ -62,5 +61,5 @@
 \include{./Interviews/stoll}
 \include{./Interviews/fornal}
 \nocite{*}
-\printbibliography
+\printbibliography %sum ifnum thing going on because of apa style
 \end{document}
