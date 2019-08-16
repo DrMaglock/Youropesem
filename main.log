@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  16 AUG 2019 19:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  16 AUG 2019 20:02
 entering extended mode
 **./main.tex
 (main.tex
@@ -664,26 +664,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [36]
 \openout2 = `./Interviews/gienia.aux'.
 
- (Interviews/gienia.tex
-Overfull \hbox (6.63174pt too wide) in paragraph at lines 11--14
-[]\T1/cmr/bx/n/10 Gienia: \T1/cmr/m/n/10 Pi¦t-na±-cie. Wszys-tko rozrabowali...
- Przez trzy ty-god-nie wo-jsko rosyjskie
- []
+ (Interviews/gienia.tex [37
 
 
-Overfull \hbox (8.82101pt too wide) in paragraph at lines 11--14
-\T1/cmr/m/n/10 wysªaªo caª¡ mªodzie» do kopalni w¦gla w Ru-mu-nii. Tam byªo ju»
- peªno mªodzie»y,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37
-
-
-]
-[38]) [39]
+] [38]) [39]
 \openout2 = `./Interviews/geballe.aux'.
 
  (Interviews/geballe.tex
@@ -1344,19 +1328,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [199]
 \openout2 = `./Interviews/klimowicz.aux'.
 
- (Interviews/klimowicz.tex) [200
+ (Interviews/klimowicz.tex
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+ [200
 
 
 ]
-\openout2 = `./Interviews/ruszkowska.aux'.
-
- (Interviews/ruszkowska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [201
-
-
-]
+ [201]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [202]
@@ -1365,50 +1346,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [203]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [204]
+ [204])
 [205]
+\openout2 = `./Interviews/ruszkowska.aux'.
+
+ (Interviews/ruszkowska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [206])
-[207]
-\openout2 = `./Interviews/stoll.aux'.
-
- (Interviews/stoll.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [208
+ [206
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [207]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [208]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [209]
+[210]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211])
+[212]
+\openout2 = `./Interviews/stoll.aux'.
+
+ (Interviews/stoll.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [213
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [214]
 Overfull \hbox (3.4774pt too wide) in paragraph at lines 19--20
 []\T1/cmr/bx/n/10 Katrin Stoll: \T1/cmr/m/n/10 No, of course, no-body negates i
 t, no-body would negate Auschwitz.
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [210]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [211]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [212]
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [213]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [214]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [215]
@@ -1418,6 +1398,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [217]
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [218]
@@ -1426,22 +1411,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [219]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [220])
-[221]
+ [220]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [221]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [222]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [223]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [225])
+[226]
 \openout2 = `./Interviews/fornal.aux'.
 
- (Interviews/fornal.tex [222
+ (Interviews/fornal.tex [227
 
 
-] [223] [224]
+] [228] [229]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [225]
-[226]
+ [230]
+[231]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [227])
-[228]
+ [232])
+[233] [234
+
+
+]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 65.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1463,10 +1466,7 @@ Overfull \hbox (1.75195pt too wide) in paragraph at lines 66--66
 n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
  []
 
-[229
-
-
-]
+[235]
 Overfull \hbox (31.29944pt too wide) in paragraph at lines 66--66
 []\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
 	bu ebreju izn	cin	a²an	a''.
@@ -1496,13 +1496,13 @@ Overfull \hbox (28.96716pt too wide) in paragraph at lines 66--66
 h -[] motivierte -[]
  []
 
-[230]
+[236]
 Overfull \hbox (6.63304pt too wide) in paragraph at lines 66--66
 []\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Poland, Yes-ter-day and To-day.'
 ' In: \T1/cmr/m/it/10 Race&Class
  []
 
-[231] (main.aux (introduction.aux) (Interviews/poldek.aux)
+[237] (main.aux (introduction.aux) (Interviews/poldek.aux)
 (Interviews/jakub.aux) (Interviews/linyal.aux) (Interviews/gienia.aux)
 (Interviews/geballe.aux) (Interviews/bogojavlenska.aux) (Interviews/liberov.aux
 ) (Interviews/toellner.aux) (Interviews/wezel.aux) (Interviews/nollendorfs.aux)
@@ -1546,9 +1546,9 @@ c/dpi600\ecrm1200.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/l
 jfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eu
 rosym/feymr10.pfb>
-Output written on main.pdf (231 pages, 976939 bytes).
+Output written on main.pdf (237 pages, 996085 bytes).
 PDF statistics:
- 1537 PDF objects out of 1728 (max. 8388607)
+ 1555 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2,11 +2,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Contact Details}{13}% 
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{Poldek (Leopold Yehuda Maimon)}{15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Jakub (Yaakov ??)}{28}% 
+\contentsline {section}{Jakub ??}{28}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Miriam Linyal}{31}% 
 \defcounter {refsection}{0}\relax 
@@ -46,8 +44,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Teresa Klimowicz}{200}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{201}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{206}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{208}% 
+\contentsline {section}{Dr Katrin Stoll}{213}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{222}% 
+\contentsline {section}{Maria Fornal}{227}% 

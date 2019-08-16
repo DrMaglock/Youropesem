@@ -530,10 +530,10 @@
       \field{title}{ODIHR Hate Crime Reporting (Poland)}
       \true{nocite}
       \verb{urlraw}
-      \verb http://hatecrime.osce.org/poland?year=2017.
+      \verb http://hatecrime.osce.org/poland?year=2017
       \endverb
       \verb{url}
-      \verb http://hatecrime.osce.org/poland?year=2017.
+      \verb http://hatecrime.osce.org/poland?year=2017
       \endverb
       \warn{\item Entry 'OrganisationofSecurityandCooperationindEurope.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - ignoring}
     \endentry
