@@ -18,11 +18,10 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/global//global/global}
+  \datalist[entry]{nty/global//global/global}
     \entry{AntiDefamationLeague.}{misc}{}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{title}{Anti-Defamation League Global 100 Survey}
       \true{nocite}
@@ -36,12 +35,11 @@
     \endentry
     \entry{Beyer.2015}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=8920983e157b972f10e99e82a6b8c8dc}{%
+        {{hash=8920983e157b972f10e99e82a6b8c8dc}{%
            family={Beyer},
            familyi={B\bibinitperiod},
            given={Heiko},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod}}}%
       }
       \strng{namehash}{8920983e157b972f10e99e82a6b8c8dc}
       \strng{fullhash}{8920983e157b972f10e99e82a6b8c8dc}
@@ -51,9 +49,6 @@
       \strng{authorfullhash}{8920983e157b972f10e99e82a6b8c8dc}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{K{ö}lner Zeitschrift f{ü}r Soziologie und Sozialpsychologie}
@@ -66,12 +61,11 @@
     \endentry
     \entry{Bolin.2012}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=0573f23fc82b7524a828eaecd4a2a4e8}{%
+        {{hash=0573f23fc82b7524a828eaecd4a2a4e8}{%
            family={Bolin},
            familyi={B\bibinitperiod},
            given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod}}}%
       }
       \list{location}{2}{%
         {Huddinge}%
@@ -88,9 +82,6 @@
       \strng{authorfullhash}{0573f23fc82b7524a828eaecd4a2a4e8}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Between National and Academic Agendas: Ethnic Policies and `National Disciplines' at the University of Latvia, 1919-1940}
@@ -106,12 +97,11 @@
     \endentry
     \entry{Bourdieu.1980}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=66fa13ccac127aceaa40508629646509}{%
+        {{hash=66fa13ccac127aceaa40508629646509}{%
            family={Bourdieu},
            familyi={B\bibinitperiod},
            given={Pierre},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod}}}%
       }
       \strng{namehash}{66fa13ccac127aceaa40508629646509}
       \strng{fullhash}{66fa13ccac127aceaa40508629646509}
@@ -121,9 +111,6 @@
       \strng{authorfullhash}{66fa13ccac127aceaa40508629646509}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Actes de la recherche en sciences sociales}
@@ -140,7 +127,6 @@
       }
       \field{sortinit}{E}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
-      \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{title}{ECRI Report on Latvia: (fifth monitoring cycle): Adopted on 4 December 2018}
       \true{nocite}
@@ -159,8 +145,6 @@
       }
       \field{sortinit}{E}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labeltitlesource}{title}
       \field{title}{Experiences and perceptions of anti-Semitism: Second survey on discrimination and hate crime against Jews in the EU}
       \field{year}{2019}
@@ -177,8 +161,6 @@
     \entry{.12.06.2019}{article}{}
       \field{sortinit}{F}
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Baltic News Network}
       \field{title}{For Latvia Jewish property restitution, 40-million- euro compensation proposed}
@@ -194,12 +176,11 @@
     \endentry
     \entry{Gabre.23.05.2019}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=eb01bf913a5798c4caef71688cee829d}{%
+        {{hash=eb01bf913a5798c4caef71688cee829d}{%
            family={Gabre},
            familyi={G\bibinitperiod},
            given={Antra},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{eb01bf913a5798c4caef71688cee829d}
       \strng{fullhash}{eb01bf913a5798c4caef71688cee829d}
@@ -209,9 +190,6 @@
       \strng{authorfullhash}{eb01bf913a5798c4caef71688cee829d}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Neatkarīgā Rīta Avīze}
@@ -228,18 +206,16 @@
     \endentry
     \entry{Gross.2015}{book}{}
       \name{editor}{2}{}{%
-        {{uniquename=0,uniquepart=base,hash=2c75ad34e484432eaaf529aeb51d00e3}{%
+        {{hash=2c75ad34e484432eaaf529aeb51d00e3}{%
            family={Gross},
            familyi={G\bibinitperiod},
            given={Z.},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=ed4f6587fb6c8ad8624c335862ec2a14}{%
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed4f6587fb6c8ad8624c335862ec2a14}{%
            family={Stevick},
            familyi={S\bibinitperiod},
            given={E.\bibnamedelimi D.},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \list{location}{4}{%
         {Heidelberg}%
@@ -258,9 +234,6 @@
       \strng{editorfullhash}{bed5a6a9a03579f71bd50926f5c47b15}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{As the Witnesses Fall Silent: 21st Century Holocaust Education in Curriculum, Policy and Practice}
@@ -269,12 +242,11 @@
     \endentry
     \entry{GrudzinskaGross.2014}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=b7675069fe2b0ed68142c516a841f8a4}{%
+        {{hash=b7675069fe2b0ed68142c516a841f8a4}{%
            family={Grudzinska-Gross},
            familyi={G\bibinithyphendelim G\bibinitperiod},
            given={Irena},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
+           giveni={I\bibinitperiod}}}%
       }
       \strng{namehash}{b7675069fe2b0ed68142c516a841f8a4}
       \strng{fullhash}{b7675069fe2b0ed68142c516a841f8a4}
@@ -284,9 +256,6 @@
       \strng{authorfullhash}{b7675069fe2b0ed68142c516a841f8a4}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{East European Politics and Societies and Cultures}
@@ -298,12 +267,11 @@
     \endentry
     \entry{Haury.2002}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=6e01df64005779f99062cdbe58b4d6c7}{%
+        {{hash=6e01df64005779f99062cdbe58b4d6c7}{%
            family={Haury},
            familyi={H\bibinitperiod},
            given={Thomas},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
+           giveni={T\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Hamburg}%
@@ -319,9 +287,6 @@
       \strng{authorfullhash}{6e01df64005779f99062cdbe58b4d6c7}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Antisemitismus von links: Kommunistische Ideologie, Nationalismus und Antizionismus in der fr{ü}hen DDR.}
@@ -331,8 +296,6 @@
     \entry{.14.02.2019}{article}{}
       \field{sortinit}{I}
       \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
       \field{journaltitle}{LSM News}
       \field{title}{Izbeidz lietu pret Herbertu Cukuru par iespējamo līdzdalību ebreju iznīcinā{š}anā}
@@ -347,12 +310,11 @@
     \endentry
     \entry{Janion.2014}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=12f200fb2aa01de972e196c733c0caa0}{%
+        {{hash=12f200fb2aa01de972e196c733c0caa0}{%
            family={Janion},
            familyi={J\bibinitperiod},
            given={Maria},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Frankfurt a.M.}%
@@ -368,9 +330,6 @@
       \strng{authorfullhash}{12f200fb2aa01de972e196c733c0caa0}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Die Polen und ihre Vampire: Studien zur Kritik kultureller Phantasmen}
@@ -379,7 +338,7 @@
     \endentry
     \entry{KotowskiE.V.SchoepsJ.H.&WallenbornH..2001}{book}{}
       \name{editor}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=ab025eff6896c556129bc096a979c269}{%
+        {{hash=ab025eff6896c556129bc096a979c269}{%
            family={{Kotowski, E. V., Schoeps, J. H., {\&} Wallenborn, H.}},
            familyi={K\bibinitperiod}}}%
       }
@@ -394,9 +353,6 @@
       \strng{editorfullhash}{ab025eff6896c556129bc096a979c269}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{Handbuch zur Geschichte der Juden in Europa.}
@@ -405,12 +361,11 @@
     \endentry
     \entry{Merritt.11.06.2019}{misc}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=96681de5ad789ac2c2fc549d087df707}{%
+        {{hash=96681de5ad789ac2c2fc549d087df707}{%
            family={Merritt},
            familyi={M\bibinitperiod},
            given={Harry\bibnamedelima C.},
-           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
         {{hash=1ba2fc7c5bac2485c548e5c9f4aa4c61}{%
@@ -428,9 +383,6 @@
       \strng{editorfullhash}{1ba2fc7c5bac2485c548e5c9f4aa4c61}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{In the Fight, yet on the Margins: Latvian Jewish Red Army Soldiers}
@@ -446,12 +398,11 @@
     \endentry
     \entry{Misco.2015}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=dce5415d4b93fba9b1169e482e9639e1}{%
+        {{hash=dce5415d4b93fba9b1169e482e9639e1}{%
            family={Misco},
            familyi={M\bibinitperiod},
            given={Thomas},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
+           giveni={T\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=2c75ad34e484432eaaf529aeb51d00e3}{%
@@ -485,9 +436,6 @@
       \strng{editorfullhash}{bed5a6a9a03579f71bd50926f5c47b15}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{As the Witnesses Fall Silent}
@@ -503,7 +451,6 @@
       }
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
-      \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{title}{Naida runa un vārda brīvība: Tiesu prakse krimināllietās par Krimināllikuma 74., 78., 150.}
       \true{nocite}
@@ -518,12 +465,11 @@
     \endentry
     \entry{Neiburgs.27.01.2019}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=c973b4be180e7cdf63761a2b8ec6df67}{%
+        {{hash=c973b4be180e7cdf63761a2b8ec6df67}{%
            family={Neiburgs},
            familyi={N\bibinitperiod},
            given={Uldis},
-           giveni={U\bibinitperiod},
-           givenun=0}}%
+           giveni={U\bibinitperiod}}}%
       }
       \strng{namehash}{c973b4be180e7cdf63761a2b8ec6df67}
       \strng{fullhash}{c973b4be180e7cdf63761a2b8ec6df67}
@@ -533,9 +479,6 @@
       \strng{authorfullhash}{c973b4be180e7cdf63761a2b8ec6df67}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{LA.lv Ziņu portāls Latvijai}
@@ -552,18 +495,16 @@
     \endentry
     \entry{Oberlander.2005}{book}{}
       \name{editor}{2}{}{%
-        {{uniquename=0,uniquepart=base,hash=325173bdcae4432f06a1278061fc5879}{%
+        {{hash=325173bdcae4432f06a1278061fc5879}{%
            family={Oberl{ä}nder},
            familyi={O\bibinitperiod},
            given={Erwin},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=884a01c64fde9db5638bbc94ce2d04b5}{%
+           giveni={E\bibinitperiod}}}%
+        {{hash=884a01c64fde9db5638bbc94ce2d04b5}{%
            family={Nollendorfs},
            familyi={N\bibinitperiod},
            given={Valters},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
+           giveni={V\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Riga}%
@@ -576,9 +517,6 @@
       \strng{editorfullhash}{c189a7e702de5c654bc43fb071ae1a3f}
       \field{sortinit}{O}
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{The Hidden and Forbidden History of Latvia under Soviet and Nazi Occupations. 1940-1991}
@@ -588,7 +526,6 @@
     \entry{OrganisationofSecurityandCooperationindEurope.}{misc}{}
       \field{sortinit}{O}
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
-      \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{title}{ODIHR Hate Crime Reporting (Poland)}
       \true{nocite}
@@ -603,8 +540,6 @@
     \entry{.16.06.2019}{article}{}
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Pietik}
       \field{title}{Partijas {"}Attīstībai/Par!{"} dāsnais piedāvājums ebreju kopienai -- {š}ībrī{ž}a labestības uzplūdi vai iepriek{š} aprēķināts gājiens}
@@ -624,8 +559,6 @@
       }
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labeltitlesource}{title}
       \field{title}{Politisch Motivierte Kriminalit{ä}t im Jahr 2018: Bundesweite Fallzahlen}
       \field{year}{2019}
@@ -642,8 +575,6 @@
     \entry{.21.06.2019}{article}{}
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Baltic News Network}
       \field{title}{Proposed EUR 40 mln compensation to Latvian Jewish community retracted}
@@ -659,12 +590,11 @@
     \endentry
     \entry{Reichelt.2011}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=4122c6ec3046050b6804977fef6f0e9b}{%
+        {{hash=4122c6ec3046050b6804977fef6f0e9b}{%
            family={Reichelt},
            familyi={R\bibinitperiod},
            given={Katrin},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
+           giveni={K\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Berlin}%
@@ -680,9 +610,6 @@
       \strng{authorfullhash}{4122c6ec3046050b6804977fef6f0e9b}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Lettland unter deutscher Besatzung 1941-1944: der lettische Anteil am Holocaust}
@@ -691,12 +618,11 @@
     \endentry
     \entry{Salnitis.1938}{book}{}
       \name{editor}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=767370a434d65b5d02eca6c793d5a7da}{%
+        {{hash=767370a434d65b5d02eca6c793d5a7da}{%
            family={Salnītis},
            familyi={S\bibinitperiod},
            given={V.},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
+           giveni={V\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Rīga}%
@@ -709,9 +635,6 @@
       \strng{editorfullhash}{767370a434d65b5d02eca6c793d5a7da}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{Latvijas kultūras statistika: 1918-1937.}
@@ -720,12 +643,11 @@
     \endentry
     \entry{Skujenieks.1930}{book}{}
       \name{editor}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=440799b7c21a708678d2549a738aa340}{%
+        {{hash=440799b7c21a708678d2549a738aa340}{%
            family={Skujenieks},
            familyi={S\bibinitperiod},
            given={Marģers},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Riga}%
@@ -738,9 +660,6 @@
       \strng{editorfullhash}{440799b7c21a708678d2549a738aa340}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{Tre{š}ā tautas skaitī{š}ana Latvijā}
@@ -753,8 +672,6 @@
       }
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labeltitlesource}{title}
       \field{title}{Special Eurobarometer 484. Report: Perceptions of anti-Semitism: Survey requested by the European Commission, Directorate-General for Justice and Consumers and co-ordinated by the Directorate-General for Communication.}
       \field{year}{2019}
@@ -770,12 +687,11 @@
     \endentry
     \entry{Stranga.2005}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e53165ce4cb17c359b9ad331cdf693e1}{%
+        {{hash=e53165ce4cb17c359b9ad331cdf693e1}{%
            family={Stranga},
            familyi={S\bibinitperiod},
            given={Aivars},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=325173bdcae4432f06a1278061fc5879}{%
@@ -803,9 +719,6 @@
       \strng{editorfullhash}{c189a7e702de5c654bc43fb071ae1a3f}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Hidden and Forbidden History of Latvia under Soviet and Nazi Occupations.}
@@ -815,12 +728,11 @@
     \endentry
     \entry{TokarskaBakir.2011}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=26363c3cbbb2a82a1eee5ec9723e9ab8}{%
+        {{hash=26363c3cbbb2a82a1eee5ec9723e9ab8}{%
            family={Tokarska-Bakir},
            familyi={T\bibinithyphendelim B\bibinitperiod},
            given={Joanna},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
       \strng{fullhash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
@@ -830,9 +742,6 @@
       \strng{authorfullhash}{26363c3cbbb2a82a1eee5ec9723e9ab8}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{East European Politics and Societies}
@@ -846,24 +755,21 @@
     \endentry
     \entry{Uhlig.2015}{book}{}
       \name{editor}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=4cd2c2857b2a91e99ddf7b0f1823f929}{%
+        {{hash=4cd2c2857b2a91e99ddf7b0f1823f929}{%
            family={Uhlig},
            familyi={U\bibinitperiod},
            given={Tom},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=de89de8c322ecdd240a819cc0c98f7ad}{%
+           giveni={T\bibinitperiod}}}%
+        {{hash=de89de8c322ecdd240a819cc0c98f7ad}{%
            family={Gehrlein},
            familyi={G\bibinitperiod},
            given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=b3c352634a7090f0c8d53116979a1953}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=b3c352634a7090f0c8d53116979a1953}{%
            family={Busch},
            familyi={B\bibinitperiod},
            given={Charlotte},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
+           giveni={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
@@ -871,17 +777,14 @@
       \list{publisher}{1}{%
         {Springer VS}%
       }
-      \strng{namehash}{dc180228b1e74b34c3ae733d35b587fe}
+      \strng{namehash}{362d4ccef7ee07e7ded1cda33436081b}
       \strng{fullhash}{362d4ccef7ee07e7ded1cda33436081b}
       \strng{bibnamehash}{362d4ccef7ee07e7ded1cda33436081b}
       \strng{editorbibnamehash}{362d4ccef7ee07e7ded1cda33436081b}
-      \strng{editornamehash}{dc180228b1e74b34c3ae733d35b587fe}
+      \strng{editornamehash}{362d4ccef7ee07e7ded1cda33436081b}
       \strng{editorfullhash}{362d4ccef7ee07e7ded1cda33436081b}
       \field{sortinit}{U}
       \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{Schiefheilungen: Zeitgen{ö}ssische Betrachtungen {ü}ber Antisemitismus.}
@@ -890,12 +793,11 @@
     \endentry
     \entry{Viksne.2005}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=7803bb1ef338ff429b03967db40343ea}{%
+        {{hash=7803bb1ef338ff429b03967db40343ea}{%
            family={Vīksne},
            familyi={V\bibinitperiod},
            given={Rudīte},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
+           giveni={R\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=325173bdcae4432f06a1278061fc5879}{%
@@ -923,9 +825,6 @@
       \strng{editorfullhash}{c189a7e702de5c654bc43fb071ae1a3f}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Hidden and Forbidden History of Latvia under Soviet and Nazi Occupations.}
@@ -937,12 +836,11 @@
     \endentry
     \entry{Wezel.2016}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=de84e0061de792d13c0fcd4bc25808e6}{%
+        {{hash=de84e0061de792d13c0fcd4bc25808e6}{%
            family={Wezel},
            familyi={W\bibinitperiod},
            given={Katja},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
+           giveni={K\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Berlin}%
@@ -958,9 +856,6 @@
       \strng{authorfullhash}{de84e0061de792d13c0fcd4bc25808e6}
       \field{sortinit}{W}
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Geschichte als Politikum: Lettland und die Aufarbeitung nach der Diktatur}
@@ -969,12 +864,11 @@
     \endentry
     \entry{Zizek.1989}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=4287536cb16036c0e3b7c65fdb3c3c19}{%
+        {{hash=4287536cb16036c0e3b7c65fdb3c3c19}{%
            family={{Ž}i{ž}ek},
            familyi={Ž\bibinitperiod},
            given={Slavoj},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Verso}%
@@ -987,9 +881,6 @@
       \strng{authorfullhash}{4287536cb16036c0e3b7c65fdb3c3c19}
       \field{sortinit}{Ž}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The sublime object of ideology}
@@ -998,12 +889,11 @@
     \endentry
     \entry{Zuk.2017}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=0a0e52b788f3f67c54efaa53bdf3aff5}{%
+        {{hash=0a0e52b788f3f67c54efaa53bdf3aff5}{%
            family={Zuk},
            familyi={Z\bibinitperiod},
            given={Piotr},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod}}}%
       }
       \strng{namehash}{0a0e52b788f3f67c54efaa53bdf3aff5}
       \strng{fullhash}{0a0e52b788f3f67c54efaa53bdf3aff5}
@@ -1013,9 +903,6 @@
       \strng{authorfullhash}{0a0e52b788f3f67c54efaa53bdf3aff5}
       \field{sortinit}{Z}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Race{\&}Class}

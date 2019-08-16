@@ -8,44 +8,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Jakub (Yaakov ??)}{28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Miriam Linyal}{33}% 
+\contentsline {section}{Miriam Linyal}{31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{David Geballe}{46}% 
+\contentsline {section}{Gienia ??}{37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Svetlana Bogojavlenska}{59}% 
+\contentsline {section}{David Geballe}{40}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitaly Liberov}{78}% 
+\contentsline {section}{Dr Svetlana Bogojavlenska}{53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Axel T\IeC {\"o}llner}{83}% 
+\contentsline {section}{Vitaly Liberov}{72}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katja Wezel}{95}% 
+\contentsline {section}{Dr Axel T\IeC {\"o}llner}{77}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Valters Nollendorfs}{105}% 
+\contentsline {section}{Dr Katja Wezel}{89}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{115}% 
+\contentsline {section}{Valters Nollendorfs}{99}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Inese Runce}{122}% 
+\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{109}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ilya Lensky}{127}% 
+\contentsline {section}{Inese Runce}{116}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{146}% 
+\contentsline {section}{Ilya Lensky}{121}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{153}% 
+\contentsline {section}{Kalevs Krelins}{138}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{156}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{145}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{165}% 
+\contentsline {section}{Dr Steffen Huber}{148}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{177}% 
+\contentsline {section}{Serhii Czupryna}{157}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{186}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{169}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{200}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{178}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{208}% 
+\contentsline {section}{Bartosz Gajdzik}{192}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{209}% 
+\contentsline {section}{Teresa Klimowicz}{200}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{216}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{201}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{230}% 
+\contentsline {section}{Dr Katrin Stoll}{208}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Maria Fornal}{222}% 
