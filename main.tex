@@ -3,12 +3,12 @@
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
 \usepackage{biblatex}
+%\usepackage{german} --> trouble with quotation marks
 \usepackage{xcolor}
-\addbibresource{./bibliography.bib} %something wrong with this fucking bibliography
-%information for titlepage
+\addbibresource{./bibliography.bib} 
 \title{``When the refugees are gone, they'll come after us''\\ Experiences with Anti-Semitism in Central Europe after 1945}
 \author{The Youth of Europe Against Anti-Semitism}
-\date{}
+\date{August 20th, 2019}
 %numbering and table of contents
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{0}
@@ -21,22 +21,27 @@
 \fancyfoot[RO]{\thepage}
 \fancyfoot[LE]{\thepage}
 %\DeclareUnicodeCharacter{202F}{FIX ME!!}
-%begin document
 \begin{document}
 	\setlength{\parindent}{0pt}
 	\setlength{\parskip}{1em}
-\maketitle 
+\begin{titlepage}
+	\centering
+	{\scshape\LARGE The Youth of Europe
+	Against Anti-Semitism \par}
+	\vspace{1cm}
+	{\huge\bfseries''When the refugees are gone, they'll come after us'' \par}
+	\vspace{2cm}
+	{\Large\itshape Experiences with Anti-Semitism in Central Europe after 1945\par}
+	\vfill
+		% Bottom of the page
+	{\large\today\par}
+\end{titlepage}
 %make more beautiful title
 %get rid of empty page
 \thispagestyle{empty}
 \tableofcontents
 % implementing the child files: rename your own files and folder according to these commands.
 \include{./introduction}
-\newpage
-\thispagestyle{empty}
-\vspace*{15em}
- \textbf{\Huge{THE INTERVIEWS}} 
- %further formatting needed
 \include{./Interviews/poldek}
 \include{./Interviews/jakub}
 \include{./Interviews/linyal}
@@ -46,21 +51,22 @@
 \include{./Interviews/liberov}
 \include{./Interviews/toellner}
 \include{./Interviews/wezel}
-\include{./Interviews/nollendorfs}
+\include{./Interviews/runce}
 \include{./Interviews/urbanovics}
-\include{./Interviews/runce} %check whether this is the correct place
-\include{./Interviews/lensky}%check the dates
+\include{./Interviews/lensky}
+\include{./Interviews/nollendorfs}
 \include{./Interviews/krelins}
 \include{./Interviews/zajda}
 \include{./Interviews/huber}
-\include{./Interviews/czupryna} %check out this interview to see the formatting style that Meggy chose, and stick to the following agreements: (1) direct speech/quotatiions and technical or pejorative terms in double quotation marks, as well as book/film names etc. No quotation marks for organisation names (2) phrases in another language in italics, applies e.g. for Nazi terms and Hebrew terms referring to Jewish life [aliyah, kashrut,...]. Put all newspaper names in italics!
+\include{./Interviews/czupryna} 
 \include{./Interviews/setkiewicz}
 \include{./Interviews/bilewicz}
-\include{./Interviews/gajdzik}
-\include{./Interviews/klimowicz}
 \include{./Interviews/ruszkowska}
 \include{./Interviews/stoll}
+\include{./Interviews/gajdzik}
+\include{./Interviews/klimowicz}
 \include{./Interviews/fornal}
+\include{./Interviews/trier}
 \nocite{*}
 \printbibliography 
 \end{document}
