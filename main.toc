@@ -35,6 +35,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr. Katja Wezel}{88}% 
 \babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Inese Runce}{98}% 
 \defcounter {refsection}{0}\relax 
@@ -44,30 +45,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Valters Nollendorfs}{127}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{136}% 
+\contentsline {section}{Kalevs Krelins}{137}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{143}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{144}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{146}% 
+\contentsline {section}{Dr Steffen Huber}{147}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{155}% 
+\contentsline {section}{Serhii Czupryna}{156}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{166}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{168}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{175}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{177}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{189}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{191}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{196}% 
+\contentsline {section}{Dr Katrin Stoll}{198}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{210}% 
+\contentsline {section}{Bartosz Gajdzik}{212}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{218}% 
+\contentsline {section}{Teresa Klimowicz}{220}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{225}% 
+\contentsline {section}{Maria Fornal}{227}% 
 \babel@toc {ngerman}{}
-\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{232}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{234}% 
 \babel@toc {ngerman}{}
-\babel@toc {ngerman}{}
+\babel@toc {british}{}
