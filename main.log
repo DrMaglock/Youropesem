@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  16 AUG 2019 22:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  17 AUG 2019 13:05
 entering extended mode
 **./main.tex
 (main.tex
@@ -292,6 +292,46 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-german\ngerman.ldf"
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
+phy)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-german\ngermanb.ldf"
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
+aphy)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count278
+\U@D=\dimen103
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count279
+)
+Package babel Info: Making " an active character on input line 121.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\british.ldf"
+Language: british 2017/06/06 v3.3r English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -326,16 +366,41 @@ s
 \f@nch@O@olf=\skip72
 \f@nch@O@orf=\skip73
 )
+Package biblatex Info: Trying to load language 'british'...
+Package biblatex Info: ... file 'british.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\british.lbx"
+File: british.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\ngerman.lbx"
+File: ngerman.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\german.lbx"
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
-\@quotelevel=\count278
-\@quotereset=\count279
- (main.aux
-(introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\german.lbx"
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count280
+\@quotereset=\count281
+(main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
 (Interviews/linyal.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux)
 (Interviews/toellner.aux) (Interviews/wezel.aux) (Interviews/runce.aux)
@@ -479,16 +544,16 @@ Package biblatex Info: Reference section=0 on input line 24.
 Package biblatex Info: Reference segment=0 on input line 24.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen103
+\scratchcounter=\count282
+\scratchdimen=\dimen104
 \scratchbox=\box28
-\nofMPsegments=\count281
-\nofMParguments=\count282
+\nofMPsegments=\count283
+\nofMParguments=\count284
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen104
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen105
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
 \everyMPtoPDFconversion=\toks18
 ) [1
 
@@ -498,9 +563,9 @@ Package biblatex Info: Reference segment=0 on input line 24.
 
 ] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <5> on input line 4.
 
 Underfull \vbox (badness 5924) has occurred while \output is active []
 
@@ -537,9 +602,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 
 (Interviews/poldek.tex
-Overfull \hbox (9.95776pt too wide) in paragraph at lines 8--9
-[]\T1/cmr/bx/n/10 Jakie ma Pan pier-wsze wspom-nienia, takie na-j-ciekawsze, na
--jpi¦kniejsze,
+Overfull \hbox (3.90785pt too wide) in paragraph at lines 14--15
+[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Ja si¦ ju» wy-chowy-waªem w j¦-zy-ku p
+ols-kim, w kul-tur-ze pols-kiej. Wszyst-
  []
 
 
@@ -549,30 +614,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (6.5086pt too wide) in paragraph at lines 24--25
-[]\T1/cmr/bx/n/10 Jak Pan wspom-ina kon-takty z mªodzie»¡ z in-nych szkóª, z ró
-wie±nikami,
- []
-
-
-Overfull \hbox (0.24672pt too wide) in paragraph at lines 34--35
-[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Na ul-icy Grze-gorzews-kich, w pier-ws
-zym rogu. Dzisiaj tam si¦ zmieniªo,
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-Overfull \hbox (19.98865pt too wide) in paragraph at lines 80--81
-[]\T1/cmr/bx/n/10 Czy spo-tykaª si¦ Pan z tym, »e cho-cia» Ko±-cióª w jaki± spo
-sób, bezpo±redni
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
@@ -582,24 +629,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
-Overfull \hbox (3.04695pt too wide) in paragraph at lines 123--124
-[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Tam nam po-ma-gali, znaczy mieli po-ma
--ga¢ wi¦cej, ale mo»na powiedzie¢
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Overfull \hbox (2.8433pt too wide) in paragraph at lines 159--160
-[]\T1/cmr/bx/n/10 Poldek: \T1/cmr/m/n/10 Mieli±my znowu wielkie szcz¦±-cie. Uci
-ek-li±my w nocy i szli±my piechot¡,
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
@@ -635,12 +670,6 @@ Underfull \vbox (badness 1509) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (0.56609pt too wide) in paragraph at lines 35--36
-[]\T1/cmr/bx/n/10 Miriam: \T1/cmr/m/n/10 Przy-jechaªam do getta ªódzkiego z rod
-z-in¡. Moja caªa rodz-ina zgin¦ªa.
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31]
@@ -650,9 +679,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33]
-Overfull \hbox (3.99934pt too wide) in paragraph at lines 103--104
-[]\T1/cmr/bx/n/10 Miriam: \T1/cmr/m/n/10 Teraz mieszkaj¡. A jedna rzecz mi si¦ 
-nie podobaªa w Polsce. Powiedzi-
+Overfull \hbox (0.7975pt too wide) in paragraph at lines 91--92
+[]\T1/cmr/bx/n/10 Miriam: \T1/cmr/m/n/10 Ja ju» by-ªam trzy ra-zy. Po-jechaªam 
+do O±wi¦-ci-mia z dzie¢-mi, chciaªam,
  []
 
 
@@ -681,47 +710,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41]
-Overfull \hbox (5.46072pt too wide) in paragraph at lines 49--50
-\T1/cmr/m/n/10 Arten von Kom-mentaren. Ein-mal die mus-lim-isch geprägten, die 
-de-mentsprechend
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [42]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43]
-Overfull \hbox (3.44269pt too wide) in paragraph at lines 69--70
-\T1/cmr/m/n/10 Klien-tel ist ein ganz an-deres, das muss natür-lich auch de-men
-tsprechend angepasst
- []
-
-
-Overfull \hbox (10.99779pt too wide) in paragraph at lines 71--72
-\T1/cmr/bx/n/10 mein per-sön-licher Ein-druck war, dass das Ver-hält-nis zwis-c
-hen deutschen
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [44]
-Overfull \hbox (7.52225pt too wide) in paragraph at lines 75--76
-[]\T1/cmr/bx/n/10 Was genau wird am Helene-Lange-Gymnasium an diesem Tag gemach
-t? 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45]
-Overfull \hbox (4.07912pt too wide) in paragraph at lines 91--92
-\T1/cmr/bx/n/10 das Wis-sen war wirk-lich gle-ich Null, also er-schreck-end sch
-wach. Haben
- []
-
 [46]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -732,21 +732,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49]
-Overfull \hbox (14.58025pt too wide) in paragraph at lines 154--155
-[]\T1/cmr/bx/n/10 Werden die an-ti-semi-tis-chen An-griffe, die sie miter-leben
-, gegen Gemeinde
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50]
-Overfull \hbox (19.93727pt too wide) in paragraph at lines 166--167
-[]\T1/cmr/bx/n/10 Würden Sie den spon-ta-nen An-ti-semitismus nur Leuten, die a
-ls Flüchtlinge
- []
-
-) [51]
+ [50])
+[51]
 \openout2 = `./Interviews/bogojavlenska.aux'.
 
  (Interviews/bogojavlenska.tex
@@ -756,68 +745,21 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (1.54454pt too wide) in paragraph at lines 15--16
-[]\T1/cmr/bx/n/10 Sind ihre Klassenkam-er-aden alleine aus-ge-wan-dert oder mit
- ihren Fam-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53]
-Overfull \hbox (4.00644pt too wide) in paragraph at lines 31--34
-[]\T1/cmr/bx/n/10 Svetlana Bo-go-javlen-ska: \T1/cmr/m/n/10 Die über-wiegende M
-ehrheit hat Jid-disch gesprochen.
- []
-
-[54] [55]
-Overfull \hbox (12.78116pt too wide) in paragraph at lines 51--52
-[]\T1/cmr/bx/n/10 Sie sagen "`miteinan-der in Kon-takt"'? Gab es auch famil-iär
-e Verbindun-
- []
-
-[56]
+[54] [55] [56]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57]
 [58]
-Overfull \hbox (12.1813pt too wide) in paragraph at lines 79--82
-\T1/cmr/m/n/10 semitismus, der auch nach dem Krieg Durch-schlag hatte. Z.B. gin
-g die Pogromwelle
- []
-
-
-Overfull \hbox (16.94217pt too wide) in paragraph at lines 83--84
-[]\T1/cmr/bx/n/10 Kann man dann sagen, dass der An-ti-semitismus in der Zwis-ch
-enkriegszeit
- []
-
-
-Overfull \hbox (1.3682pt too wide) in paragraph at lines 85--86
-[]\T1/cmr/bx/n/10 Svetlana Bo-go-javlen-ska: \T1/cmr/m/n/10 Vom An-ti-semitismu
-s in der Zwis-chenkriegszeit halte
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60]
-[61]
-Overfull \hbox (8.2068pt too wide) in paragraph at lines 106--107
-[]\T1/cmr/bx/n/10 Gab es in-ner-halb der Frei-willi-gen-ver-bände im Nach-hinei
-n ir-gendwelche,
- []
-
-[62]
-Overfull \hbox (11.15378pt too wide) in paragraph at lines 112--114
-\T1/cmr/m/n/10 gröÿte Volk unter allen Völk-ern der Sow-je-tu-nion sei. Und jed
-er, der das bezweifelte,
- []
-
-
+[61] [62]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
@@ -827,19 +769,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65]
-[66]
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+ [66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
-Overfull \hbox (7.76572pt too wide) in paragraph at lines 169--170
-[]\T1/cmr/bx/n/10 Und wie groÿ ist das Prob-lem-be-wusst-sein? Wie sehr ist An-
-ti-semitismus
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
-[][]\T1/cmr/m/n/8 Die Ausstel-lung ist auf der In-ter-net-seite des Mu-se-ums d
-ig-i-tal zugänglich:
+[][]\T1/cmr/m/n/8 Die Aus-stel-lung ist auf der In-ter-netsei-te des Mu-se-ums 
+di-gi-tal zu-gäng-lich:
  []
 
 
@@ -891,18 +829,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81]
-Overfull \hbox (5.71031pt too wide) in paragraph at lines 58--59
-\T1/cmr/bx/n/10 aufgenom-men mit Nach-fahren der Ju-den, die jetzt in den USA w
-ohnen,
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [82]
-Overfull \hbox (1.67784pt too wide) in paragraph at lines 67--68
-[]\T1/cmr/bx/n/10 Jetzt ist ja zum Glück ein di-rek-ter, of-fener An-ti-semitis
-mus in Deutsch-
+Overfull \hbox (1.42235pt too wide) in paragraph at lines 67--68
+[]\T1/cmr/bx/n/10 Jetzt ist ja zum Glück ein di-rek-ter, of-fe-ner An-ti-se-mi-
+tis-mus in Deutsch-
  []
 
 
@@ -912,13 +844,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [84]
-[85]
-Overfull \hbox (2.04025pt too wide) in paragraph at lines 97--98
-[]\T1/cmr/bx/n/10 Axel Töll-ner: \T1/cmr/m/n/10 Ja, und das Prob-lem ist, je in
--ten-siver man sich damit beschäftigt,
- []
-
-)
+[85])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [86]
@@ -929,9 +855,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (5.51163pt too wide) in paragraph at lines 17--18
-[]\T1/cmr/bx/n/10 Wenn Min-der-heiten über die Sprache definiert wur-den, gal-t
-en deutsch-
+Overfull \hbox (5.25613pt too wide) in paragraph at lines 17--18
+[]\T1/cmr/bx/n/10 Wenn Min-der-hei-ten über die Spra-che de-fi-niert wur-den, g
+al-ten deutsch-
  []
 
 
@@ -948,19 +874,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [93]
-Overfull \hbox (3.31633pt too wide) in paragraph at lines 49--50
-\T1/cmr/bx/n/10 Aber trotz-dem gab es An-ti-semitismus und Ju-den-ver-fol-gung 
-auch unter
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94]
 [95]
-Overfull \hbox (6.76132pt too wide) in paragraph at lines 65--66
-[]\T1/cmr/bx/n/10 Katja Wezel: \T1/cmr/m/n/10 Das Prob-lem ist, dass es nur ein
-e Hand-voll Holocaust-Überlebende
+Overfull \hbox (4.8729pt too wide) in paragraph at lines 65--66
+[]\T1/cmr/bx/n/10 Katja We-zel: \T1/cmr/m/n/10 Das Pro-blem ist, dass es nur ei
+-ne Hand-voll Holocaust-Überlebende
  []
 
 
@@ -1025,15 +945,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--39
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1755) has occurred while \output is active []
 
  [104]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [105]
 Overfull \hbox (51.7272pt too wide) in paragraph at lines 117--121
-\T1/cmr/m/n/10 vi[]am. Li-dot	ajs Cukurs, kur² bija Ar	aja..., nu, kas nodar-bo
-j	as ar ebreju...em...antisem	tismu
+\T1/cmr/m/n/10 vi[]am. Lidot	ajs Cukurs, kur² bija Ar	aja..., nu, kas nodar-boj
+	as ar ebreju...em...antisem	tismu
  []
 
 
@@ -1200,8 +1120,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Overfull \hbox (3.44824pt too wide) in paragraph at lines 20--20
-\T1/cmr/bx/n/10 me-dia say that Pol-ish anti-Semitism op-er-ates on a ver-bal l
-evel, mostly?
+\T1/cmr/bx/n/10 me-dia say that Pol-ish anti-Semitism op-er-ates on a verbal le
+vel, mostly?
  []
 
 
@@ -1256,6 +1176,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout2 = `./Interviews/bilewicz.aux'.
 
  (Interviews/bilewicz.tex
+Overfull \hbox (1.13164pt too wide) in paragraph at lines 8--8
+\T1/cmr/m/it/10 The in-ter-view took place in the Fac-ulty of Psy-cho-logy of t
+he Uni-ver-sity of Warsaw
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [177
@@ -1330,12 +1256,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [199]
-Overfull \hbox (3.4774pt too wide) in paragraph at lines 19--20
-[]\T1/cmr/bx/n/10 Katrin Stoll: \T1/cmr/m/n/10 No, of course, no-body negates i
-t, no-body would negate Auschwitz.
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [200]
@@ -1374,11 +1294,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [210])
-Overfull \hbox (1.7256pt too wide) in paragraph at lines 134--65
-\T1/cmr/m/n/10 Kiesinger a slap in the face say-ing, "`\T1/cmr/m/it/10 Nazi Kie
-singer, ab-treten\T1/cmr/m/n/10 !"'  "`Step down!"',
- []
-
 [211]
 \openout2 = `./Interviews/gajdzik.aux'.
 
@@ -1390,8 +1305,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Overfull \hbox (0.785pt too wide) in paragraph at lines 15--16
-[]\T1/cmr/bx/n/10 Bartosz Gajdzik: \T1/cmr/m/n/10 It's usu-ally some-thing be-t
-ween pos-i-tive and neg-a-tive, there's
+[]\T1/cmr/bx/n/10 Bartosz Ga-jdzik: \T1/cmr/m/n/10 It's usu-ally some-thing bet
+ween pos-it-ive and neg-at-ive, there's
  []
 
 [213]
@@ -1445,10 +1360,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [230]
-[231]
+[231])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [232])
+ [232]
 [233]
 \openout2 = `./Interviews/trier.aux'.
 
@@ -1468,21 +1383,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [237]
-Overfull \hbox (4.9326pt too wide) in paragraph at lines 61--62
-[]\T1/cmr/bx/n/10 Wo und wie hat ihr et-was über das Ju-den-tum, über jüdis-che
- Geschichte
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [238]
-Overfull \hbox (4.47716pt too wide) in paragraph at lines 75--75
-[]\T1/cmr/bx/n/10 Haben eure El-tern euch et-was von an-ti-semi-tis-chen Er-leb
--nis-sen erzählt? 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [239]
@@ -1497,18 +1400,6 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (14.5657pt too wide) in paragraph at lines 72--72
-[]\T1/cmr/m/n/10 Heiko Beyer. ``The-o-rien der An-ti-semitismus-forschung: Eine
- Sys-tem-a-tisierung''.
- []
-
-
-Overfull \hbox (10.92773pt too wide) in paragraph at lines 72--72
-\T1/cmr/m/n/10 In: \T1/cmr/m/it/10 Köl-ner Zeitschrift für Sozi-olo-gie und Soz
-ialpsy-cholo-gie \T1/cmr/m/n/10 67 (2015), pp. 573
- []
-
-
 Overfull \hbox (1.75195pt too wide) in paragraph at lines 72--72
 \T1/cmtt/m/n/10 occupied -[] latvia -[] 40 -[] million -[] euro -[] compensatio
 n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
@@ -1522,8 +1413,8 @@ Overfull \hbox (31.29944pt too wide) in paragraph at lines 72--72
 
 
 Overfull \hbox (2.49124pt too wide) in paragraph at lines 72--72
-\T1/cmr/m/it/10 Geschichte der Ju-den in Eu-ropa. \T1/cmr/m/n/10 Wis-senschaftl
-iche Buchge-sellschaft., 2001. 
+\T1/cmr/m/it/10 Geschichte der Juden in Europa. \T1/cmr/m/n/10 Wis-senschaft-li
+che Buchgesell-schaft., 2001. 
  []
 
 
@@ -1534,8 +1425,8 @@ Overfull \hbox (10.05936pt too wide) in paragraph at lines 72--72
 
 
 Overfull \hbox (15.78209pt too wide) in paragraph at lines 72--72
-[]\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens li-dot	ajs un/va
-i kara noziedznieks?''
+[]\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens lidot	ajs un/vai
+ kara noziedznieks?''
  []
 
 
@@ -1546,7 +1437,7 @@ h -[] motivierte -[]
 
 [244]
 Overfull \hbox (6.63304pt too wide) in paragraph at lines 72--72
-[]\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Poland, Yes-ter-day and To-day.'
+[]\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Po-land, Yes-ter-day and Today.'
 ' In: \T1/cmr/m/it/10 Race&Class
  []
 
@@ -1564,13 +1455,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9005 strings out of 492895
- 162917 string characters out of 3133460
- 660295 words of memory out of 3000000
- 12666 multiletter control sequences out of 15000+200000
+ 9685 strings out of 492895
+ 173093 string characters out of 3133460
+ 724079 words of memory out of 3000000
+ 13307 multiletter control sequences out of 15000+200000
  21469 words of font info for 43 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 38i,13n,45p,9449b,1199s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 1143 hyphenation exceptions out of 8191
+ 38i,13n,45p,9455b,3398s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
 pi600\ecti0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
 ur/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
@@ -1596,7 +1487,7 @@ X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Dr. Maglock\App
 Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (245 pages, 1028658 bytes).
+Output written on main.pdf (245 pages, 1023897 bytes).
 PDF statistics:
  1602 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,24 +1,41 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{5}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Poldek (Leopold Yehuda Maimon)}{14}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Jakub ??}{27}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Miriam Linyal}{30}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Gienia ??}{36}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{David Geballe}{39}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Svetlana Bogojavlenska}{52}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Vitaly Liberov}{71}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Axel T\IeC {\"o}llner}{76}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Katja Wezel}{88}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Inese Runce}{98}% 
 \defcounter {refsection}{0}\relax 
@@ -49,5 +66,9 @@
 \contentsline {section}{Teresa Klimowicz}{220}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Maria Fornal}{227}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{234}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
