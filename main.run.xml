@@ -59,6 +59,8 @@
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
       <file>british.lbx</file>
+      <file>polish.lbx</file>
+      <file>russian.lbx</file>
       <file>german.lbx</file>
       <file>ngerman.lbx</file>
     </requires>
