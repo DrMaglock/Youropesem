@@ -23,17 +23,17 @@
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Svetlana Bogojavlenska}{53}% 
+\contentsline {section}{Dr. Svetlana Bogojavlenska}{53}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitaly Liberov}{72}% 
+\contentsline {section}{Vitali Liberov}{72}% 
 \babel@toc {russian}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitaly Liberov (English translation)}{77}% 
+\contentsline {section}{Vitali Liberov (English translation)}{77}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Axel T\IeC {\"o}llner}{82}% 
+\contentsline {section}{Dr. Axel T\IeC {\"o}llner}{82}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
