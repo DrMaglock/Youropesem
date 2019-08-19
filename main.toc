@@ -7,7 +7,7 @@
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Jakub ??}{27}% 
+\contentsline {section}{Yaakov (Jakub)}{27}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
@@ -15,7 +15,7 @@
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Gienia ??}{36}% 
+\contentsline {section}{Gienia}{36}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
@@ -41,7 +41,7 @@
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Inese Runce}{104}% 
+\contentsline {section}{Dr Inese Runce}{104}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{109}% 
 \defcounter {refsection}{0}\relax 
