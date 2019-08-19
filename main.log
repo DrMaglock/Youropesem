@@ -1,4 +1,5 @@
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  19 AUG 2019 18:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  19 AUG 2019 18:16
 entering extended mode
 **./main.tex
 (main.tex
@@ -1181,10 +1182,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [105]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106])
+ [106]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107]
+ [107])
 [108]
 \openout2 = `./Interviews/urbanovics.aux'.
 
@@ -1779,6 +1780,39 @@ Here is how much of TeX's memory you used:
  13877 multiletter control sequences out of 15000+200000
  24074 words of font info for 47 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
+ 38i,13n,45p,9455b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecti0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Dr. Maglock\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\Dr. 
+Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> 
+<C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600
+\larm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. Maglock\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dr. Mag
+lock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <
+C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\f
+onts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dr. Maglock\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Dr. Ma
+glock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> 
+<C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecbx1440.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dr. Maglock\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dr. M
+aglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk>
+ <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecbx2074.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/jknappen/ec/dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym
+/feymr10.pfb>
+Output written on main.pdf (251 pages, 1100821 bytes).
+PDF statistics:
+ 1804 PDF objects out of 2073 (max. 8388607)
  38i,13n,45p,9455b,3451s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
 \ectt1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
