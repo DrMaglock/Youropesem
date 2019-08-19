@@ -51,28 +51,32 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Kalevs Krelins}{143}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{150}% 
+\contentsline {section}{Dieter Hegwein and Robert Sandmann}{150}% 
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{153}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{156}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{162}% 
+\contentsline {section}{Dr Steffen Huber}{159}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{174}% 
+\contentsline {section}{Serhii Czupryna}{168}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{183}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{180}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{197}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{189}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{204}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{203}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{218}% 
+\contentsline {section}{Dr Katrin Stoll}{210}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{226}% 
+\contentsline {section}{Bartosz Gajdzik}{224}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{233}% 
+\contentsline {section}{Teresa Klimowicz}{232}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Maria Fornal}{239}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{240}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{246}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
