@@ -49,34 +49,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Valters Nollendorfs}{133}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{143}% 
+\contentsline {section}{Kalevs Krelins}{142}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dieter Hegwein and Robert Sandmann}{150}% 
+\contentsline {section}{Dieter Hegwein and Robert Sandmann}{149}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{156}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{155}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{159}% 
+\contentsline {section}{Dr Steffen Huber}{158}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Serhii Czupryna}{168}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{180}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{179}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{189}% 
+\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{188}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{203}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{202}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{210}% 
+\contentsline {section}{Dr Katrin Stoll}{209}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{224}% 
+\contentsline {section}{Bartosz Gajdzik}{223}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{232}% 
+\contentsline {section}{Teresa Klimowicz}{231}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{239}% 
+\contentsline {section}{Maria Fornal}{238}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{246}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{245}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
