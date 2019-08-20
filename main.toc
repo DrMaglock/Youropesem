@@ -7,7 +7,7 @@
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Jakub(Yaakov))}{27}% 
+\contentsline {section}{Jakub (Yaakov)}{27}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
