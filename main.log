@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  20 AUG 2019 01:46
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  19 AUG 2019 22:20
->>>>>>> 1d7ebb3691c8593d7484c3abe7744985c3d62c14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.23)  20 AUG 2019 11:55
 entering extended mode
 **./main.tex
 (main.tex
@@ -1490,7 +1486,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [184]
-[185])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [186]
@@ -1525,68 +1523,52 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [193]
-[194]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [195]
-[196]
+[194] [195] [196]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [197]
-=======
- [194]
-[195] [196] [197]
->>>>>>> 1d7ebb3691c8593d7484c3abe7744985c3d62c14
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [198]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<<<<<<< HEAD
  [199])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [200]
-=======
- [199]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [200])
->>>>>>> 1d7ebb3691c8593d7484c3abe7744985c3d62c14
-[201]
+[200]
 \openout2 = `./Interviews/ruszkowska.aux'.
 
  (Interviews/ruszkowska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [202
+ [201
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [202]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [203]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [204]
+[205])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [205]
-[206]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [207])
-[208]
+ [206]
+[207]
 \openout2 = `./Interviews/stoll.aux'.
 
  (Interviews/stoll.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [209
+ [208
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [209]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [210]
@@ -1596,14 +1578,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [212]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [213]
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [213]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [214]
@@ -1624,17 +1606,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [219]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [220]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [221])
-[222]
+ [220])
+[221]
 \openout2 = `./Interviews/gajdzik.aux'.
 
  (Interviews/gajdzik.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [223
+ [222
 
 
 ]
@@ -1643,7 +1622,10 @@ Overfull \hbox (0.785pt too wide) in paragraph at lines 15--16
 ween pos-it-ive and neg-at-ive, there's
  []
 
-[224]
+[223]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [225]
@@ -1652,23 +1634,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [226]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [227]
+ [227])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [228])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [229]
-[230]
+ [228]
+[229]
 \openout2 = `./Interviews/klimowicz.aux'.
 
  (Interviews/klimowicz.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [231
+ [230
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [231]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [232]
@@ -1677,37 +1659,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [233]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [234]
+ [234])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [235])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [236]
-[237]
+ [235]
+[236]
 \openout2 = `./Interviews/fornal.aux'.
 
- (Interviews/fornal.tex [238
+ (Interviews/fornal.tex [237
 
 
-] [239] [240]
+] [238] [239]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [241]
-[242])
+ [240]
+[241])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [243]
-[244]
+ [242]
+[243]
 \openout2 = `./Interviews/trier.aux'.
 
  (Interviews/trier.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [245
+ [244
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [246]
@@ -1722,11 +1704,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [249]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [250]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [250])
+[251] [252
 
- [251])
-[252]
+
+]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 72.
 
 ("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
@@ -1737,10 +1719,7 @@ Overfull \hbox (1.75195pt too wide) in paragraph at lines 73--73
 n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
  []
 
-[253
-
-
-]
+[253]
 Overfull \hbox (31.29944pt too wide) in paragraph at lines 73--73
 []\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
 	bu ebreju izn	cin	a²an	a''.
@@ -1793,50 +1772,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  10321 strings out of 492902
  183250 string characters out of 3123339
- 769179 words of memory out of 3000000
+ 766179 words of memory out of 3000000
  13904 multiletter control sequences out of 15000+200000
  24074 words of font info for 47 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
-<<<<<<< HEAD
- 38i,13n,45p,9455b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecti0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Dr. Maglock\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\Dr. 
-Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> 
-<C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600
-\larm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
-nappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fo
-nts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. Maglock\AppData\Loc
-al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dr. Mag
-lock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <
-C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecti1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\f
-onts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dr. Maglock\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Dr. Ma
-glock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> 
-<C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecbx1440.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dr. Maglock\AppData\L
-ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dr. M
-aglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk>
- <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecbx2074.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
-/jknappen/ec/dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym
-/feymr10.pfb>
-Output written on main.pdf (255 pages, 1114513 bytes).
-PDF statistics:
- 1818 PDF objects out of 2073 (max. 8388607)
-=======
  38i,13n,45p,9455b,3451s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
-\ectt1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
-n/ec/dpi600\eccc1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecti0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\f
+\ecti0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ectt1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\f
 onts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\Rafael\AppData\Local\MiK
 TeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Rafael\AppData\
 Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Rafael
@@ -1861,10 +1805,9 @@ Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users
 ><C:/Users/Rafael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb><C:/Users/Rafael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/eurosym/feymr10.pfb>
-Output written on main.pdf (255 pages, 1114747 bytes).
+Output written on main.pdf (255 pages, 1112490 bytes).
 PDF statistics:
- 1822 PDF objects out of 2073 (max. 8388607)
->>>>>>> 1d7ebb3691c8593d7484c3abe7744985c3d62c14
+ 1821 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

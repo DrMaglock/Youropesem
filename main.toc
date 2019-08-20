@@ -63,24 +63,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Piotr Setkiewicz}{179}% 
 \defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
-\contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{188}% 
-=======
-\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{189}% 
->>>>>>> 1d7ebb3691c8593d7484c3abe7744985c3d62c14
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{188}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{202}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{201}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{209}% 
+\contentsline {section}{Dr Katrin Stoll}{208}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{223}% 
+\contentsline {section}{Bartosz Gajdzik}{222}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{231}% 
+\contentsline {section}{Teresa Klimowicz}{230}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{238}% 
+\contentsline {section}{Maria Fornal}{237}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{245}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{244}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
