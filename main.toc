@@ -67,7 +67,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Sonia Ruszkowska}{201}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Katrin Stoll}{208}% 
+\contentsline {section}{Dr. Katrin Stoll}{208}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Bartosz Gajdzik}{222}% 
 \defcounter {refsection}{0}\relax 
