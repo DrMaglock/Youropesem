@@ -77,6 +77,6 @@
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, Sophia}{244}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{244}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
