@@ -63,7 +63,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Piotr Setkiewicz}{179}% 
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {section}{Dr Micha\IeC {\l } Bilewicz}{188}% 
+=======
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{189}% 
+>>>>>>> 1d7ebb3691c8593d7484c3abe7744985c3d62c14
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Sonia Ruszkowska}{202}% 
 \defcounter {refsection}{0}\relax 
