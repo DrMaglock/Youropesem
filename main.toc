@@ -57,7 +57,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Ma\IeC {\l }gorzata Zajda}{155}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Steffen Huber}{158}% 
+\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{158}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Serhii Czupryna}{168}% 
 \defcounter {refsection}{0}\relax 
