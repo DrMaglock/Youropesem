@@ -37,46 +37,46 @@
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katja Wezel}{94}% 
+\contentsline {section}{Dr. Katja Wezel}{93}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Inese Runce}{104}% 
+\contentsline {section}{Dr Inese Runce}{103}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{109}% 
+\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{108}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ilya Lensky}{116}% 
+\contentsline {section}{Ilya Lensky}{115}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Valters Nollendorfs}{133}% 
+\contentsline {section}{Valters Nollendorfs}{132}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{142}% 
+\contentsline {section}{Kalevs Krelins}{141}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dieter Hegwein and Robert Sandmann}{149}% 
+\contentsline {section}{Dieter Hegwein and Robert Sandmann}{148}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{155}% 
+\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{154}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{158}% 
+\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{157}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{168}% 
+\contentsline {section}{Serhii Czupryna}{167}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{179}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{178}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{188}% 
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{187}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{201}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{200}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katrin Stoll}{208}% 
+\contentsline {section}{Dr. Katrin Stoll}{207}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{222}% 
+\contentsline {section}{Bartosz Gajdzik}{221}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{230}% 
+\contentsline {section}{Teresa Klimowicz}{229}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{237}% 
+\contentsline {section}{Maria Fornal}{236}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{244}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{243}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
