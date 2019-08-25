@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.25)  25 AUG 2019 18:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.25)  25 AUG 2019 19:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -1726,7 +1726,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  10354 strings out of 492895
  181750 string characters out of 3133450
- 767892 words of memory out of 3000000
+ 765892 words of memory out of 3000000
  13944 multiletter control sequences out of 15000+200000
  24074 words of font info for 47 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1761,7 +1761,7 @@ chütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
 dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
 
-Output written on main.pdf (253 pages, 1109265 bytes).
+Output written on main.pdf (253 pages, 1109011 bytes).
 PDF statistics:
  1821 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
