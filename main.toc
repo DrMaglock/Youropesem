@@ -19,44 +19,44 @@
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Svetlana Bogojavlenska}{45}% 
+\contentsline {section}{Dr. Svetlana Bogojavlenska}{42}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitali Liberov}{64}% 
+\contentsline {section}{Vitali Liberov}{51}% 
 \babel@toc {russian}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitali Liberov (English translation)}{69}% 
+\contentsline {section}{Vitali Liberov (English translation)}{56}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katja Wezel}{74}% 
+\contentsline {section}{Dr. Katja Wezel}{61}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Inese Runce}{84}% 
+\contentsline {section}{Dr. Inese Runce}{67}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{I\IeC {\c l}ja \IeC {\c L}enskis}{87}% 
+\contentsline {section}{I\IeC {\c l}ja \IeC {\c L}enskis}{70}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{104}% 
+\contentsline {section}{Kalevs Krelins}{87}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dieter Hegwein and Robert Sandmann}{109}% 
+\contentsline {section}{Dieter Hegwein and Robert Sandmann}{92}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{113}% 
+\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{96}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{118}% 
+\contentsline {section}{Serhii Czupryna}{101}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{129}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{112}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{138}% 
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{121}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{151}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{134}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katrin Stoll}{158}% 
+\contentsline {section}{Dr. Katrin Stoll}{141}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{172}% 
+\contentsline {section}{Teresa Klimowicz}{154}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{179}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{160}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
