@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  18 NOV 2019 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  18 NOV 2019 16:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -625,7 +625,19 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count280
 \@quotereset=\count281
-(main.aux)
+(main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
+(Interviews/gienia.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
+(Interviews/liberov.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(Interviews/wezel.aux) (Interviews/runce.aux) (Interviews/lensky.aux)
+(Interviews/krelins.aux) (Interviews/polizei.aux) (Interviews/huber.aux)
+(Interviews/czupryna.aux) (Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
+(Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/klimowicz.aux)
+(Interviews/trier.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -641,10 +653,6 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 24.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 LaTeX Font Info:    ... okay on input line 24.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -653,8 +661,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-
-(main.bbl
+ (main.bbl
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'AntiDefamationLeague.':
@@ -946,10 +953,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1748) has occurred while \output is active []
 
  [46]
-Underfull \vbox (badness 4132) has occurred while \output is active []
+Underfull \vbox (badness 1509) has occurred while \output is active []
 
  [47]
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 [][]\T1/cmr/m/n/8 Die Aus-stel-lung ist auf der In-ter-netsei-te des Mu-se-ums 
 di-gi-tal zu-gäng-lich:
  []
@@ -1231,63 +1238,67 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [125]
+[126]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
-[127] [128] [129]
+ [127]
+[128]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [130]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [131]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [132])
-[133]
+[131]
 \openout2 = `./Interviews/ruszkowska.aux'.
 
  (Interviews/ruszkowska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134
+ [132
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [135]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [136]
+[136])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [137]
-[138])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [139]
-[140]
+[138]
 \openout2 = `./Interviews/stoll.aux'.
 
- (Interviews/stoll.tex [141
+ (Interviews/stoll.tex [139
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [140]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [142]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [144]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [145]
@@ -1305,36 +1316,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [149]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [150]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [151]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [152])
-[153]
+ [150])
+[151]
 \openout2 = `./Interviews/klimowicz.aux'.
 
  (Interviews/klimowicz.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [154
+ [152
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [153]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [155]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [157]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [158])
-[159]
+ [156])
+[157]
 \openout2 = `./Interviews/trier.aux'.
 
  (Interviews/trier.tex
@@ -1345,10 +1350,16 @@ Overfull \hbox (0.76639pt too wide) in paragraph at lines 1--1
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [160
+ [158
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [161]
@@ -1360,14 +1371,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [163]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [164]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [165]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [166])
-[167] [168
+ [164])
+[165] [166
 
 
 ]
@@ -1380,7 +1385,7 @@ Overfull \hbox (1.75195pt too wide) in paragraph at lines 66--66
 n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
  []
 
-[169]
+[167]
 Overfull \hbox (31.29944pt too wide) in paragraph at lines 66--66
 []\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
 	bu ebreju izn	cin	a²an	a''.
@@ -1410,13 +1415,13 @@ Overfull \hbox (28.96716pt too wide) in paragraph at lines 66--66
 h -[] motivierte -[]
  []
 
-[170]
+[168]
 Overfull \hbox (6.63304pt too wide) in paragraph at lines 66--66
 []\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Po-land, Yes-ter-day and Today.'
 ' In: \T1/cmr/m/it/10 Race&Class
  []
 
-[171] (main.aux (introduction.aux) (Interviews/poldek.aux)
+[169] (main.aux (introduction.aux) (Interviews/poldek.aux)
 (Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
 (Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
@@ -1424,21 +1429,15 @@ Overfull \hbox (6.63304pt too wide) in paragraph at lines 66--66
 (Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
 (Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/klimowicz.aux)
 (Interviews/trier.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10248 strings out of 492895
- 177106 string characters out of 3133460
- 700882 words of memory out of 3000000
- 13923 multiletter control sequences out of 15000+200000
+ 10308 strings out of 492895
+ 179411 string characters out of 3133460
+ 746048 words of memory out of 3000000
+ 13943 multiletter control sequences out of 15000+200000
  26547 words of font info for 52 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  38i,18n,45p,5829b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1473,9 +1472,9 @@ aglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
 Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (171 pages, 853672 bytes).
+Output written on main.pdf (169 pages, 844131 bytes).
 PDF statistics:
- 1562 PDF objects out of 1728 (max. 8388607)
+ 1550 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -51,12 +51,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{121}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{134}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{132}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katrin Stoll}{141}% 
+\contentsline {section}{Dr. Katrin Stoll}{139}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{154}% 
+\contentsline {section}{Teresa Klimowicz}{152}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{160}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{158}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
