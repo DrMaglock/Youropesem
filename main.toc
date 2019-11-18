@@ -11,72 +11,52 @@
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Miriam Linyal}{28}% 
+\contentsline {section}{Gienia}{28}% 
 \babel@toc {polish}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Gienia}{34}% 
-\babel@toc {polish}{}
-\babel@toc {british}{}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{David Geballe}{37}% 
+\contentsline {section}{David Geballe}{31}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Svetlana Bogojavlenska}{51}% 
+\contentsline {section}{Dr. Svetlana Bogojavlenska}{45}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitali Liberov}{70}% 
+\contentsline {section}{Vitali Liberov}{64}% 
 \babel@toc {russian}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Vitali Liberov (English translation)}{75}% 
+\contentsline {section}{Vitali Liberov (English translation)}{69}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Axel T\IeC {\"o}llner}{80}% 
+\contentsline {section}{Dr. Katja Wezel}{74}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katja Wezel}{91}% 
+\contentsline {section}{Dr. Inese Runce}{84}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{I\IeC {\c l}ja \IeC {\c L}enskis}{87}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kalevs Krelins}{104}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Dieter Hegwein and Robert Sandmann}{109}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Inese Runce}{101}% 
+\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{113}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{J\IeC {\=a}nis Urbanovi\IeC {\v c}s}{106}% 
+\contentsline {section}{Serhii Czupryna}{118}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{I\IeC {\c l}ja \IeC {\c L}enskis}{113}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{129}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Valters Nollendorfs}{130}% 
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{138}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{139}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{151}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dieter Hegwein and Robert Sandmann}{146}% 
-\babel@toc {ngerman}{}
-\babel@toc {british}{}
+\contentsline {section}{Dr. Katrin Stoll}{158}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ma\IeC {\l }gorzata Zajda}{152}% 
+\contentsline {section}{Teresa Klimowicz}{172}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{155}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{164}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{175}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{184}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{197}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katrin Stoll}{204}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Bartosz Gajdzik}{218}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{226}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Maria Fornal}{233}% 
-\babel@toc {polish}{}
-\babel@toc {british}{}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{240}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{179}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
