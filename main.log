@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  27 NOV 2019 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.13)  27 NOV 2019 21:17
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2018-12-01>
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
-Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk10.clo"
-File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -21,119 +21,162 @@ File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty
+"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
+y"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.s
+ty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/eurosym\eurosym.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eurosym\eurosym.s
+ty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box27
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
-Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex
+.sty"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
+cmds.sty"
 Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.
+sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count89
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox
+.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty
+"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count90
+\lrq@indent=\count93
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def
+"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+) ("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count91
-\c@listtotal=\count92
-\c@listcount=\count93
-\c@liststart=\count94
-\c@liststop=\count95
-\c@citecount=\count96
-\c@citetotal=\count97
-\c@multicitecount=\count98
-\c@multicitetotal=\count99
-\c@instcount=\count100
-\c@maxnames=\count101
-\c@minnames=\count102
-\c@maxitems=\count103
-\c@minitems=\count104
-\c@citecounter=\count105
-\c@maxcitecounter=\count106
-\c@savedcitecounter=\count107
-\c@uniquelist=\count108
-\c@uniquename=\count109
-\c@refsection=\count110
-\c@refsegment=\count111
-\c@maxextratitle=\count112
-\c@maxextratitleyear=\count113
-\c@maxextraname=\count114
-\c@maxextradate=\count115
-\c@maxextraalpha=\count116
-\c@abbrvpenalty=\count117
-\c@highnamepenalty=\count118
-\c@lownamepenalty=\count119
-\c@maxparens=\count120
-\c@parenlevel=\count121
-\blx@tempcnta=\count122
-\blx@tempcntb=\count123
-\blx@tempcntc=\count124
-\blx@maxsection=\count125
-\blx@maxsegment@0=\count126
-\blx@notetype=\count127
-\blx@parenlevel@text=\count128
-\blx@parenlevel@foot=\count129
-\blx@sectionciteorder@0=\count130
-\blx@entrysetcounter=\count131
+\c@tabx@nest=\count94
+\c@listtotal=\count95
+\c@listcount=\count96
+\c@liststart=\count97
+\c@liststop=\count98
+\c@citecount=\count99
+\c@citetotal=\count100
+\c@multicitecount=\count101
+\c@multicitetotal=\count102
+\c@instcount=\count103
+\c@maxnames=\count104
+\c@minnames=\count105
+\c@maxitems=\count106
+\c@minitems=\count107
+\c@citecounter=\count108
+\c@maxcitecounter=\count109
+\c@savedcitecounter=\count110
+\c@uniquelist=\count111
+\c@uniquename=\count112
+\c@refsection=\count113
+\c@refsegment=\count114
+\c@maxextratitle=\count115
+\c@maxextratitleyear=\count116
+\c@maxextraname=\count117
+\c@maxextradate=\count118
+\c@maxextraalpha=\count119
+\c@abbrvpenalty=\count120
+\c@highnamepenalty=\count121
+\c@lownamepenalty=\count122
+\c@maxparens=\count123
+\c@parenlevel=\count124
+\blx@tempcnta=\count125
+\blx@tempcntb=\count126
+\blx@tempcntc=\count127
+\blx@maxsection=\count128
+\blx@maxsegment@0=\count129
+\blx@notetype=\count130
+\blx@parenlevel@text=\count131
+\blx@parenlevel@foot=\count132
+\blx@sectionciteorder@0=\count133
+\blx@entrysetcounter=\count134
 \labelnumberwidth=\skip43
 \labelalphawidth=\skip44
 \biblabelsep=\skip45
@@ -144,85 +187,87 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip50
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count132
-\c@maxcomprange=\count133
-\c@mincompwidth=\count134
+\blx@langwohyphens=\language82
+\c@mincomprange=\count135
+\c@maxcomprange=\count136
+\c@mincompwidth=\count137
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
-File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.d
+ef"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count135
-\c@savedafterword=\count136
-\c@annotator=\count137
-\c@savedannotator=\count138
-\c@author=\count139
-\c@savedauthor=\count140
-\c@bookauthor=\count141
-\c@savedbookauthor=\count142
-\c@commentator=\count143
-\c@savedcommentator=\count144
-\c@editor=\count145
-\c@savededitor=\count146
-\c@editora=\count147
-\c@savededitora=\count148
-\c@editorb=\count149
-\c@savededitorb=\count150
-\c@editorc=\count151
-\c@savededitorc=\count152
-\c@foreword=\count153
-\c@savedforeword=\count154
-\c@holder=\count155
-\c@savedholder=\count156
-\c@introduction=\count157
-\c@savedintroduction=\count158
-\c@namea=\count159
-\c@savednamea=\count160
-\c@nameb=\count161
-\c@savednameb=\count162
-\c@namec=\count163
-\c@savednamec=\count164
-\c@translator=\count165
-\c@savedtranslator=\count166
-\c@shortauthor=\count167
-\c@savedshortauthor=\count168
-\c@shorteditor=\count169
-\c@savedshorteditor=\count170
-\c@labelname=\count171
-\c@savedlabelname=\count172
-\c@institution=\count173
-\c@savedinstitution=\count174
-\c@lista=\count175
-\c@savedlista=\count176
-\c@listb=\count177
-\c@savedlistb=\count178
-\c@listc=\count179
-\c@savedlistc=\count180
-\c@listd=\count181
-\c@savedlistd=\count182
-\c@liste=\count183
-\c@savedliste=\count184
-\c@listf=\count185
-\c@savedlistf=\count186
-\c@location=\count187
-\c@savedlocation=\count188
-\c@organization=\count189
-\c@savedorganization=\count190
-\c@origlocation=\count191
-\c@savedoriglocation=\count192
-\c@origpublisher=\count193
-\c@savedorigpublisher=\count194
-\c@publisher=\count195
-\c@savedpublisher=\count196
-\c@language=\count197
-\c@savedlanguage=\count198
-\c@origlanguage=\count199
-\c@savedoriglanguage=\count266
-\c@pageref=\count267
-\c@savedpageref=\count268
+\c@afterword=\count138
+\c@savedafterword=\count139
+\c@annotator=\count140
+\c@savedannotator=\count141
+\c@author=\count142
+\c@savedauthor=\count143
+\c@bookauthor=\count144
+\c@savedbookauthor=\count145
+\c@commentator=\count146
+\c@savedcommentator=\count147
+\c@editor=\count148
+\c@savededitor=\count149
+\c@editora=\count150
+\c@savededitora=\count151
+\c@editorb=\count152
+\c@savededitorb=\count153
+\c@editorc=\count154
+\c@savededitorc=\count155
+\c@foreword=\count156
+\c@savedforeword=\count157
+\c@holder=\count158
+\c@savedholder=\count159
+\c@introduction=\count160
+\c@savedintroduction=\count161
+\c@namea=\count162
+\c@savednamea=\count163
+\c@nameb=\count164
+\c@savednameb=\count165
+\c@namec=\count166
+\c@savednamec=\count167
+\c@translator=\count168
+\c@savedtranslator=\count169
+\c@shortauthor=\count170
+\c@savedshortauthor=\count171
+\c@shorteditor=\count172
+\c@savedshorteditor=\count173
+\c@labelname=\count174
+\c@savedlabelname=\count175
+\c@institution=\count176
+\c@savedinstitution=\count177
+\c@lista=\count178
+\c@savedlista=\count179
+\c@listb=\count180
+\c@savedlistb=\count181
+\c@listc=\count182
+\c@savedlistc=\count183
+\c@listd=\count184
+\c@savedlistd=\count185
+\c@liste=\count186
+\c@savedliste=\count187
+\c@listf=\count188
+\c@savedlistf=\count189
+\c@location=\count190
+\c@savedlocation=\count191
+\c@organization=\count192
+\c@savedorganization=\count193
+\c@origlocation=\count194
+\c@savedoriglocation=\count195
+\c@origpublisher=\count196
+\c@savedorigpublisher=\count197
+\c@publisher=\count198
+\c@savedpublisher=\count199
+\c@language=\count266
+\c@savedlanguage=\count267
+\c@origlanguage=\count268
+\c@savedoriglanguage=\count269
+\c@pageref=\count270
+\c@savedpageref=\count271
 \shorthandwidth=\skip51
 \shortjournalwidth=\skip52
 \shortserieswidth=\skip53
@@ -240,40 +285,51 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
-File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-comp
+at.def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
-File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count269
-\c@textcitetotal=\count270
-\c@textcitemaxnames=\count271
-\c@biburlnumpenalty=\count272
-\c@biburlucpenalty=\count273
-\c@biburllcpenalty=\count274
-\c@smartand=\count275
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex
+.def"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count272
+\c@textcitetotal=\count273
+\c@textcitemaxnames=\count274
+\c@biburlbigbreakpenalty=\count275
+\c@biburlbreakpenalty=\count276
+\c@biburlnumpenalty=\count277
+\c@biburlucpenalty=\count278
+\c@biburllcpenalty=\count279
+\biburlbigskip=\muskip11
+\biburlnumskip=\muskip12
+\biburlucskip=\muskip13
+\biburllcskip=\muskip14
+\c@smartand=\count280
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
-File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\nume
+ric.bbx"
+File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
-File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count276
-\c@bbx:relatedtotal=\count277
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\stan
+dard.bbx"
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count281
+\c@bbx:relatedtotal=\count282
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
-File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\nume
+ric.cbx"
+File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -289,41 +345,50 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex
+.cfg"
 File: biblatex.cfg 
 ))
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2019/07/19 3.33 The Babel package
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2019/10/15 3.35 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
-File: switch.def 2019/07/19 3.33 Babel switching mechanism
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2019/10/15 3.35 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-german\ngerman.ldf"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\nger
+man.ldf"
 Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
 phy)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-german\ngermanb.ldf"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\nger
+manb.ldf"
 Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
 aphy)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2019/07/19 3.33 Babel common definitions
-\babel@savecnt=\count278
-\U@D=\dimen103
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2019/10/15 3.35 Babel common definitions
+\babel@savecnt=\count283
+\U@D=\dimen111
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
-\bbl@dirlevel=\count279
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@dirlevel=\count284
 )
 Package babel Info: Making " an active character on input line 121.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-russian\russianb.ldf"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian\rus
+sianb.ldf"
 Language: russian 2017/08/12 1.3j Russian support for the Babel system
 
 
@@ -332,13 +397,15 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                Default `T2A' encoding will be loaded  on input line 74.
 
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
+
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.d
+ef"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
-File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -526,34 +593,49 @@ File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+2329 (decimal 9001)
    defining Unicode char U+232A (decimal 9002)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
 ))
 Package babel Info: Default for \cyrdash is provided on input line 157.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-polish\polish.ldf"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-polish\poli
+sh.ldf"
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
-\pl@left=\dimen104
-\pl@down=\dimen105
-\pl@right=\dimen106
-\pl@temp=\dimen107
+\pl@left=\dimen112
+\pl@down=\dimen113
+\pl@right=\dimen114
+\pl@temp=\dimen115
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\british.ldf"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\bri
+tish.ldf"
 Language: british 2017/06/06 v3.3r English support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\eng
+lish.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -566,7 +648,8 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
+.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip65
@@ -582,78 +665,121 @@ s
 Package biblatex Info: Trying to load language 'british'...
 Package biblatex Info: ... file 'british.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\british.lbx"
-File: british.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\brit
+ish.lbx"
+File: british.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
-File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\engl
+ish.lbx"
+File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\polish.lbx"
-File: polish.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\poli
+sh.lbx"
+File: polish.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'russian'...
 Package biblatex Info: ... file 'russian.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\russian.lbx"
-File: russian.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\russ
+ian.lbx"
+File: russian.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\ngerman.lbx"
-File: ngerman.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\nger
+man.lbx"
+File: ngerman.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\german.lbx"
-File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\germ
+an.lbx"
+File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\german.lbx"
-File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\germ
+an.lbx"
+File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 ))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count280
-\@quotereset=\count281
+\@quotelevel=\count285
+\@quotereset=\count286
 (main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
 (Interviews/gienia.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
 (Interviews/liberov.aux
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
+.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.f
+d"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-(Interviews/wezel.aux) (Interviews/runce.aux) (Interviews/lensky.aux)
+)) (Interviews/wezel.aux) (Interviews/runce.aux) (Interviews/lensky.aux)
 (Interviews/krelins.aux) (Interviews/polizei.aux) (Interviews/huber.aux)
 (Interviews/czupryna.aux) (Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
 (Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/klimowicz.aux)
 (Interviews/trier.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(46.09393pt, 268.87737pt, 69.1409pt)
+* v-part:(T,H,B)=(73.40884pt, 428.2121pt, 110.1133pt)
+* \paperwidth=384.1122pt
+* \paperheight=611.73424pt
+* \textwidth=268.87737pt
+* \textheight=428.2121pt
+* \oddsidemargin=-26.17606pt
+* \evensidemargin=-3.12909pt
+* \topmargin=-28.92863pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -661,134 +787,28 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl
+(main.bbl)
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
 
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'AntiDefamationLeague.':
-(biblatex)                - Entry 'AntiDefamationLeague.' (./bibliography.bib):
- Invalid format '22.07.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Bolin.2012':
-(biblatex)                - Entry 'Bolin.2012' (./bibliography.bib): Invalid fo
-rmat '24.07.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'EuropeanCommissionagainstRacismandIntolerance.0
-5.03.2019':
-(biblatex)                - Entry 'EuropeanCommissionagainstRacismandIntoleranc
-e.05.03.2019' (./bibliography.bib): Invalid format '05.03.2019' of date field '
-date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'EuropeanCommissionagainstRacismandIntolerance.0
-5.03.2019':
-(biblatex)                - Entry 'EuropeanCommissionagainstRacismandIntoleranc
-e.05.03.2019' (./bibliography.bib): Invalid format '25.07.2019' of date field '
-urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'EuropeanUnionAgencyforFundamentalRights.2019':
-(biblatex)                - Entry 'EuropeanUnionAgencyforFundamentalRights.2019
-' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - i
-gnoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '.12.06.2019':
-(biblatex)                - Entry '.12.06.2019' (./bibliography.bib): Invalid f
-ormat '12.08.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Gabre.23.05.2019':
-(biblatex)                - Entry 'Gabre.23.05.2019' (./bibliography.bib): Inva
-lid format '12.08.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Merritt.11.06.2019':
-(biblatex)                - Entry 'Merritt.11.06.2019' (./bibliography.bib): In
-valid format '02.08.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'SupremeCourtofTheRepublicofLatvia.22.10.2018':
-(biblatex)                - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018
-' (./bibliography.bib): Invalid format '22.10.2018' of date field 'date' - igno
-ring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'SupremeCourtofTheRepublicofLatvia.22.10.2018':
-(biblatex)                - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018
-' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - i
-gnoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Neiburgs.27.01.2019':
-(biblatex)                - Entry 'Neiburgs.27.01.2019' (./bibliography.bib): I
-nvalid format '12.08.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'OrganisationofSecurityandCooperationindEurope.'
-:
-(biblatex)                - Entry 'OrganisationofSecurityandCooperationindEurop
-e.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' -
- ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '.16.06.2019':
-(biblatex)                - Entry '.16.06.2019' (./bibliography.bib): Invalid f
-ormat '12.08.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'BundesministeriumdesInnerenfurBauundHeimat.2019
-':
-(biblatex)                - Entry 'BundesministeriumdesInnerenfurBauundHeimat.2
-019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' 
-- ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '.21.06.2019':
-(biblatex)                - Entry '.21.06.2019' (./bibliography.bib): Invalid f
-ormat '12.08.2019' of date field 'urldate' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'KantarPublicBrussels.2019':
-(biblatex)                - Entry 'KantarPublicBrussels.2019' (./bibliography.b
-ib): Invalid format '22.07.2019' of date field 'urldate' - ignoring.
-
-)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
- ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
-\scratchdimen=\dimen108
+\scratchcounter=\count287
+\scratchdimen=\dimen116
 \scratchbox=\box28
-\nofMPsegments=\count283
-\nofMParguments=\count284
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count285
-\MPscratchDim=\dimen109
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen117
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks19
 ) [1
 
 
-{C:/Users/Dr. Maglock/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Rafael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 [2
 
 ] (main.toc
@@ -797,66 +817,137 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
 
-Underfull \vbox (badness 5924) has occurred while \output is active []
+Overfull \hbox (8.82336pt too wide) in paragraph at lines 46--46
+ [][] \T1/cmr/m/n/10 Dr hab. Stef-fen Huber, Paweª Karpi«ski, and Krzysztof 
+ []
 
- [3])
+[3])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 22.48724pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
 [4]
 \openout2 = `./introduction.aux'.
 
  (introduction.tex
+Overfull \hbox (2.06926pt too wide) in paragraph at lines 3--6
+\T1/cmr/m/n/10 A widely held be-lief, es-pe-cially in Ger-many, where a re-appr
+aisal
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
- [5
 
-] [6]
+Overfull \hbox (7.66621pt too wide) in paragraph at lines 7--13
+\T1/cmr/m/n/10 high school and uni-ver-sity stu-dents, ap-pren-tices, lan-guage
+ teach-
+ []
+
+
+Overfull \hbox (6.08327pt too wide) in paragraph at lines 7--13
+\T1/cmr/m/n/10 der the fol-low-ing people: Aleksandra Adam-ska, Kar	na Barkane
+,
+ []
+
+
+Overfull \hbox (8.41603pt too wide) in paragraph at lines 7--13
+\T1/cmr/m/n/10 Vilm	ars Vinc	ans, Myr-jam Will-berg, Mi-chael Winter, Aleksandr
+a
+ []
+
+[6] [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-[8]
-Underfull \vbox (badness 1077) has occurred while \output is active []
+ [8]
+Underfull \hbox (badness 1237) in paragraph at lines 20--20
+[][]\T1/cmr/m/n/8 The 2018 on-line sur-vey ``Ex-per-i-ences and per-cep-tions o
+f anti-
+ []
+
+
+Overfull \hbox (2.85258pt too wide) in paragraph at lines 17--22
+\T1/cmr/m/n/10 World War. In June 2019, the lib-eral party ``De-vel-op-ment/For
+!''
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
 [10]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+Underfull \vbox (badness 6510) has occurred while \output is active []
+
+ [11]
+[12]
+Overfull \hbox (2.72298pt too wide) in paragraph at lines 23--25
+\T1/cmr/m/n/10 Semitism have be-come ta-booed in main-stream pub-lic dis-course
+.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+5.
+
+("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
-) [11]
+)
+Overfull \hbox (124.89532pt too wide) in paragraph at lines 35--46
+\T1/cmr/m/n/10 lec-ted dur-ing our jour-neys, feel free to write to \T1/cmr/m/i
+t/10 youthagainstantisemitismeurope[]gmail.com\T1/cmr/m/n/10 .
+ []
+
+[15]
 \openout2 = `./Interviews/poldek.aux'.
 
-
-(Interviews/poldek.tex
+ (Interviews/poldek.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12
+ [16
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (5.85185pt too wide) in paragraph at lines 18--19
+\T1/cmr/m/n/10 cieli  wszyst-kich, na-wet ta-kich, któ-rym prze-szka-dza-ªem. 
+Szkoªa
+ []
 
- [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (4.12263pt too wide) in paragraph at lines 24--25
+[]\T1/cmr/bx/n/10 Jak Pan wspo-mina kon-takty z mªo-dzie»¡ z in-nych szkóª,
+ []
 
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
+Overfull \hbox (3.17009pt too wide) in paragraph at lines 28--29
+[]\T1/cmr/bx/n/10 Czy Pana trud-no-±ci za-cz¦ªy si¦, kiedy wy-bu-chªa wojna? 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
@@ -871,194 +962,227 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22])
+ [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
-[24]
-\openout2 = `./Interviews/jakub.aux'.
-
- (Interviews/jakub.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-])
+ [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
-[27]
-\openout2 = `./Interviews/gienia.aux'.
+Overfull \hbox (20.34566pt too wide) in paragraph at lines 125--126
+\T1/cmr/bx/n/10 Pan spo-ty-kaª w Au-schwitz? A czy Polacy-wspóªwi¦¹niowie
+ []
 
- (Interviews/gienia.tex [28
 
-
-] [29]) [30]
-\openout2 = `./Interviews/geballe.aux'.
-
- (Interviews/geballe.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
-Underfull \vbox (badness 1097) has occurred while \output is active []
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
+ [33])
+[34]
+\openout2 = `./Interviews/jakub.aux'.
+
+ (Interviews/jakub.tex
+Overfull \hbox (11.53749pt too wide) in paragraph at lines 7--8
+[]\T1/cmr/bx/n/10 Prosz¦ opo-wie-dzie¢ wi¦-cej o swoim dzie-ci«-stwie, o szkole
+. 
+ []
+
+
+Overfull \hbox (2.4175pt too wide) in paragraph at lines 9--10
+\T1/cmr/m/n/10 Fram-polu, wy-bu-chªa wojna i ju» wi¦-cej nie cho-dzi-ªem do szk
+oªy.
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [35
 
- [35]
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36]
-Underfull \vbox (badness 3354) has occurred while \output is active []
-
- [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
+ [37])
+[38]
+\openout2 = `./Interviews/gienia.aux'.
+
+ (Interviews/gienia.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
+ [39
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40])
-[41]
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42])
+[43]
+\openout2 = `./Interviews/geballe.aux'.
+
+ (Interviews/geballe.tex
+Overfull \hbox (1.91762pt too wide) in paragraph at lines 12--13
+\T1/cmr/m/n/10 mus-li-mi-schen Er-zie-hungs-hin-ter-grund, die nach Deutsch-lan
+d ge-
+ []
+
+
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [44
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+[46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+Overfull \hbox (6.25267pt too wide) in paragraph at lines 63--64
+[]\T1/cmr/bx/n/10 Was hal-ten Sie ge-ne-rell von der Bil-dung, die in Deutsch-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Overfull \hbox (7.46222pt too wide) in paragraph at lines 95--96
+[]\T1/cmr/bx/n/10 Und was ist mit an-de-ren Grup-pen, al-so Nicht-Schüler?[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59])
+[60]
 \openout2 = `./Interviews/bogojavlenska.aux'.
 
  (Interviews/bogojavlenska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42
+ [61
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-Underfull \vbox (badness 1748) has occurred while \output is active []
-
- [46]
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
- [47]
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[][]\T1/cmr/m/n/8 Die Aus-stel-lung ist auf der In-ter-netsei-te des Mu-se-ums 
-di-gi-tal zu-gäng-lich:
+Overfull \hbox (1.50522pt too wide) in paragraph at lines 16--17
+[]\T1/cmr/bx/n/10 Sind ih-re Klas-sen-ka-me-ra-den al-lei-ne aus-ge-wan-dert od
+er
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48])
-[49] [50]
-\openout2 = `./Interviews/liberov.aux'.
-
- (Interviews/liberov.tex
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
- [51
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-Overfull \hbox (2.41516pt too wide) in paragraph at lines 44--45
-\T2A/cmr/m/n/10 õî-äè-ìî ïî-êà-çû-âàòü ïî-ñëåä-ñòâèÿ íåíà-âè-ñòè è íåòåð-ïè-ìî-
-ñòè. Âî-âòîðûõ, íóæ-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54]
-[55] [56]
-Underfull \vbox (badness 1755) has occurred while \output is active []
-
- [57]
-[58]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [59])
-[60]
-\openout2 = `./Interviews/wezel.aux'.
-
- (Interviews/wezel.tex [61
-
-
-]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [62]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-Underfull \vbox (badness 2012) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [64]
-Overfull \hbox (4.8729pt too wide) in paragraph at lines 66--67
-[]\T1/cmr/bx/n/10 Katja We-zel: \T1/cmr/m/n/10 Das Pro-blem ist, dass es nur ei
--ne Hand-voll Holocaust-Überlebende
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+[68]
+Overfull \hbox (19.64384pt too wide) in paragraph at lines 62--63
+[]\T1/cmr/bx/n/10 Er wird aber nicht die Sicht-wei-se der Waffen-SS-Veteranen
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65])
-[66]
-\openout2 = `./Interviews/runce.aux'.
-
- (Interviews/runce.tex [67
-
-
-])
+ [69]
+[70]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68]
-[69]
-\openout2 = `./Interviews/lensky.aux'.
-
- (Interviews/lensky.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 1.
-
+ [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70
+ [72])
+[73] [74]
+\openout2 = `./Interviews/liberov.aux'.
+
+ (Interviews/liberov.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75
 
 
 ]
-[71]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (2.65355pt too wide) in paragraph at lines 16--17
+[]\T2A/cmr/bx/n/10 Âèòàëèé Ëè-áå-ðîâ: \T2A/cmr/m/n/10 Íó, ÿ íå õî-÷ó ñêà-çàòü, 
+÷òî áûë íåñ÷àñò-
+ []
 
- [72]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [74]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [76]
@@ -1071,27 +1195,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [79]
-[80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81]
+[82]
+Overfull \hbox (1.67462pt too wide) in paragraph at lines 57--58
+\T1/cmr/bx/n/10 Could you please tell us some-thing about your-self first? 
+ []
+
+[83] [84]
+Overfull \hbox (0.28885pt too wide) in paragraph at lines 77--78
+[]\T1/cmr/bx/n/10 Is the Jew-ish com-munity of Nurem-berg dif-fer-ent today
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [83])
-[84]
-\openout2 = `./Interviews/krelins.aux'.
-
- (Interviews/krelins.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [85
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [85]
+Underfull \vbox (badness 4859) has occurred while \output is active []
 
  [86]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1100,79 +1224,72 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [88])
-[89]
-\openout2 = `./Interviews/polizei.aux'.
-
- (Interviews/polizei.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [90
+ [89]
+[90]
+\openout2 = `./Interviews/wezel.aux'.
+
+ (Interviews/wezel.tex [91
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92])
-[93]
-\openout2 = `./Interviews/huber.aux'.
-
- (Interviews/huber.tex [94
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 24.1638pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[95]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [96]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [97])
-[98]
-\openout2 = `./Interviews/czupryna.aux'.
-
- (Interviews/czupryna.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [99
-
-
-]
-Overfull \hbox (3.44824pt too wide) in paragraph at lines 20--20
-\T1/cmr/bx/n/10 me-dia say that Pol-ish anti-Semitism op-er-ates on a verbal le
-vel, mostly?
+Overfull \hbox (6.16658pt too wide) in paragraph at lines 36--37
+\T1/cmr/m/n/10 Schlimms-ten dar-ge-stellt und heu-ti-ge Let-ten sind na-tür-lic
+h durch
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [100]
+ [92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
+ [93]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+[96]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98])
+[99]
+\openout2 = `./Interviews/runce.aux'.
+
+ (Interviews/runce.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [102]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[103]
+\openout2 = `./Interviews/lensky.aux'.
 
- [103]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ (Interviews/lensky.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1.
+ [104
 
- [104]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
+] [105]
+Overfull \hbox (4.1629pt too wide) in paragraph at lines 20--21
+[]\T1/cmr/bx/n/10 Today, we talked to someone who said that those people
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [106]
@@ -1181,19 +1298,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [107]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108])
-[109]
-\openout2 = `./Interviews/setkiewicz.aux'.
+ [108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- (Interviews/setkiewicz.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--20
+ [109]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
+ [110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[110
+ [111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-] [111] [112]
+ [112]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [113]
@@ -1202,26 +1319,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [114]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [116]
-[117]
-\openout2 = `./Interviews/bilewicz.aux'.
-
- (Interviews/bilewicz.tex
-Overfull \hbox (1.13164pt too wide) in paragraph at lines 8--8
-\T1/cmr/m/it/10 The in-ter-view took place in the Fac-ulty of Psy-cho-logy of t
-he Uni-ver-sity of Warsaw
+ [115]
+Overfull \hbox (2.405pt too wide) in paragraph at lines 67--68
+[]\T1/cmr/bx/n/10 But of course, the gov-ern-ment could find clearer words. 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118
+ [116]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [117]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+ [118]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [119]
@@ -1231,30 +1343,55 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [121]
+Overfull \hbox (6.35959pt too wide) in paragraph at lines 90--91
+[]\T1/cmr/bx/n/10 You said that anti-Semitism in Latvia is not very strong,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [122]
-[123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [124]
-[125]
+Overfull \hbox (3.30339pt too wide) in paragraph at lines 110--111
+\T1/cmr/bx/n/10 in this mu-seum that, is sort of mind-changing for them? 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126])
+ [125])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]
-[128]
-\openout2 = `./Interviews/ruszkowska.aux'.
+ [126]
+[127]
+\openout2 = `./Interviews/krelins.aux'.
 
- (Interviews/ruszkowska.tex
+ (Interviews/krelins.tex
+Overfull \hbox (10.89833pt too wide) in paragraph at lines 4--5
+\T1/cmr/m/it/10 The in-ter-view took place in the Peitav Shul Syn-agogue on Sep
+tem-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [129
+ [128
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129]
+Overfull \hbox (17.56935pt too wide) in paragraph at lines 23--24
+[]\T1/cmr/bx/n/10 What are the dif-fer-ences re-gard-ing anti-Semitism between
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [130]
@@ -1264,68 +1401,110 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [132]
-[133])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134]
-[135]
-\openout2 = `./Interviews/stoll.aux'.
+ [133])
+[134]
+\openout2 = `./Interviews/polizei.aux'.
 
- (Interviews/stoll.tex [136
+ (Interviews/polizei.tex
+Overfull \hbox (0.58461pt too wide) in paragraph at lines 8--9
+\T1/cmr/m/n/10 ri-schen Lan-des-kri-mi-nal-amt die so-ge-nann-ten PMK-Zahlen, 
+Po-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135
 
 
 ]
+Overfull \hbox (0.38327pt too wide) in paragraph at lines 16--17
+[]\T1/cmr/bx/n/10 Robert Sand-mann: \T1/cmr/m/n/10 2014 gab es ei-ne De-mons-tr
+a-ti-on im März
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [137]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [138]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (5.69447pt too wide) in paragraph at lines 46--47
+\T1/cmr/m/n/10 schnei-dun-gen, al-so Fäl-le, in de-nen Reichs-bür-ger auch als 
+Rechts-
+ []
 
- [139]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
+Overfull \hbox (0.54295pt too wide) in paragraph at lines 52--53
+[]\T1/cmr/bx/n/10 Kann ei-ne Tat in meh-re-re Ka-te-go-ri-en ein-ge-ord-net wer
+-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [140]
+ [139]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [141]
+ [140])
+[141]
+\openout2 = `./Interviews/huber.aux'.
+
+ (Interviews/huber.tex [142
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [142]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [143]
+
+Package Fancyhdr Warning: \headheight is too small (22.48724pt): 
+Make it at least 24.1638pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [144]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [145]
+Overfull \hbox (16.98616pt too wide) in paragraph at lines 33--34
+[]\T1/cmr/bx/n/10 Did you ever en-counter the ste-reo-type of Judeo-Marxism? 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [146]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [147])
-[148]
-\openout2 = `./Interviews/klimowicz.aux'.
-
- (Interviews/klimowicz.tex
+ [147]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [149
+ [148])
+[149]
+\openout2 = `./Interviews/czupryna.aux'.
+
+ (Interviews/czupryna.tex
+Overfull \hbox (2.52164pt too wide) in paragraph at lines 4--4
+\T1/cmr/m/it/10 We met him in the Jew-ish Com-munity Centre (JCC) in Kraków
+ []
+
+
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [150
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [150]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [151]
@@ -1334,31 +1513,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [152]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153])
-[154]
-\openout2 = `./Interviews/trier.aux'.
+ [153]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- (Interviews/trier.tex
-Overfull \hbox (0.76639pt too wide) in paragraph at lines 1--1
-[]\T1/cmr/bx/n/14.4 Emilia, Es-ther, Gen-nadiy, Mar-garetha, and Sophia 
+ [154]
+Overfull \hbox (4.54892pt too wide) in paragraph at lines 29--29
+[]\T1/cmr/bx/n/10 Do you speak Yid-dish and, in gen-eral, how many people
+ []
+
+
+Overfull \hbox (0.40874pt too wide) in paragraph at lines 30--30
+\T1/cmr/m/n/10 ily's his-tor-ical back-ground. There is a cer-tain amount of pe
+ople
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [155
+ [155]
+Overfull \hbox (3.74911pt too wide) in paragraph at lines 35--35
+[]\T1/cmr/bx/n/10 Last Novem-ber there was the demon-stra-tion in Warsaw
+ []
 
 
-]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [156]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [157]
+Overfull \hbox (4.01306pt too wide) in paragraph at lines 39--39
+\T1/cmr/bx/n/10 Nor-mally, I would throw these people out of my demon-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [158]
+Overfull \hbox (0.33606pt too wide) in paragraph at lines 45--45
+[]\T1/cmr/bx/n/10 Do you think that the anti-Semitism prob-lem will grow
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [159]
@@ -1367,110 +1563,476 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [160]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [161])
-[162]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 65.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (1.75195pt too wide) in paragraph at lines 66--66
-\T1/cmtt/m/n/10 occupied -[] latvia -[] 40 -[] million -[] euro -[] compensatio
-n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
+ [161]
+Overfull \hbox (15.5504pt too wide) in paragraph at lines 51--51
+[]\T1/cmr/bx/n/10 Have you ex-per-i-enced any anti-Semitic acts from Muslims
  []
 
-[163
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162]
+Overfull \hbox (6.21518pt too wide) in paragraph at lines 57--57
+\T1/cmr/bx/n/10 go to Aus-chwitz, they don't in-teg-rate with other people,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [164]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [165]
+Overfull \hbox (2.866pt too wide) in paragraph at lines 67--67
+[]\T1/cmr/bx/n/10 How did the Pol-ish so-ci-ety deal with some anti-Semitic,
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166]
+[167]
+\openout2 = `./Interviews/setkiewicz.aux'.
+
+ (Interviews/setkiewicz.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168
 
 
 ]
-Overfull \hbox (31.29944pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
-	bu ebreju izn	cin	a²an	a''.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [169]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [170]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [171]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [172]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [173]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [174]
+Overfull \hbox (9.72127pt too wide) in paragraph at lines 27--31
+\T1/cmr/m/n/10 As for Brus-sels, we should rather think of ourselves as Europea
+ns,
  []
 
 
-Overfull \hbox (2.49124pt too wide) in paragraph at lines 66--66
-\T1/cmr/m/it/10 Geschichte der Juden in Europa. \T1/cmr/m/n/10 Wis-senschaft-li
-che Buchgesell-schaft., 2001. 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [177])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [178]
+[179]
+\openout2 = `./Interviews/bilewicz.aux'.
+
+ (Interviews/bilewicz.tex
+Overfull \hbox (0.18193pt too wide) in paragraph at lines 10--13
+\T1/cmr/m/n/10 I'm do-ing many col-lab-or-at-ive pro-jects with Ger-many and we
+'re
  []
 
 
-Overfull \hbox (10.05936pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/it/10 Naida runa un v	arda br	v	ba: Tiesu prakse krimin	alliet	as
- par Krimin	allikuma
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [180
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [182]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+Overfull \hbox (0.42348pt too wide) in paragraph at lines 28--29
+\T1/cmr/bx/n/10 gion, the \T1/cmr/bx/it/10 Waffen-SS\T1/cmr/bx/n/10 , par-ti-ci
+p-ated in the crimes against
  []
 
 
-Overfull \hbox (15.78209pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens lidot	ajs un/vai
- kara noziedznieks?''
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [186]
+Overfull \hbox (5.93933pt too wide) in paragraph at lines 38--39
+[]\T1/cmr/bx/n/10 Michaª Bilewicz: \T1/cmr/m/n/10 Yes. We al-ways find a tight 
+re-la-tion between
  []
 
 
-Overfull \hbox (28.96716pt too wide) in paragraph at lines 66--66
-\T1/cmtt/m/n/10 kriminalitaetsbekaempfung -[] und -[] gefahrenabwehr / politisc
-h -[] motivierte -[]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [187]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [188]
+Overfull \hbox (6.32071pt too wide) in paragraph at lines 52--53
+[]\T1/cmr/bx/n/10 The Ger-mans dur-ing the Nazi time weren't un-educated,
  []
 
-[164]
-Overfull \hbox (6.63304pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Po-land, Yes-ter-day and Today.'
-' In: \T1/cmr/m/it/10 Race&Class
+
+Underfull \vbox (badness 1173) has occurred while \output is active []
+
+ [189]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [190]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [191]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [192]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [193]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [194])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [196]
+[197]
+\openout2 = `./Interviews/ruszkowska.aux'.
+
+ (Interviews/ruszkowska.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [198
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [199]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [200]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [201]
+Overfull \hbox (5.38899pt too wide) in paragraph at lines 37--40
+\T1/cmr/m/n/10 We show this short film to stu-dents and they are al-ways shocke
+d.
  []
 
-[165] (main.aux (introduction.aux) (Interviews/poldek.aux)
-(Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
-(Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
-(Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
-(Interviews/polizei.aux) (Interviews/huber.aux) (Interviews/czupryna.aux)
-(Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
-(Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/klimowicz.aux)
-(Interviews/trier.aux))
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [202]
+Overfull \hbox (3.05067pt too wide) in paragraph at lines 41--42
+[]\T1/cmr/bx/n/10 Do you think the gov-ern-ment wants every-body to think
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [203]
+[204]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [205])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [206]
+[207]
+\openout2 = `./Interviews/stoll.aux'.
+
+ (Interviews/stoll.tex
+Overfull \hbox (16.2304pt too wide) in paragraph at lines 5--5
+\T1/cmr/m/it/10 and Tex-tual Prac-tices of Jew-ish Sur-viv-ors in Europe (1942
+1965)''.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [208
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [209]
+Overfull \hbox (5.33484pt too wide) in paragraph at lines 16--17
+\T1/cmr/bx/n/10 called Pol-ish con-cen-tra-tion camps, for ex-ample in Italy?
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [210]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [212]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [213]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [214]
+Overfull \hbox (9.72821pt too wide) in paragraph at lines 40--41
+[]\T1/cmr/bx/n/10 Katrin Stoll: \T1/cmr/m/n/10 Yes, the crim-inal code con-tain
+s an art-icle whereby
+ []
+
+
+Overfull \hbox (4.77248pt too wide) in paragraph at lines 42--42
+\T1/cmr/bx/n/10 read-ing anti-Semitic pamph-lets and writ-ing them anew.
+ []
+
+
+Overfull \hbox (0.91972pt too wide) in paragraph at lines 42--42
+\T1/cmr/bx/n/10 gen-eral so-ci-ety? Was there a kind of two-layered trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [215]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [216]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [217]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [218]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [219]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [220]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [221]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [222]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [223]
+Overfull \hbox (5.43481pt too wide) in paragraph at lines 116--117
+\T1/cmr/bx/n/10 show to people the false things they be-lieve, you present
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [225]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [226])
+[227]
+\openout2 = `./Interviews/klimowicz.aux'.
+
+ (Interviews/klimowicz.tex
+Overfull \hbox (1.13893pt too wide) in paragraph at lines 6--9
+\T1/cmr/m/n/10 ages in gen-eral and I guess it could be in-ter-est-ing to see w
+hether
+ []
+
+
+Overfull \hbox (4.47255pt too wide) in paragraph at lines 6--9
+\T1/cmr/m/n/10 olic coun-try, that would be not ne-ces-sar-ily Pol-ish anti-Sem
+itism,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [228
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [229]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [230]
+Overfull \hbox (7.16772pt too wide) in paragraph at lines 21--23
+[]\T1/cmr/bx/n/10 Teresa Klimow-icz: \T1/cmr/m/n/10 For ex-ample, but there is 
+a de-bate whether
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [231]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [232]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [233]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [234]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [236])
+[237]
+\openout2 = `./Interviews/trier.aux'.
+
+ (Interviews/trier.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [238
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [239]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [240]
+Overfull \hbox (5.79861pt too wide) in paragraph at lines 31--32
+[]\T1/cmr/bx/n/10 Sophia: \T1/cmr/m/n/10 In der Grund-schu-le hat-te ich einen 
+Mit-schü-ler türkisch-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [241]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [242]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [243]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [244]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [246]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [247]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [248]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [249])
+[250]
+
+LaTeX Warning: Empty bibliography on input line 67.
+
+(main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
+(Interviews/gienia.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
+(Interviews/liberov.aux) (Interviews/wezel.aux) (Interviews/runce.aux)
+(Interviews/lensky.aux) (Interviews/krelins.aux) (Interviews/polizei.aux)
+(Interviews/huber.aux) (Interviews/czupryna.aux) (Interviews/setkiewicz.aux)
+(Interviews/bilewicz.aux) (Interviews/ruszkowska.aux) (Interviews/stoll.aux)
+(Interviews/klimowicz.aux) (Interviews/trier.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10308 strings out of 492895
- 179411 string characters out of 3133460
- 745047 words of memory out of 3000000
- 13943 multiletter control sequences out of 15000+200000
- 26547 words of font info for 52 fonts, out of 3000000 for 9000
+ 10970 strings out of 492450
+ 192719 string characters out of 3119537
+ 793542 words of memory out of 3000000
+ 15042 multiletter control sequences out of 15000+200000
+ 26234 words of font info for 51 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 38i,17n,45p,5829b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
-pi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0500.pk> <C:\Users\Dr. Maglock\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0500.pk> <C:\Users\Dr
-. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0700.
-pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\lati1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Dr. Maglock\AppData\Loc
-al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Dr. Mag
-lock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <
-C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecti1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecti0800.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\f
-onts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dr. Maglock\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dr. Ma
-glock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> 
-<C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecbx1200.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Dr. Maglock\AppData\L
-ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dr. M
-aglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
- <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecrm1200.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Dr. Maglock\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (165 pages, 831225 bytes).
+ 39i,18n,45p,5829b,3466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecbx0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecti0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecbx0700.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\Rafael\AppData\Local\MiK
+TeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Rafael\AppData\
+Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Rafael
+\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\U
+sers\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx100
+0.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecti1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecti0800.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.
+9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Rafael\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Rafael\A
+ppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Use
+rs\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.
+pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/lj
+four/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Rafael\AppData\Local\
+MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Rafael\App
+Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users
+\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk
+><C:/Users/Rafael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/Rafael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/eurosym/feymr10.pfb>
+Output written on main.pdf (250 pages, 870737 bytes).
 PDF statistics:
- 1537 PDF objects out of 1728 (max. 8388607)
+ 1727 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
