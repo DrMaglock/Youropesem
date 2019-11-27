@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  18 NOV 2019 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  27 NOV 2019 15:17
 entering extended mode
 **./main.tex
 (main.tex
@@ -871,10 +871,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [22])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23])
+ [23]
 [24]
 \openout2 = `./Interviews/jakub.aux'.
 
@@ -1065,73 +1065,61 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [77]
-Overfull \hbox (2.32538pt too wide) in paragraph at lines 77--78
-[]\T1/cmr/bx/n/10 Is there no tra-di-tional Lutheran anti-Semitism? You know th
-at Luther
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [78]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [79]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [80]
+[80]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81]
-[82]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [82]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [85])
-[86]
+ [83])
+[84]
 \openout2 = `./Interviews/krelins.aux'.
 
  (Interviews/krelins.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87
+ [85
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [88]
+ [86]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89]
+ [87]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [90])
-[91]
+ [88])
+[89]
 \openout2 = `./Interviews/polizei.aux'.
 
  (Interviews/polizei.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92
+ [90
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
+ [91]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [94])
-[95]
+ [92])
+[93]
 \openout2 = `./Interviews/huber.aux'.
 
- (Interviews/huber.tex [96
+ (Interviews/huber.tex [94
 
 
 ]
@@ -1144,20 +1132,20 @@ Make it at least 24.1638pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[97]
+[95]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+ [96]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99])
-[100]
+ [97])
+[98]
 \openout2 = `./Interviews/czupryna.aux'.
 
  (Interviews/czupryna.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101
+ [99
 
 
 ]
@@ -1167,6 +1155,12 @@ vel, mostly?
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [102]
@@ -1187,30 +1181,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [107]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [109]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [110])
-[111]
+ [108])
+[109]
 \openout2 = `./Interviews/setkiewicz.aux'.
 
- (Interviews/setkiewicz.tex [112
+ (Interviews/setkiewicz.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+[110
 
 
-] [113] [114] [115]
+] [111] [112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [116]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [117])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [118]
-[119] [120]
+[117]
 \openout2 = `./Interviews/bilewicz.aux'.
 
  (Interviews/bilewicz.tex
@@ -1222,63 +1218,77 @@ he Uni-ver-sity of Warsaw
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121
+ [118
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
+ [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [123]
+ [120]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+[123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [124]
+[125]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [125]
-[126]
+ [126])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [127]
 [128]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [129])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [130]
-[131]
 \openout2 = `./Interviews/ruszkowska.aux'.
 
  (Interviews/ruszkowska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132
+ [129
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [133]
+ [130]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+[133])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [134]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [135]
-[136])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [137]
-[138]
+[135]
 \openout2 = `./Interviews/stoll.aux'.
 
- (Interviews/stoll.tex [139
+ (Interviews/stoll.tex [136
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [140]
@@ -1288,11 +1298,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [142]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [143]
@@ -1307,39 +1312,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [146]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [147]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [148]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [150])
-[151]
+ [147])
+[148]
 \openout2 = `./Interviews/klimowicz.aux'.
 
  (Interviews/klimowicz.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152
+ [149
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153]
+ [150]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [154]
+ [151]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [155]
+ [152]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156])
-[157]
+ [153])
+[154]
 \openout2 = `./Interviews/trier.aux'.
 
  (Interviews/trier.tex
@@ -1350,10 +1346,19 @@ Overfull \hbox (0.76639pt too wide) in paragraph at lines 1--1
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [158
+ [155
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [159]
@@ -1362,20 +1367,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [160]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [161]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [162]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [163]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [164])
-[165] [166
-
-
-]
+ [161])
+[162]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 65.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1385,7 +1378,10 @@ Overfull \hbox (1.75195pt too wide) in paragraph at lines 66--66
 n -[] proposed -[] 201901$\T1/cmr/m/n/10 . 
  []
 
-[167]
+[163
+
+
+]
 Overfull \hbox (31.29944pt too wide) in paragraph at lines 66--66
 []\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
 	bu ebreju izn	cin	a²an	a''.
@@ -1415,13 +1411,13 @@ Overfull \hbox (28.96716pt too wide) in paragraph at lines 66--66
 h -[] motivierte -[]
  []
 
-[168]
+[164]
 Overfull \hbox (6.63304pt too wide) in paragraph at lines 66--66
 []\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Po-land, Yes-ter-day and Today.'
 ' In: \T1/cmr/m/it/10 Race&Class
  []
 
-[169] (main.aux (introduction.aux) (Interviews/poldek.aux)
+[165] (main.aux (introduction.aux) (Interviews/poldek.aux)
 (Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
 (Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
@@ -1436,11 +1432,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  10308 strings out of 492895
  179411 string characters out of 3133460
- 746048 words of memory out of 3000000
+ 745047 words of memory out of 3000000
  13943 multiletter control sequences out of 15000+200000
  26547 words of font info for 52 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 38i,18n,45p,5829b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,17n,45p,5829b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
 pi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
 ur/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
@@ -1472,9 +1468,9 @@ aglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
 Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (169 pages, 844131 bytes).
+Output written on main.pdf (165 pages, 831225 bytes).
 PDF statistics:
- 1550 PDF objects out of 1728 (max. 8388607)
+ 1537 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

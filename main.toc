@@ -37,26 +37,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{I\IeC {\c l}ja \IeC {\c L}enskis}{70}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Kalevs Krelins}{87}% 
+\contentsline {section}{Kalevs Krelins}{85}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dieter Hegwein and Robert Sandmann}{92}% 
+\contentsline {section}{Dieter Hegwein and Robert Sandmann}{90}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{96}% 
+\contentsline {section}{Dr hab. Steffen Huber, Pawe\IeC {\l } Karpi\IeC {\'n}ski, and Krzysztof Turek}{94}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Serhii Czupryna}{101}% 
+\contentsline {section}{Serhii Czupryna}{99}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Piotr Setkiewicz}{112}% 
+\contentsline {section}{Dr Piotr Setkiewicz}{110}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{121}% 
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{118}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{132}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{129}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katrin Stoll}{139}% 
+\contentsline {section}{Dr. Katrin Stoll}{136}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{152}% 
+\contentsline {section}{Teresa Klimowicz}{149}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{158}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{155}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
