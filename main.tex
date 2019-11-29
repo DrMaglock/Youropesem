@@ -1,6 +1,8 @@
 \documentclass{book}
-\usepackage{geometry}
+\usepackage[hmarginratio=3:2]{geometry}
 \geometry{papersize={135mm,215mm}}
+% https://tex.stackexchange.com/questions/83488/how-to-ensure-document-total-page-numbers-is-a-multiple-of-four
+\usepackage{refcount,lastpage}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
@@ -23,6 +25,28 @@
 \fancyfoot[RO]{\thepage}
 \fancyfoot[LE]{\thepage}
 %\DeclareUnicodeCharacter{202F}{FIX ME!!}
+
+% make sure that page number is multiple of four: https://tex.stackexchange.com/questions/83488/how-to-ensure-document-total-page-numbers-is-a-multiple-of-four
+
+\makeatletter
+\newcommand{\checkmultipleoffour}{%
+	\count@=\getpagerefnumber{LastPage}%
+	\@tempcnta=\count@
+	\divide\@tempcnta by 4
+	\multiply\@tempcnta by 4
+	\count@=\numexpr\count@-\@tempcnta\relax
+	\ifnum\count@>0
+	\pagestyle{empty}
+	\loop\ifnum\count@<4
+	\null\clearpage
+	\advance\count@\@ne
+	\repeat
+	\fi
+}
+\makeatother
+
+\AtEndDocument{\checkmultipleoffour}
+
 \begin{document}
 	\setlength{\parindent}{0pt}
 	\setlength{\parskip}{1em}

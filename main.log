@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.13)  27 NOV 2019 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.25)  29 NOV 2019 17:16
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2019-10-01> patch level 3
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
-Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk10.clo"
-File: bk10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -21,30 +21,22 @@ File: bk10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty
-"
-Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
-"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
-y"
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.s
-ty"
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count89
 \Gm@cntv=\count90
@@ -59,80 +51,75 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
-.cfg"))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/lastpage\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eurosym\eurosym.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box27
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex
-.sty"
-Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
-cmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
-err.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.
-sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
-s.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox
-.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count92
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
-s.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
-eys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
-ds.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 )))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count93
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -187,16 +174,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip50
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\blx@langwohyphens=\language82
 \c@mincomprange=\count135
 \c@maxcomprange=\count136
 \c@mincompwidth=\count137
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.d
-ef"
-File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
@@ -285,51 +270,40 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-comp
-at.def"
-File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex
-.def"
-File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 \c@textcitecount=\count272
 \c@textcitetotal=\count273
 \c@textcitemaxnames=\count274
-\c@biburlbigbreakpenalty=\count275
-\c@biburlbreakpenalty=\count276
-\c@biburlnumpenalty=\count277
-\c@biburlucpenalty=\count278
-\c@biburllcpenalty=\count279
-\biburlbigskip=\muskip11
-\biburlnumskip=\muskip12
-\biburlucskip=\muskip13
-\biburllcskip=\muskip14
-\c@smartand=\count280
+\c@biburlnumpenalty=\count275
+\c@biburlucpenalty=\count276
+\c@biburllcpenalty=\count277
+\c@smartand=\count278
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\nume
-ric.bbx"
-File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\stan
-dard.bbx"
-File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count281
-\c@bbx:relatedtotal=\count282
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count279
+\c@bbx:relatedtotal=\count280
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\nume
-ric.cbx"
-File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -345,50 +319,41 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex
-.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
-"
-Package: babel 2019/10/15 3.35 The Babel package
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/07/19 3.33 The Babel package
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
-f"
-File: switch.def 2019/10/15 3.35 Babel switching mechanism
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\nger
-man.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-german\ngerman.ldf"
 Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
 phy)
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\nger
-manb.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-german\ngermanb.ldf"
 Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
 aphy)
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
-"
-File: babel.def 2019/10/15 3.35 Babel common definitions
-\babel@savecnt=\count283
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count281
 \U@D=\dimen111
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
-def")
-\bbl@dirlevel=\count284
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count282
 )
 Package babel Info: Making " an active character on input line 121.
 ))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian\rus
-sianb.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-russian\russianb.ldf"
 Language: russian 2017/08/12 1.3j Russian support for the Babel system
 
 
@@ -397,15 +362,13 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                Default `T2A' encoding will be loaded  on input line 74.
 
 
-
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.d
-ef"
+("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
-File: t2aenc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -593,49 +556,34 @@ File: t2aenc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+2329 (decimal 9001)
    defining Unicode char U+232A (decimal 9002)
    defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
 ))
 Package babel Info: Default for \cyrdash is provided on input line 157.
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-polish\poli
-sh.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-polish\polish.ldf"
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
 \pl@left=\dimen112
 \pl@down=\dimen113
 \pl@right=\dimen114
 \pl@temp=\dimen115
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\bri
-tish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\british.ldf"
 Language: british 2017/06/06 v3.3r English support from the babel system
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\eng
-lish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )))
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
-r.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
-ex.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -648,8 +596,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip65
@@ -665,86 +612,78 @@ s
 Package biblatex Info: Trying to load language 'british'...
 Package biblatex Info: ... file 'british.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\brit
-ish.lbx"
-File: british.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\british.lbx"
+File: british.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\engl
-ish.lbx"
-File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\poli
-sh.lbx"
-File: polish.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\polish.lbx"
+File: polish.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'russian'...
 Package biblatex Info: ... file 'russian.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\russ
-ian.lbx"
-File: russian.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\russian.lbx"
+File: russian.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\nger
-man.lbx"
-File: ngerman.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\ngerman.lbx"
+File: ngerman.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\germ
-an.lbx"
-File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\german.lbx"
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\germ
-an.lbx"
-File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\german.lbx"
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count285
-\@quotereset=\count286
+\@quotelevel=\count283
+\@quotereset=\count284
 (main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
 (Interviews/gienia.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
 (Interviews/liberov.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
-.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.f
-d"
+("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)) (Interviews/wezel.aux) (Interviews/runce.aux) (Interviews/lensky.aux)
+))
+(Interviews/wezel.aux) (Interviews/runce.aux) (Interviews/lensky.aux)
 (Interviews/krelins.aux) (Interviews/polizei.aux) (Interviews/huber.aux)
 (Interviews/czupryna.aux) (Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
 (Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/klimowicz.aux)
 (Interviews/trier.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -753,15 +692,16 @@ LaTeX Font Info:    ... okay on input line 26.
 * paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 3:2
 * modes: twoside 
-* h-part:(L,W,R)=(46.09393pt, 268.87737pt, 69.1409pt)
+* h-part:(L,W,R)=(69.1409pt, 268.87737pt, 46.09393pt)
 * v-part:(T,H,B)=(73.40884pt, 428.2121pt, 110.1133pt)
 * \paperwidth=384.1122pt
 * \paperheight=611.73424pt
 * \textwidth=268.87737pt
 * \textheight=428.2121pt
-* \oddsidemargin=-26.17606pt
-* \evensidemargin=-3.12909pt
+* \oddsidemargin=-3.12909pt
+* \evensidemargin=-26.17606pt
 * \topmargin=-28.92863pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
@@ -780,6 +720,9 @@ LaTeX Font Info:    ... okay on input line 26.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 50.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -787,29 +730,134 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-(main.bbl)
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
+(main.bbl
 
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
-pdf.mkii"
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'AntiDefamationLeague.':
+(biblatex)                - Entry 'AntiDefamationLeague.' (./bibliography.bib):
+ Invalid format '22.07.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Bolin.2012':
+(biblatex)                - Entry 'Bolin.2012' (./bibliography.bib): Invalid fo
+rmat '24.07.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'EuropeanCommissionagainstRacismandIntolerance.0
+5.03.2019':
+(biblatex)                - Entry 'EuropeanCommissionagainstRacismandIntoleranc
+e.05.03.2019' (./bibliography.bib): Invalid format '05.03.2019' of date field '
+date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'EuropeanCommissionagainstRacismandIntolerance.0
+5.03.2019':
+(biblatex)                - Entry 'EuropeanCommissionagainstRacismandIntoleranc
+e.05.03.2019' (./bibliography.bib): Invalid format '25.07.2019' of date field '
+urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'EuropeanUnionAgencyforFundamentalRights.2019':
+(biblatex)                - Entry 'EuropeanUnionAgencyforFundamentalRights.2019
+' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' - i
+gnoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with '.12.06.2019':
+(biblatex)                - Entry '.12.06.2019' (./bibliography.bib): Invalid f
+ormat '12.08.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Gabre.23.05.2019':
+(biblatex)                - Entry 'Gabre.23.05.2019' (./bibliography.bib): Inva
+lid format '12.08.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Merritt.11.06.2019':
+(biblatex)                - Entry 'Merritt.11.06.2019' (./bibliography.bib): In
+valid format '02.08.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'SupremeCourtofTheRepublicofLatvia.22.10.2018':
+(biblatex)                - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018
+' (./bibliography.bib): Invalid format '22.10.2018' of date field 'date' - igno
+ring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'SupremeCourtofTheRepublicofLatvia.22.10.2018':
+(biblatex)                - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018
+' (./bibliography.bib): Invalid format '25.07.2019' of date field 'urldate' - i
+gnoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Neiburgs.27.01.2019':
+(biblatex)                - Entry 'Neiburgs.27.01.2019' (./bibliography.bib): I
+nvalid format '12.08.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'OrganisationofSecurityandCooperationindEurope.'
+:
+(biblatex)                - Entry 'OrganisationofSecurityandCooperationindEurop
+e.' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' -
+ ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with '.16.06.2019':
+(biblatex)                - Entry '.16.06.2019' (./bibliography.bib): Invalid f
+ormat '12.08.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'BundesministeriumdesInnerenfurBauundHeimat.2019
+':
+(biblatex)                - Entry 'BundesministeriumdesInnerenfurBauundHeimat.2
+019' (./bibliography.bib): Invalid format '22.07.2019' of date field 'urldate' 
+- ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with '.21.06.2019':
+(biblatex)                - Entry '.21.06.2019' (./bibliography.bib): Invalid f
+ormat '12.08.2019' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'KantarPublicBrussels.2019':
+(biblatex)                - Entry 'KantarPublicBrussels.2019' (./bibliography.b
+ib): Invalid format '22.07.2019' of date field 'urldate' - ignoring.
+
+)
+Package biblatex Info: Reference section=0 on input line 50.
+Package biblatex Info: Reference segment=0 on input line 50.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count285
 \scratchdimen=\dimen116
 \scratchbox=\box28
-\nofMPsegments=\count288
-\nofMParguments=\count289
+\nofMPsegments=\count286
+\nofMParguments=\count287
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count290
+\MPscratchCnt=\count288
 \MPscratchDim=\dimen117
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
 \everyMPtoPDFconversion=\toks19
 ) [1
 
 
-{C:/Users/Rafael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2
+{C:/Users/Rafael Schütz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -903,10 +951,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
 [14]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
-5.
-
-("C:\Users\Rafael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
@@ -914,7 +960,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
 )
-Overfull \hbox (124.89532pt too wide) in paragraph at lines 35--46
+Overfull \hbox (124.89532pt too wide) in paragraph at lines 35--70
 \T1/cmr/m/n/10 lec-ted dur-ing our jour-neys, feel free to write to \T1/cmr/m/i
 t/10 youthagainstantisemitismeurope[]gmail.com\T1/cmr/m/n/10 .
  []
@@ -1972,67 +2018,246 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [249])
 [250]
-
-LaTeX Warning: Empty bibliography on input line 67.
-
-(main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
-(Interviews/gienia.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
-(Interviews/liberov.aux) (Interviews/wezel.aux) (Interviews/runce.aux)
-(Interviews/lensky.aux) (Interviews/krelins.aux) (Interviews/polizei.aux)
-(Interviews/huber.aux) (Interviews/czupryna.aux) (Interviews/setkiewicz.aux)
-(Interviews/bilewicz.aux) (Interviews/ruszkowska.aux) (Interviews/stoll.aux)
-(Interviews/klimowicz.aux) (Interviews/trier.aux))
-
-LaTeX Warning: There were undefined references.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 91.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (0.42404pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/it/10 Anti-Defamation League Global 100 Sur-vey\T1/cmr/m/n/10 . \T1
+/cmr/m/sc/10 url\T1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https :
+ []
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Overfull \hbox (8.06963pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Heiko Beyer. ``The-orien der An-ti-semit-is-mus-forschung: Ein
+e
+ []
 
+
+Overfull \hbox (29.27956pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/n/10 com-pens-a-tion pro-posed''. In: \T1/cmr/m/it/10 Baltic News Net
+-work \T1/cmr/m/n/10 (12.06.2019).
+ []
+
+[251
+
+
+]
+Overfull \hbox (4.46774pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Antra Gabre. ``Her-berta Cukura izgl	abt	as ebreji-etes meita
+ []
+
+
+Overfull \hbox (5.8548pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 R	ta Av	ze \T1/cmr/m/n/10 (23.05.2019). \T1/cmr/m/sc/10 url\T
+1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https : / / nra . lv / latvija /
+ []
+
+
+Overfull \hbox (0.61543pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 meita -[] mates -[] dzimtene -[] pateicas -[] glabeja -[] gimen
+ei .
+ []
+
+
+Overfull \hbox (21.96162pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Irena Grudzinska-Gross. ``The Back-slid-ing''. In: \T1/cmr/m/i
+t/10 East European
+ []
+
+
+Overfull \hbox (11.47365pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Thomas Haury. \T1/cmr/m/it/10 An-ti-semit-is-mus von links: Ko
+m-mun-istische
+ []
+
+
+Overfull \hbox (3.29471pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 Ideo-lo-gie, Na-tion-al-is-mus und An-t-i-z-ion-is-mus in der f
+r�hen
+ []
+
+
+Overfull \hbox (17.08302pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
+	bu
+ []
+
+
+Overfull \hbox (9.11287pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 https : / / www . lsm . lv / raksts / zinas / latvija / izbeidz
+ -[]
+ []
+
+
+Overfull \hbox (33.10774pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 lietu -[] pret -[] herbertu -[] cukuru -[] par -[] iespejamo -[
+] lidzdalibu -[]
+ []
+
+
+Overfull \hbox (5.98105pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 Kritik kul-tureller Phant-as-men\T1/cmr/m/n/10 . Frank-furt a.M
+.: Suhrkamp,
+ []
+
+
+Overfull \hbox (7.14671pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Harry C. Mer-ritt. \T1/cmr/m/it/10 In the Fight, yet on the Ma
+r-gins: Latvian
+ []
+
+
+Overfull \hbox (9.64125pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 on -[] the -[] margins -[] latvian -[] jewish -[] red -[] army 
+-[] soldiers$\T1/cmr/m/n/10 . 
+ []
+
+[252]
+Overfull \hbox (5.73132pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens lidot	ajs un/vai
+
+ []
+
+
+Overfull \hbox (30.22964pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/n/10 kara noziedznieks?'' In: \T1/cmr/m/it/10 LA.lv Zi[]u port	als La
+tvi-jai \T1/cmr/m/n/10 (27.01.2019).
+ []
+
+
+Overfull \hbox (14.38997pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 cukurs -[] slavens -[] lidotajs -[] un -[] vai -[] kara -[] noz
+iedznieks$\T1/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (8.08522pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/n/10 kopi-enai -- �	br	�a labest	bas uzpl	udi vai iepriek� apr	e[]
+in	ats
+ []
+
+
+Overfull \hbox (19.6103pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 de / DE / themen / sicherheit / kriminalitaetsbekaempfung -[]
+ []
+
+
+Overfull \hbox (41.60518pt too wide) in paragraph at lines 92--92
+\T1/cmtt/m/n/10 und -[] gefahrenabwehr / politisch -[] motivierte -[] kriminali
+taet /
+ []
+
+[253]
+Overfull \hbox (18.36555pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/n/10 com-munity re-trac-ted''. In: \T1/cmr/m/it/10 Baltic News Net-wo
+rk \T1/cmr/m/n/10 (21.06.2019).
+ []
+
+
+Overfull \hbox (5.80879pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Katrin Reichelt. \T1/cmr/m/it/10 Lettland unter deutscher Be-s
+atzung 1941-
+ []
+
+
+Overfull \hbox (3.34229pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 1944: der let-tische Anteil am Holo-caust\T1/cmr/m/n/10 . Ber-l
+in: Metropol-
+ []
+
+
+Overfull \hbox (0.89247pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 sion, Directorate-General for Justice and Con-sumers and
+ []
+
+
+Overfull \hbox (4.70934pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Aivars Stranga. ``The Holo-caust in Oc-cu-pied Latvia: 1941-
+ []
+
+
+Overfull \hbox (2.5932pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Joanna Tokarska-Bakir. ``Cries of the Mob in the Pogroms
+ []
+
+
+Overfull \hbox (1.0916pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 Schief-heilun-gen: Zeit-gen�ss-is-che Be-trach-tun-gen �ber An-
+
+ []
+
+[254]
+Overfull \hbox (28.3478pt too wide) in paragraph at lines 92--92
+\T1/cmr/m/it/10 Au-farbei-tung nach der Diktatur\T1/cmr/m/n/10 . Ber-lin: Ber-l
+iner Wissenschafts-
+ []
+
+
+Overfull \hbox (15.12125pt too wide) in paragraph at lines 92--92
+[]\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Po-land, Yes-ter-day and Today.'
+'
+ []
+
+
+AED: lastpage setting LastPage
+[255] [256
+
+] (main.aux (introduction.aux) (Interviews/poldek.aux)
+(Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
+(Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
+(Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
+(Interviews/polizei.aux) (Interviews/huber.aux) (Interviews/czupryna.aux)
+(Interviews/setkiewicz.aux) (Interviews/bilewicz.aux)
+(Interviews/ruszkowska.aux) (Interviews/stoll.aux) (Interviews/klimowicz.aux)
+(Interviews/trier.aux))
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10970 strings out of 492450
- 192719 string characters out of 3119537
- 793542 words of memory out of 3000000
- 15042 multiletter control sequences out of 15000+200000
- 26234 words of font info for 51 fonts, out of 3000000 for 9000
+ 10871 strings out of 492895
+ 188168 string characters out of 3133449
+ 761965 words of memory out of 3000000
+ 14487 multiletter control sequences out of 15000+200000
+ 26547 words of font info for 52 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 39i,18n,45p,5829b,3466s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecbx0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecti0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecbx0700.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\f
-onts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\Rafael\AppData\Local\MiK
-TeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Rafael\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Rafael
-\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\U
-sers\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx100
-0.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecti1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecti0800.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.
-9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Rafael\AppData\Loca
-l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Rafael\A
-ppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Use
-rs\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.
-pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm0500.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecrm1000.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/lj
-four/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Rafael\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Rafael\AppData\Local\
-MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Rafael\App
-Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users
-\Rafael\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk
-><C:/Users/Rafael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/Rafael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/eurosym/feymr10.pfb>
-Output written on main.pdf (250 pages, 870737 bytes).
+ 41i,18n,45p,5829b,3460s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
+c/dpi600\ectt1000.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Rafael Schütz\AppData\Local
+\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0500.pk> <C:\Users\Rafael Sc
+hütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0500.pk> 
+<C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx0700.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/l
+jfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Rafael Schütz\A
+ppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users
+\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+i1000.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecbx1000.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Rafael Schütz\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\Ra
+fael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm08
+00.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm0600.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Rafael Schütz\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Rafae
+l Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.
+pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
+ec/dpi600\ecrm0500.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Rafael Schütz\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Rafael S
+chütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+ <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecti1440.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Rafael Schütz\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/eurosym/feymr10.pfb>
+Output written on main.pdf (256 pages, 907276 bytes).
 PDF statistics:
- 1727 PDF objects out of 1728 (max. 8388607)
+ 1829 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
