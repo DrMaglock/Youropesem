@@ -45,14 +45,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Dr Piotr Setkiewicz}{160}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{172}% 
+\contentsline {section}{Dr hab. Micha\IeC {\l } Bilewicz, Prof. UW}{171}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr Sonia Ruszkowska}{190}% 
+\contentsline {section}{Dr Sonia Ruszkowska}{189}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dr. Katrin Stoll}{200}% 
+\contentsline {section}{Dr. Katrin Stoll}{199}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Teresa Klimowicz}{220}% 
+\contentsline {section}{Teresa Klimowicz}{219}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{230}% 
+\contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{229}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
