@@ -1,12 +1,14 @@
 \documentclass{book}
 \usepackage{geometry}
 \geometry{papersize={135mm,215mm}}
+\usepackage{refcount,lastpage}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[gen]{eurosym}
 \usepackage{biblatex}
 \usepackage[ngerman, russian, polish, british]{babel}
 \usepackage{xcolor}
+\usepackage{blindtext}
 \addbibresource{./bibliography.bib} 
 \title{``When the refugees are gone, they'll come after us''\\ Experiences with Anti-Semitism in Central Europe after 1945}
 \author{The Youth of Europe against Anti-Semitism}
@@ -23,6 +25,29 @@
 \fancyfoot[RO]{\thepage}
 \fancyfoot[LE]{\thepage}
 %\DeclareUnicodeCharacter{202F}{FIX ME!!}
+
+% number of pages has to be multiple of four for print version
+% command from https://tex.stackexchange.com/questions/83488/how-to-ensure-document-total-page-numbers-is-a-multiple-of-four
+
+\makeatletter
+\newcommand{\checkmultipleoffour}{%
+	\count@=\getpagerefnumber{LastPage}%
+	\@tempcnta=\count@
+	\divide\@tempcnta by 4
+	\multiply\@tempcnta by 4
+	\count@=\numexpr\count@-\@tempcnta\relax
+	\ifnum\count@>0
+	\pagestyle{empty}
+	\loop\ifnum\count@<4
+	\null\clearpage
+	\advance\count@\@ne
+	\repeat
+	\fi
+}
+\makeatother
+
+\AtEndDocument{\checkmultipleoffour}
+
 \begin{document}
 	\setlength{\parindent}{0pt}
 	\setlength{\parskip}{1em}
@@ -63,6 +88,8 @@
 \include{./Interviews/stoll}
 \include{./Interviews/klimowicz}
 \include{./Interviews/trier}
+\include{./Interviews/linyal}
+
 \nocite{*}
 \printbibliography
 \end{document}
