@@ -60,3 +60,7 @@
 \contentsline {section}{Emilia, Esther, Gennadiy, Margaretha, and Sophia}{238}% 
 \babel@toc {ngerman}{}
 \babel@toc {british}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Miriam Linyal}{242}%
+\babel@toc {polish}{}
+\babel@toc {british}{}
