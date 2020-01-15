@@ -1,9 +1,4 @@
- HEAD
-HEAD
-
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.25)  27 DEC 2019 16:06
- 19eddeb669ef57d5f0808e6121194999fa49517d
- 19eddeb669ef57d5f0808e6121194999fa49517d
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  15 JAN 2020 11:11
 entering extended mode
 **./main.tex
 (main.tex
@@ -759,23 +754,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-(main.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'EuropeanCommissionagainstRacismandIntolerance.0
-5.03.2019':
-(biblatex)                - Entry 'EuropeanCommissionagainstRacismandIntoleranc
-e.05.03.2019' (./bibliography.bib): Invalid format '05.03.2019' of date field '
-date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'SupremeCourtofTheRepublicofLatvia.22.10.2018':
-(biblatex)                - Entry 'SupremeCourtofTheRepublicofLatvia.22.10.2018
-' (./bibliography.bib): Invalid format '22.10.2018' of date field 'date' - igno
-ring.
-
-)
+(main.bbl)
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
@@ -794,7 +773,8 @@ Package biblatex Info: Reference segment=0 on input line 51.
 ) [1
 
 
-{C:/Users/Rafael Schütz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/Users/Dr. Maglock/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2
 
 ] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1887,20 +1867,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [241]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- HEAD
- HEAD
  [242]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [243])
 [244]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 67.
-
-]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 93.
- 19eddeb669ef57d5f0808e6121194999fa49517d
-
- 19eddeb669ef57d5f0808e6121194999fa49517d
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1918,28 +1890,21 @@ e
 [245
 
 
-HEAD
- HEAD
 ]
-Overfull \hbox (29.27956pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
- 19eddeb669ef57d5f0808e6121194999fa49517d
+Overfull \hbox (19.42085pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/n/10 com-pens-a-tion pro-posed''. In: \T1/cmr/m/it/10 Baltic News Net
--work \T1/cmr/m/n/10 (12.06.2019).
+-work \T1/cmr/m/n/10 (12th June
  []
-HEAD
- HEAD
 
-Overfull \hbox (4.46774pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
- 19eddeb669ef57d5f0808e6121194999fa49517d
+
+Overfull \hbox (4.46774pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Antra Gabre. ``Her-berta Cukura izgl	abt	as ebreji-etes meita
  []
 
 
-Overfull \hbox (5.8548pt too wide) in paragraph at lines 94--94
-\T1/cmr/m/it/10 R	ta Av	ze \T1/cmr/m/n/10 (23.05.2019). \T1/cmr/m/sc/10 url\T
-1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https : / / nra . lv / latvija /
+Overfull \hbox (32.10774pt too wide) in paragraph at lines 94--94
+\T1/cmtt/m/n/10 latvija / 281542 -[] herberta -[] cukura -[] izglabtas -[] ebre
+jietes -[]
  []
 
 
@@ -1973,15 +1938,9 @@ Overfull \hbox (17.08302pt too wide) in paragraph at lines 94--94
  []
 
 
-Overfull \hbox (9.11287pt too wide) in paragraph at lines 94--94
-\T1/cmtt/m/n/10 https : / / www . lsm . lv / raksts / zinas / latvija / izbeidz
- -[]
- []
-
-
-Overfull \hbox (33.10774pt too wide) in paragraph at lines 94--94
-\T1/cmtt/m/n/10 lietu -[] pret -[] herbertu -[] cukuru -[] par -[] iespejamo -[
-] lidzdalibu -[]
+Overfull \hbox (17.36159pt too wide) in paragraph at lines 94--94
+\T1/cmtt/m/n/10 izbeidz -[] lietu -[] pret -[] herbertu -[] cukuru -[] par -[] 
+iespejamo -[]
  []
 
 
@@ -1990,55 +1949,28 @@ Overfull \hbox (5.98105pt too wide) in paragraph at lines 94--94
 .: Suhrkamp,
  []
 
-HEAD
-HEAD
 [246]
-Overfull \hbox (7.14671pt too wide) in paragraph at lines 68--68
-
- 19eddeb669ef57d5f0808e6121194999fa49517d
-
 Overfull \hbox (7.14671pt too wide) in paragraph at lines 94--94
-19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Harry C. Mer-ritt. \T1/cmr/m/it/10 In the Fight, yet on the Ma
 r-gins: Latvian
  []
 
-HEAD
- HEAD
-Overfull \hbox (6.86415pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
- 19eddeb669ef57d5f0808e6121194999fa49517d
+
+Overfull \hbox (6.86415pt too wide) in paragraph at lines 94--94
 \T1/cmtt/m/n/10 on -[] the -[] margins -[] latvian -[] jewish -[] red -[] army 
 -[] soldiers$
  []
 
-HEAD
-HEAD
 
-Overfull \hbox (5.73132pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
-
-19eddeb669ef57d5f0808e6121194999fa49517d
+Overfull \hbox (5.73132pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens lidot	ajs un/vai
 
  []
 
 
-Overfull \hbox (30.22964pt too wide) in paragraph at lines 94--94
+Overfull \hbox (18.14926pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/n/10 kara noziedznieks?'' In: \T1/cmr/m/it/10 LA.lv Zi[]u port	als La
-tvi-jai \T1/cmr/m/n/10 (27.01.2019).
- []
-
-
-HEAD
-HEAD
-Overfull \hbox (11.61287pt too wide) in paragraph at lines 68--68
-19eddeb669ef57d5f0808e6121194999fa49517d
-=======
-Overfull \hbox (14.38997pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
-\T1/cmtt/m/n/10 cukurs -[] slavens -[] lidotajs -[] un -[] vai -[] kara -[] noz
-iedznieks$
+tvi-jai \T1/cmr/m/n/10 (27th Jan.
  []
 
 
@@ -2047,12 +1979,14 @@ Overfull \hbox (8.08522pt too wide) in paragraph at lines 94--94
 in	ats
  []
 
-<<<<<<< HEAD
- HEAD
+
+Overfull \hbox (29.60774pt too wide) in paragraph at lines 94--94
+\T1/cmtt/m/n/10 _sibriza _ labestibas _ uzpludi _ vai _ ieprieks _ aprekinats _
+
+ []
+
 [247]
-Overfull \hbox (19.6103pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
-19eddeb669ef57d5f0808e6121194999fa49517d
+Overfull \hbox (19.6103pt too wide) in paragraph at lines 94--94
 \T1/cmtt/m/n/10 de / DE / themen / sicherheit / kriminalitaetsbekaempfung -[]
  []
 
@@ -2062,15 +1996,16 @@ Overfull \hbox (41.60518pt too wide) in paragraph at lines 94--94
 taet /
  []
 
-HEAD
-HEAD
 
-Overfull \hbox (18.36555pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
-
-19eddeb669ef57d5f0808e6121194999fa49517d
+Overfull \hbox (6.89613pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/n/10 com-munity re-trac-ted''. In: \T1/cmr/m/it/10 Baltic News Net-wo
-rk \T1/cmr/m/n/10 (21.06.2019).
+rk \T1/cmr/m/n/10 (21st June
+ []
+
+
+Overfull \hbox (12.11287pt too wide) in paragraph at lines 94--94
+\T1/cmtt/m/n/10 40 -[] mln -[] compensation -[] to -[] latvian -[] jewish -[] c
+ommunity -[]
  []
 
 
@@ -2100,22 +2035,14 @@ Overfull \hbox (2.5932pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Joanna Tokarska-Bakir. ``Cries of the Mob in the Pogroms
  []
 
- HEAD
- HEAD
 [248]
-Overfull \hbox (1.0916pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
-19eddeb669ef57d5f0808e6121194999fa49517d
+Overfull \hbox (1.0916pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 Schief-heilun-gen: Zeit-gen�ss-is-che Be-trach-tun-gen �ber An-
 
  []
 
- HEAD
-HEAD
 
-Overfull \hbox (28.3478pt too wide) in paragraph at lines 68--68
- 19eddeb669ef57d5f0808e6121194999fa49517d
- 19eddeb669ef57d5f0808e6121194999fa49517d
+Overfull \hbox (28.3478pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 Au-farbei-tung nach der Diktatur\T1/cmr/m/n/10 . Ber-lin: Ber-l
 iner Wissenschafts-
  []
@@ -2126,18 +2053,15 @@ Overfull \hbox (15.12125pt too wide) in paragraph at lines 94--94
 '
  []
 
-HEAD
-<<<<<<<[249] (main.aux (introduction.aux) (Interviews/poldek.aux)
- 19eddeb669ef57d5f0808e6121194999fa49517d
 
 AED: lastpage setting LastPage
-[247] [248
+[249] [250
+
+] [251
+
+] [252
 
 ] (main.aux (introduction.aux) (Interviews/poldek.aux)
- HEAD
- 19eddeb669ef57d5f0808e6121194999fa49517d
-
- 19eddeb669ef57d5f0808e6121194999fa49517d
 (Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
 (Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
@@ -2151,14 +2075,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  11033 strings out of 492895
- 190861 string characters out of 3133449
+ 190660 string characters out of 3133460
  778692 words of memory out of 3000000
  14644 multiletter control sequences out of 15000+200000
  24059 words of font info for 49 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- HEAD
- HEAD
- 40i,18n,45p,5819b,3412s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,18n,45p,5819b,3428s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
 pi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
 ur/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2
@@ -2187,45 +2109,9 @@ Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users
 ec/dpi600\eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.p
 fb>
-Output written on main.pdf (249 pages, 837764 bytes).
+Output written on main.pdf (252 pages, 838833 bytes).
 PDF statistics:
- 1629 PDF objects out of 1728 (max. 8388607)
- 19eddeb669ef57d5f0808e6121194999fa49517d
- 41i,18n,45p,5829b,3428s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
-c/dpi600\ectt1000.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Rafael Schütz\AppData\Local
-\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0500.pk> <C:\Users\Rafael Sc
-hütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0500.pk> 
-<C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecbx0700.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/l
-jfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Rafael Schütz\AppData\Local\Mi
-KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Rafael Schü
-tz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:
-\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecti0800.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTe
-X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Rafael Schütz\
-AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Us
-ers\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecbx1200.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Rafael Schütz\App
-Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users
-\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
-x2488.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecrm1200.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Rafael Schütz\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Ra
-fael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc17
-28.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on main.pdf (248 pages, 830267 bytes).
-PDF statistics:
- 1623 PDF objects out of 1728 (max. 8388607)
- HEAD
-19eddeb669ef57d5f0808e6121194999fa49517d
- 19eddeb669ef57d5f0808e6121194999fa49517d
+ 1638 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
