@@ -1,8 +1,9 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  14 JAN 2020 20:17
-=======
+ HEAD
+HEAD
+
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.25)  27 DEC 2019 16:06
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 entering extended mode
 **./main.tex
 (main.tex
@@ -1886,17 +1887,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [241]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<<<<<<< HEAD
+ HEAD
+ HEAD
  [242]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [243])
 [244]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 67.
-=======
+
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 93.
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+
+ 19eddeb669ef57d5f0808e6121194999fa49517d
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1914,23 +1918,21 @@ e
 [245
 
 
-<<<<<<< HEAD
+HEAD
+ HEAD
 ]
 Overfull \hbox (29.27956pt too wide) in paragraph at lines 68--68
-=======
-Overfull \hbox (29.27956pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/n/10 com-pens-a-tion pro-posed''. In: \T1/cmr/m/it/10 Baltic News Net
 -work \T1/cmr/m/n/10 (12.06.2019).
  []
-
-<<<<<<< HEAD
+HEAD
+ HEAD
 
 Overfull \hbox (4.46774pt too wide) in paragraph at lines 68--68
-=======
-[243]
-Overfull \hbox (4.46774pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Antra Gabre. ``Her-berta Cukura izgl	abt	as ebreji-etes meita
  []
 
@@ -1988,34 +1990,35 @@ Overfull \hbox (5.98105pt too wide) in paragraph at lines 94--94
 .: Suhrkamp,
  []
 
-<<<<<<< HEAD
+HEAD
+HEAD
 [246]
 Overfull \hbox (7.14671pt too wide) in paragraph at lines 68--68
-=======
+
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 
 Overfull \hbox (7.14671pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Harry C. Mer-ritt. \T1/cmr/m/it/10 In the Fight, yet on the Ma
 r-gins: Latvian
  []
 
-
-<<<<<<< HEAD
+HEAD
+ HEAD
 Overfull \hbox (6.86415pt too wide) in paragraph at lines 68--68
-=======
-Overfull \hbox (9.64125pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmtt/m/n/10 on -[] the -[] margins -[] latvian -[] jewish -[] red -[] army 
 -[] soldiers$
  []
 
-<<<<<<< HEAD
+HEAD
+HEAD
 
 Overfull \hbox (5.73132pt too wide) in paragraph at lines 68--68
-=======
-[244]
-Overfull \hbox (5.73132pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+
+19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens lidot	ajs un/vai
 
  []
@@ -2027,8 +2030,10 @@ tvi-jai \T1/cmr/m/n/10 (27.01.2019).
  []
 
 
-<<<<<<< HEAD
+HEAD
+HEAD
 Overfull \hbox (11.61287pt too wide) in paragraph at lines 68--68
+19eddeb669ef57d5f0808e6121194999fa49517d
 =======
 Overfull \hbox (14.38997pt too wide) in paragraph at lines 94--94
 >>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
@@ -2043,12 +2048,11 @@ in	ats
  []
 
 <<<<<<< HEAD
+ HEAD
 [247]
 Overfull \hbox (19.6103pt too wide) in paragraph at lines 68--68
-=======
-
-Overfull \hbox (19.6103pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmtt/m/n/10 de / DE / themen / sicherheit / kriminalitaetsbekaempfung -[]
  []
 
@@ -2058,13 +2062,13 @@ Overfull \hbox (41.60518pt too wide) in paragraph at lines 94--94
 taet /
  []
 
-<<<<<<< HEAD
+HEAD
+HEAD
 
 Overfull \hbox (18.36555pt too wide) in paragraph at lines 68--68
-=======
-[245]
-Overfull \hbox (18.36555pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+
+19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/n/10 com-munity re-trac-ted''. In: \T1/cmr/m/it/10 Baltic News Net-wo
 rk \T1/cmr/m/n/10 (21.06.2019).
  []
@@ -2096,24 +2100,22 @@ Overfull \hbox (2.5932pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Joanna Tokarska-Bakir. ``Cries of the Mob in the Pogroms
  []
 
-<<<<<<< HEAD
+ HEAD
+ HEAD
 [248]
 Overfull \hbox (1.0916pt too wide) in paragraph at lines 68--68
-=======
-
-Overfull \hbox (1.0916pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/it/10 Schief-heilun-gen: Zeit-genöss-is-che Be-trach-tun-gen über An-
 
  []
 
-<<<<<<< HEAD
+ HEAD
+HEAD
 
 Overfull \hbox (28.3478pt too wide) in paragraph at lines 68--68
-=======
-[246]
-Overfull \hbox (28.3478pt too wide) in paragraph at lines 94--94
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/it/10 Au-farbei-tung nach der Diktatur\T1/cmr/m/n/10 . Ber-lin: Ber-l
 iner Wissenschafts-
  []
@@ -2124,15 +2126,18 @@ Overfull \hbox (15.12125pt too wide) in paragraph at lines 94--94
 '
  []
 
-<<<<<<< HEAD
-[249] (main.aux (introduction.aux) (Interviews/poldek.aux)
-=======
+HEAD
+<<<<<<<[249] (main.aux (introduction.aux) (Interviews/poldek.aux)
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 
 AED: lastpage setting LastPage
 [247] [248
 
 ] (main.aux (introduction.aux) (Interviews/poldek.aux)
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ HEAD
+ 19eddeb669ef57d5f0808e6121194999fa49517d
+
+ 19eddeb669ef57d5f0808e6121194999fa49517d
 (Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
 (Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
@@ -2151,7 +2156,8 @@ Here is how much of TeX's memory you used:
  14644 multiletter control sequences out of 15000+200000
  24059 words of font info for 49 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
-<<<<<<< HEAD
+ HEAD
+ HEAD
  40i,18n,45p,5819b,3412s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
 pi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
@@ -2184,7 +2190,7 @@ fb>
 Output written on main.pdf (249 pages, 837764 bytes).
 PDF statistics:
  1629 PDF objects out of 1728 (max. 8388607)
-=======
+ 19eddeb669ef57d5f0808e6121194999fa49517d
  41i,18n,45p,5829b,3428s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Rafael SchÃ¼tz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
 c/dpi600\ectt1000.pk> <C:\Users\Rafael SchÃ¼tz\AppData\Local\MiKTeX\2.9\fonts/p
@@ -2217,7 +2223,9 @@ fael SchÃ¼tz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc17
 Output written on main.pdf (248 pages, 830267 bytes).
 PDF statistics:
  1623 PDF objects out of 1728 (max. 8388607)
->>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
+ HEAD
+19eddeb669ef57d5f0808e6121194999fa49517d
+ 19eddeb669ef57d5f0808e6121194999fa49517d
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
