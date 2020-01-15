@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.6)  14 JAN 2020 20:17
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.25)  27 DEC 2019 16:06
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 entering extended mode
 **./main.tex
 (main.tex
@@ -52,6 +56,18 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks15
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/lastpage\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks16
@@ -75,15 +91,9 @@ Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -590,6 +600,31 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count283
+\c@Blindtext=\count284
+\c@blind@countparstart=\count285
+\blind@countxx=\count286
+\blindtext@numBlindtext=\count287
+\blind@countyy=\count288
+\c@blindlist=\count289
+\c@blindlistlevel=\count290
+\c@blindlist@level=\count291
+\blind@listitem=\count292
+\c@blind@listcount=\count293
+\c@blind@levelcount=\count294
+\blind@mathformula=\count295
+\blind@Mathformula=\count296
+\c@blind@randomcount=\count297
+\c@blind@randommax=\count298
+\c@blind@pangramcount=\count299
+\c@blind@pangrammax=\count300
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
@@ -647,8 +682,8 @@ File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count283
-\@quotereset=\count284
+\@quotelevel=\count301
+\@quotereset=\count302
 (main.aux (introduction.aux) (Interviews/poldek.aux) (Interviews/jakub.aux)
 (Interviews/gienia.aux) (Interviews/geballe.aux) (Interviews/bogojavlenska.aux)
 (Interviews/liberov.aux) (Interviews/wezel.aux) (Interviews/runce.aux)
@@ -658,25 +693,25 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (Interviews/klimowicz.aux) (Interviews/trier.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 51.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    ... okay on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -685,15 +720,16 @@ LaTeX Font Info:    ... okay on input line 26.
 * paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 3:2
 * modes: twoside 
-* h-part:(L,W,R)=(46.09393pt, 268.87737pt, 69.1409pt)
+* h-part:(L,W,R)=(69.1409pt, 268.87737pt, 46.09393pt)
 * v-part:(T,H,B)=(73.40884pt, 428.2121pt, 110.1133pt)
 * \paperwidth=384.1122pt
 * \paperheight=611.73424pt
 * \textwidth=268.87737pt
 * \textheight=428.2121pt
-* \oddsidemargin=-26.17606pt
-* \evensidemargin=-3.12909pt
+* \oddsidemargin=-3.12909pt
+* \evensidemargin=-26.17606pt
 * \topmargin=-28.92863pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
@@ -712,6 +748,9 @@ LaTeX Font Info:    ... okay on input line 26.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 51.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -736,26 +775,25 @@ Package biblatex Warning: Biber reported the following issues
 ring.
 
 )
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
+Package biblatex Info: Reference section=0 on input line 51.
+Package biblatex Info: Reference segment=0 on input line 51.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
+\scratchcounter=\count303
 \scratchdimen=\dimen116
 \scratchbox=\box28
-\nofMPsegments=\count286
-\nofMParguments=\count287
+\nofMPsegments=\count304
+\nofMParguments=\count305
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count288
+\MPscratchCnt=\count306
 \MPscratchDim=\dimen117
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks19
 ) [1
 
 
-{C:/Users/Dr. Maglock/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2
+{C:/Users/Rafael Schütz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1848,22 +1886,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [241]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [242]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [243])
 [244]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 67.
+=======
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 93.
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (0.42404pt too wide) in paragraph at lines 68--68
+Overfull \hbox (0.42404pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/it/10 Anti-Defamation League Global 100 Sur-vey\T1/cmr/m/n/10 . \T1
 /cmr/m/sc/10 url\T1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https :
  []
 
 
-Overfull \hbox (8.06963pt too wide) in paragraph at lines 68--68
+Overfull \hbox (8.06963pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Heiko Beyer. ``The-orien der An-ti-semit-is-mus-forschung: Ein
 e
  []
@@ -1871,170 +1914,225 @@ e
 [245
 
 
+<<<<<<< HEAD
 ]
 Overfull \hbox (29.27956pt too wide) in paragraph at lines 68--68
+=======
+Overfull \hbox (29.27956pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/n/10 com-pens-a-tion pro-posed''. In: \T1/cmr/m/it/10 Baltic News Net
 -work \T1/cmr/m/n/10 (12.06.2019).
  []
 
+<<<<<<< HEAD
 
 Overfull \hbox (4.46774pt too wide) in paragraph at lines 68--68
+=======
+[243]
+Overfull \hbox (4.46774pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Antra Gabre. ``Her-berta Cukura izgl	abt	as ebreji-etes meita
  []
 
 
-Overfull \hbox (5.8548pt too wide) in paragraph at lines 68--68
+Overfull \hbox (5.8548pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 R	ta Av	ze \T1/cmr/m/n/10 (23.05.2019). \T1/cmr/m/sc/10 url\T
 1/cmr/m/n/10 : $\T1/cmtt/m/n/10 https : / / nra . lv / latvija /
  []
 
 
-Overfull \hbox (0.61543pt too wide) in paragraph at lines 68--68
+Overfull \hbox (0.61543pt too wide) in paragraph at lines 94--94
 \T1/cmtt/m/n/10 meita -[] mates -[] dzimtene -[] pateicas -[] glabeja -[] gimen
 ei .
  []
 
 
-Overfull \hbox (21.96162pt too wide) in paragraph at lines 68--68
+Overfull \hbox (21.96162pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Irena Grudzinska-Gross. ``The Back-slid-ing''. In: \T1/cmr/m/i
 t/10 East European
  []
 
 
-Overfull \hbox (11.47365pt too wide) in paragraph at lines 68--68
+Overfull \hbox (11.47365pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Thomas Haury. \T1/cmr/m/it/10 An-ti-semit-is-mus von links: Ko
 m-mun-istische
  []
 
 
-Overfull \hbox (3.29471pt too wide) in paragraph at lines 68--68
+Overfull \hbox (3.29471pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 Ideo-lo-gie, Na-tion-al-is-mus und An-t-i-z-ion-is-mus in der f
 r�hen
  []
 
 
-Overfull \hbox (17.08302pt too wide) in paragraph at lines 68--68
+Overfull \hbox (17.08302pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 ``Izbeidz li-etu pret Her-bertu Cukuru par iesp	ejamo l	dzdal
 	bu
  []
 
 
-Overfull \hbox (9.11287pt too wide) in paragraph at lines 68--68
+Overfull \hbox (9.11287pt too wide) in paragraph at lines 94--94
 \T1/cmtt/m/n/10 https : / / www . lsm . lv / raksts / zinas / latvija / izbeidz
  -[]
  []
 
 
-Overfull \hbox (33.10774pt too wide) in paragraph at lines 68--68
+Overfull \hbox (33.10774pt too wide) in paragraph at lines 94--94
 \T1/cmtt/m/n/10 lietu -[] pret -[] herbertu -[] cukuru -[] par -[] iespejamo -[
 ] lidzdalibu -[]
  []
 
 
-Overfull \hbox (5.98105pt too wide) in paragraph at lines 68--68
+Overfull \hbox (5.98105pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 Kritik kul-tureller Phant-as-men\T1/cmr/m/n/10 . Frank-furt a.M
 .: Suhrkamp,
  []
 
+<<<<<<< HEAD
 [246]
 Overfull \hbox (7.14671pt too wide) in paragraph at lines 68--68
+=======
+
+Overfull \hbox (7.14671pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Harry C. Mer-ritt. \T1/cmr/m/it/10 In the Fight, yet on the Ma
 r-gins: Latvian
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (6.86415pt too wide) in paragraph at lines 68--68
+=======
+Overfull \hbox (9.64125pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmtt/m/n/10 on -[] the -[] margins -[] latvian -[] jewish -[] red -[] army 
 -[] soldiers$
  []
 
+<<<<<<< HEAD
 
 Overfull \hbox (5.73132pt too wide) in paragraph at lines 68--68
+=======
+[244]
+Overfull \hbox (5.73132pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 []\T1/cmr/m/n/10 Uldis Neiburgs. ``Her-berts Cukurs -- slavens lidot	ajs un/vai
 
  []
 
 
-Overfull \hbox (30.22964pt too wide) in paragraph at lines 68--68
+Overfull \hbox (30.22964pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/n/10 kara noziedznieks?'' In: \T1/cmr/m/it/10 LA.lv Zi[]u port	als La
 tvi-jai \T1/cmr/m/n/10 (27.01.2019).
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (11.61287pt too wide) in paragraph at lines 68--68
+=======
+Overfull \hbox (14.38997pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmtt/m/n/10 cukurs -[] slavens -[] lidotajs -[] un -[] vai -[] kara -[] noz
 iedznieks$
  []
 
 
-Overfull \hbox (8.08522pt too wide) in paragraph at lines 68--68
+Overfull \hbox (8.08522pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/n/10 kopi-enai -- �	br	�a labest	bas uzpl	udi vai iepriek� apr	e[]
 in	ats
  []
 
+<<<<<<< HEAD
 [247]
 Overfull \hbox (19.6103pt too wide) in paragraph at lines 68--68
+=======
+
+Overfull \hbox (19.6103pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmtt/m/n/10 de / DE / themen / sicherheit / kriminalitaetsbekaempfung -[]
  []
 
 
-Overfull \hbox (41.60518pt too wide) in paragraph at lines 68--68
+Overfull \hbox (41.60518pt too wide) in paragraph at lines 94--94
 \T1/cmtt/m/n/10 und -[] gefahrenabwehr / politisch -[] motivierte -[] kriminali
 taet /
  []
 
+<<<<<<< HEAD
 
 Overfull \hbox (18.36555pt too wide) in paragraph at lines 68--68
+=======
+[245]
+Overfull \hbox (18.36555pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/n/10 com-munity re-trac-ted''. In: \T1/cmr/m/it/10 Baltic News Net-wo
 rk \T1/cmr/m/n/10 (21.06.2019).
  []
 
 
-Overfull \hbox (5.80879pt too wide) in paragraph at lines 68--68
+Overfull \hbox (5.80879pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Katrin Reichelt. \T1/cmr/m/it/10 Lettland unter deutscher Be-s
 atzung 1941-
  []
 
 
-Overfull \hbox (3.34229pt too wide) in paragraph at lines 68--68
+Overfull \hbox (3.34229pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 1944: der let-tische Anteil am Holo-caust\T1/cmr/m/n/10 . Ber-l
 in: Metropol-
  []
 
 
-Overfull \hbox (0.89247pt too wide) in paragraph at lines 68--68
+Overfull \hbox (0.89247pt too wide) in paragraph at lines 94--94
 \T1/cmr/m/it/10 sion, Directorate-General for Justice and Con-sumers and
  []
 
 
-Overfull \hbox (4.70934pt too wide) in paragraph at lines 68--68
+Overfull \hbox (4.70934pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Aivars Stranga. ``The Holo-caust in Oc-cu-pied Latvia: 1941-
  []
 
 
-Overfull \hbox (2.5932pt too wide) in paragraph at lines 68--68
+Overfull \hbox (2.5932pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Joanna Tokarska-Bakir. ``Cries of the Mob in the Pogroms
  []
 
+<<<<<<< HEAD
 [248]
 Overfull \hbox (1.0916pt too wide) in paragraph at lines 68--68
+=======
+
+Overfull \hbox (1.0916pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/it/10 Schief-heilun-gen: Zeit-gen�ss-is-che Be-trach-tun-gen �ber An-
 
  []
 
+<<<<<<< HEAD
 
 Overfull \hbox (28.3478pt too wide) in paragraph at lines 68--68
+=======
+[246]
+Overfull \hbox (28.3478pt too wide) in paragraph at lines 94--94
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 \T1/cmr/m/it/10 Au-farbei-tung nach der Diktatur\T1/cmr/m/n/10 . Ber-lin: Ber-l
 iner Wissenschafts-
  []
 
 
-Overfull \hbox (15.12125pt too wide) in paragraph at lines 68--68
+Overfull \hbox (15.12125pt too wide) in paragraph at lines 94--94
 []\T1/cmr/m/n/10 Piotr Zuk. ``Anti-Semitism in Po-land, Yes-ter-day and Today.'
 '
  []
 
+<<<<<<< HEAD
 [249] (main.aux (introduction.aux) (Interviews/poldek.aux)
+=======
+
+AED: lastpage setting LastPage
+[247] [248
+
+] (main.aux (introduction.aux) (Interviews/poldek.aux)
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
 (Interviews/jakub.aux) (Interviews/gienia.aux) (Interviews/geballe.aux)
 (Interviews/bogojavlenska.aux) (Interviews/liberov.aux) (Interviews/wezel.aux)
 (Interviews/runce.aux) (Interviews/lensky.aux) (Interviews/krelins.aux)
@@ -2047,12 +2145,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10786 strings out of 492895
- 186482 string characters out of 3133460
- 758317 words of memory out of 3000000
- 14412 multiletter control sequences out of 15000+200000
+ 11033 strings out of 492895
+ 190861 string characters out of 3133449
+ 778692 words of memory out of 3000000
+ 14644 multiletter control sequences out of 15000+200000
  24059 words of font info for 49 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
+<<<<<<< HEAD
  40i,18n,45p,5819b,3412s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
 pi600\ectt1000.pk> <C:\Users\Dr. Maglock\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
@@ -2085,6 +2184,40 @@ fb>
 Output written on main.pdf (249 pages, 837764 bytes).
 PDF statistics:
  1629 PDF objects out of 1728 (max. 8388607)
+=======
+ 41i,18n,45p,5829b,3428s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
+c/dpi600\ectt1000.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Rafael Schütz\AppData\Local
+\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0500.pk> <C:\Users\Rafael Sc
+hütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0500.pk> 
+<C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx0700.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Rafael Schütz\AppData\Local\Mi
+KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Rafael Schü
+tz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:
+\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecti0800.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Rafael Schütz\
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Us
+ers\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1200.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Rafael Schütz\App
+Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users
+\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+x2488.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecrm1200.pk> <C:\Users\Rafael Schütz\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Rafael Schütz\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Ra
+fael Schütz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc17
+28.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
+Output written on main.pdf (248 pages, 830267 bytes).
+PDF statistics:
+ 1623 PDF objects out of 1728 (max. 8388607)
+>>>>>>> 19eddeb669ef57d5f0808e6121194999fa49517d
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
