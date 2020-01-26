@@ -48,6 +48,14 @@
 
 \AtEndDocument{\checkmultipleoffour}
 
+% command for making blank page
+
+\newcommand{\blankpage}{
+\newpage\thispagestyle{empty}
+\mbox{}
+\newpage
+}
+
 \begin{document}
 	\setlength{\parindent}{0pt}
 	\setlength{\parskip}{1em}
@@ -91,4 +99,8 @@
 
 \nocite{*}
 \printbibliography
+
+\blankpage
+\blankpage
+
 \end{document}
